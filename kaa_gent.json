@@ -1,0 +1,3314 @@
+[
+    {
+        "nombre": "Hatem Abd Elhamed",
+        "pais": "Israel",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.03.1991"
+    },
+    {
+        "nombre": "Yassine Abdelali",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.07.1998"
+    },
+    {
+        "nombre": "Ahmed Abdullahi",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.06.2004"
+    },
+    {
+        "nombre": "Ekpoki Abdulrazak",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.10.1982"
+    },
+    {
+        "nombre": "Madjid Adjaoud",
+        "pais": "Argelia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.08.1971"
+    },
+    {
+        "nombre": "Adriano Duarte",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.01.1980"
+    },
+    {
+        "nombre": "Brian Agbor",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.06.2001"
+    },
+    {
+        "nombre": "Reda Akbib",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.01.2001"
+    },
+    {
+        "nombre": "Mohammed Aliyu Datti",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.03.1982"
+    },
+    {
+        "nombre": "Franko Andrijašević",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.06.1991"
+    },
+    {
+        "nombre": "Darko Anić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.03.1974"
+    },
+    {
+        "nombre": "Peter Anosike",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.12.1976"
+    },
+    {
+        "nombre": "Shlomi Arbeitman",
+        "pais": "Israel",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.05.1985"
+    },
+    {
+        "nombre": "Anderson Arroyo",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.09.1999"
+    },
+    {
+        "nombre": "Dino Arslanagić",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.04.1993"
+    },
+    {
+        "nombre": "Ole Martin Årst",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.07.1974"
+    },
+    {
+        "nombre": "Arzo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.01.1986"
+    },
+    {
+        "nombre": "Nana Asare",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.07.1986"
+    },
+    {
+        "nombre": "Segun Atere",
+        "pais": "Nigeria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.11.1985"
+    },
+    {
+        "nombre": "Patrick Aussems",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.02.1965"
+    },
+    {
+        "nombre": "Frederique Autekie",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.04.1985"
+    },
+    {
+        "nombre": "Taiwo Awoniyi",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.08.1997"
+    },
+    {
+        "nombre": "Philip Azango",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.05.1997"
+    },
+    {
+        "nombre": "Randall Azofeifa",
+        "pais": "Costa Rica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.12.1984"
+    },
+    {
+        "nombre": "Alpha Bâ",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.05.1989"
+    },
+    {
+        "nombre": "Franck Bahi",
+        "pais": "Guinea",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.12.1999"
+    },
+    {
+        "nombre": "Henri Balenga",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.12.1966"
+    },
+    {
+        "nombre": "Mario Barić",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.04.1985"
+    },
+    {
+        "nombre": "Mohammed Barka",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.05.1971"
+    },
+    {
+        "nombre": "Vakoun Bayo",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1997"
+    },
+    {
+        "nombre": "Jean Beausejour",
+        "pais": "Chile",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.06.1984"
+    },
+    {
+        "nombre": "Karim Belhocine",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.04.1978"
+    },
+    {
+        "nombre": "Nicky Beloko",
+        "pais": "Suiza",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.02.2000"
+    },
+    {
+        "nombre": "Safrien Ben Sassi",
+        "pais": "Túnez",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.08.1973"
+    },
+    {
+        "nombre": "Filip Benoot",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1957"
+    },
+    {
+        "nombre": "Erik Berg",
+        "pais": "Suecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.12.1988"
+    },
+    {
+        "nombre": "Giorgi Beridze",
+        "pais": "Georgia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.05.1997"
+    },
+    {
+        "nombre": "Dries Bernaert",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.08.1984"
+    },
+    {
+        "nombre": "Roman Bezus",
+        "pais": "Ucrania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.09.1990"
+    },
+    {
+        "nombre": "Darko Bjedov",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.03.1989"
+    },
+    {
+        "nombre": "Frank Boeckx",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.09.1986"
+    },
+    {
+        "nombre": "Remco Boere",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.10.1961"
+    },
+    {
+        "nombre": "Tom Boere",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.11.1992"
+    },
+    {
+        "nombre": "Sinan Bolat",
+        "pais": "Turquía",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.09.1988"
+    },
+    {
+        "nombre": "Foeke Booy",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.04.1962"
+    },
+    {
+        "nombre": "Vital Borkelmans",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.06.1963"
+    },
+    {
+        "nombre": "Ronny Borloo",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.06.1961"
+    },
+    {
+        "nombre": "Frank Bosmans",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.10.1967"
+    },
+    {
+        "nombre": "Jordan Botaka",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.06.1993"
+    },
+    {
+        "nombre": "Moubarak Boussoufa",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.08.1984"
+    },
+    {
+        "nombre": "Jean-Claude Bouvy",
+        "pais": "Congo",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.05.1959"
+    },
+    {
+        "nombre": "Boudewijn Braem",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.10.1950"
+    },
+    {
+        "nombre": "Jérôme Brocard",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.10.1974"
+    },
+    {
+        "nombre": "Dylan Bronn",
+        "pais": "Túnez",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.06.1995"
+    },
+    {
+        "nombre": "Helmut Brösch",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.06.1949"
+    },
+    {
+        "nombre": "Christian Brüls",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.09.1988"
+    },
+    {
+        "nombre": "Gianni Bruno",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.08.1991"
+    },
+    {
+        "nombre": "Sébastien Bruzzese",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.03.1989"
+    },
+    {
+        "nombre": "Osman Bukari",
+        "pais": "Ghana",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.12.1998"
+    },
+    {
+        "nombre": "Fabio Burgio",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.07.1981"
+    },
+    {
+        "nombre": "Andreas Burssens",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1999"
+    },
+    {
+        "nombre": "Søren Busk",
+        "pais": "Dinamarca",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.04.1953"
+    },
+    {
+        "nombre": "Ludovic Buysens",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.03.1986"
+    },
+    {
+        "nombre": "Philippe Buyssens",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.02.1985"
+    },
+    {
+        "nombre": "Jinty Caenepeel",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.07.1996"
+    },
+    {
+        "nombre": "Thomas Caers",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.01.1973"
+    },
+    {
+        "nombre": "Igor Čalo",
+        "pais": "Croacia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.05.1968"
+    },
+    {
+        "nombre": "Jairo Campos",
+        "pais": "Ecuador",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.07.1984"
+    },
+    {
+        "nombre": "Daniel Camus",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.10.1971"
+    },
+    {
+        "nombre": "Cédric Carrez",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.02.1974"
+    },
+    {
+        "nombre": "Koen Casteels",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.06.1992"
+    },
+    {
+        "nombre": "Alessio Castro-Montes",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.05.1997"
+    },
+    {
+        "nombre": "Jürgen Cavens",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.08.1978"
+    },
+    {
+        "nombre": "Armin Ćerimagić",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1994"
+    },
+    {
+        "nombre": "Giorgi Chakvetadze",
+        "pais": "Georgia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.08.1999"
+    },
+    {
+        "nombre": "Thomas Chatelle",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.03.1981"
+    },
+    {
+        "nombre": "Malek Cherrad",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.01.1981"
+    },
+    {
+        "nombre": "Blessing Chinedu",
+        "pais": "Nigeria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.11.1976"
+    },
+    {
+        "nombre": "Louis Christiaens",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.07.1946"
+    },
+    {
+        "nombre": "Anders Christiansen",
+        "pais": "Dinamarca",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.06.1990"
+    },
+    {
+        "nombre": "Geri Çipi",
+        "pais": "Albania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.02.1976"
+    },
+    {
+        "nombre": "Ibrahima Cissé",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.02.2001"
+    },
+    {
+        "nombre": "Roger Coenye",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.02.1945"
+    },
+    {
+        "nombre": "Pieter Collen",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.06.1980"
+    },
+    {
+        "nombre": "Jonathan Constancia",
+        "pais": "Curazao",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.03.1986"
+    },
+    {
+        "nombre": "Ibrahima Sory Conté I",
+        "pais": "Guinea",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.04.1991"
+    },
+    {
+        "nombre": "Davy Cooreman",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.01.1971"
+    },
+    {
+        "nombre": "Steve Cooreman",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.12.1976"
+    },
+    {
+        "nombre": "Colin Coosemans",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.08.1992"
+    },
+    {
+        "nombre": "Hubert Cordiez",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.12.1954"
+    },
+    {
+        "nombre": "Wouter Corstjens",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.02.1987"
+    },
+    {
+        "nombre": "Elimane Coulibaly",
+        "pais": "Senegal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.03.1980"
+    },
+    {
+        "nombre": "Kalifa Coulibaly",
+        "pais": "Malí",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.08.1991"
+    },
+    {
+        "nombre": "Mehmedalija Čović",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.03.1986"
+    },
+    {
+        "nombre": "Luc Criel",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.01.1958"
+    },
+    {
+        "nombre": "Adnan Čustović",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.04.1978"
+    },
+    {
+        "nombre": "Hugo Cuypers",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.02.1997"
+    },
+    {
+        "nombre": "Youn Czekanowicz",
+        "pais": "Luxemburgo",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.08.2000"
+    },
+    {
+        "nombre": "Tom Daems",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.04.1978"
+    },
+    {
+        "nombre": "Tony Daenen",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.03.1958"
+    },
+    {
+        "nombre": "Christian Daffe",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.01.1950"
+    },
+    {
+        "nombre": "Tore André Dahlum",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.06.1968"
+    },
+    {
+        "nombre": "Laurent Dauwe",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.01.1966"
+    },
+    {
+        "nombre": "Frank Dauwen",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.11.1967"
+    },
+    {
+        "nombre": "Jonathan David",
+        "pais": "Canadá",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.2000"
+    },
+    {
+        "nombre": "Ofir Davidzada",
+        "pais": "Israel",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.05.1991"
+    },
+    {
+        "nombre": "Davy De Beule",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.11.1981"
+    },
+    {
+        "nombre": "Tjörven De Brul",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.06.1973"
+    },
+    {
+        "nombre": "Alexandre De Bruyn",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.06.1994"
+    },
+    {
+        "nombre": "Jari De Busser",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.10.1999"
+    },
+    {
+        "nombre": "Marc De Clerck",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.12.1949"
+    },
+    {
+        "nombre": "Alain De Clercq",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.05.1969"
+    },
+    {
+        "nombre": "Björn De Coninck",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.07.1977"
+    },
+    {
+        "nombre": "Wim De Coninck",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "23.06.1959"
+    },
+    {
+        "nombre": "Tom De Craecke",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.05.1979"
+    },
+    {
+        "nombre": "Wim De Decker",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.04.1982"
+    },
+    {
+        "nombre": "Michel de Groote",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.10.1955"
+    },
+    {
+        "nombre": "Steve De Groote",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.08.1975"
+    },
+    {
+        "nombre": "Benny de Kneef",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.06.1965"
+    },
+    {
+        "nombre": "Gunter De Meyer",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.04.1968"
+    },
+    {
+        "nombre": "Thomas de Meyer",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.02.1984"
+    },
+    {
+        "nombre": "Norbert De Naeghel",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.11.1949"
+    },
+    {
+        "nombre": "Alain De Nil",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.08.1966"
+    },
+    {
+        "nombre": "Stefaan De Puydt",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.01.1980"
+    },
+    {
+        "nombre": "Noah De Ridder",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.10.2003"
+    },
+    {
+        "nombre": "Steve De Ridder",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.02.1987"
+    },
+    {
+        "nombre": "Jonas De Roeck",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.12.1979"
+    },
+    {
+        "nombre": "Bart De Roover",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.08.1967"
+    },
+    {
+        "nombre": "Julien De Sart",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.12.1994"
+    },
+    {
+        "nombre": "Célestin De Schrevel",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.05.2002"
+    },
+    {
+        "nombre": "Stijn De Smet",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.03.1985"
+    },
+    {
+        "nombre": "Thibault De Smet",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.06.1998"
+    },
+    {
+        "nombre": "Pascal De Vreese",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.05.1972"
+    },
+    {
+        "nombre": "Dirk De Vriese",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.12.1958"
+    },
+    {
+        "nombre": "Emmerik De Vriese",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.02.1985"
+    },
+    {
+        "nombre": "Björn De Wilde",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.05.1979"
+    },
+    {
+        "nombre": "Michel De Wolf",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.01.1958"
+    },
+    {
+        "nombre": "Lucas Deaux",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.12.1988"
+    },
+    {
+        "nombre": "Geert Deferm",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.05.1963"
+    },
+    {
+        "nombre": "Marc Degryse",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.09.1965"
+    },
+    {
+        "nombre": "Brecht Dejaegere",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.05.1991"
+    },
+    {
+        "nombre": "Laurent Delorge",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.07.1979"
+    },
+    {
+        "nombre": "Nicolas Delporte",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.12.1993"
+    },
+    {
+        "nombre": "Patrick Deman",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.07.1968"
+    },
+    {
+        "nombre": "Nicolas Denys",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.01.1980"
+    },
+    {
+        "nombre": "Laurent Depoitre",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.12.1988"
+    },
+    {
+        "nombre": "Timothy Derijck",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.05.1987"
+    },
+    {
+        "nombre": "Dieter Dever",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.01.1980"
+    },
+    {
+        "nombre": "Carl Deviaene",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.11.1966"
+    },
+    {
+        "nombre": "Norbert Deviaene",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.05.1943"
+    },
+    {
+        "nombre": "Zié Diabaté",
+        "pais": "Costa de Marfil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.03.1989"
+    },
+    {
+        "nombre": "Simon Diédhiou",
+        "pais": "Senegal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.07.1991"
+    },
+    {
+        "nombre": "Patrick Dimbala",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.09.1982"
+    },
+    {
+        "nombre": "Carlos Diogo",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.07.1983"
+    },
+    {
+        "nombre": "Mamadou Diop",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.02.1984"
+    },
+    {
+        "nombre": "Mix Diskerud",
+        "pais": "Estados Unidos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.10.1990"
+    },
+    {
+        "nombre": "Jean-Jacques Domoraud",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.03.1981"
+    },
+    {
+        "nombre": "Jean-Luc Dompé",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.08.1995"
+    },
+    {
+        "nombre": "Niklas Dorsch",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.01.1998"
+    },
+    {
+        "nombre": "Moyses Dos Santos",
+        "pais": "Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.04.1942"
+    },
+    {
+        "nombre": "Kassim Doumbia",
+        "pais": "Malí",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1990"
+    },
+    {
+        "nombre": "Ivica Dragutinović",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.11.1975"
+    },
+    {
+        "nombre": "Jaak Dreesen",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.02.1948"
+    },
+    {
+        "nombre": "Dennis Duinslaeger",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.06.1982"
+    },
+    {
+        "nombre": "Frédéric Dupré",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.05.1979"
+    },
+    {
+        "nombre": "Noë Dussenne",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.04.1992"
+    },
+    {
+        "nombre": "Apoula Edel",
+        "pais": "Armenia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.06.1986"
+    },
+    {
+        "nombre": "Augustine Eguavoen",
+        "pais": "Nigeria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.08.1965"
+    },
+    {
+        "nombre": "Yassine El Ghanassi",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.07.1990"
+    },
+    {
+        "nombre": "Chinonso Emeka",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.08.2001"
+    },
+    {
+        "nombre": "Magnus Eriksson",
+        "pais": "Suecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.04.1990"
+    },
+    {
+        "nombre": "Abdelkarim Ermouki",
+        "pais": "Marruecos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.02.1970"
+    },
+    {
+        "nombre": "Etim Esin",
+        "pais": "Nigeria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.11.1969"
+    },
+    {
+        "nombre": "Anderson Esiti",
+        "pais": "Nigeria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.05.1994"
+    },
+    {
+        "nombre": "Khalilou Fadiga",
+        "pais": "Senegal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.12.1974"
+    },
+    {
+        "nombre": "Morten Falch",
+        "pais": "Dinamarca",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.08.1973"
+    },
+    {
+        "nombre": "Ibrahima Faye",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.10.1979"
+    },
+    {
+        "nombre": "Matias Fernandez-Pardo",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.02.2005"
+    },
+    {
+        "nombre": "Filip Fiers",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.05.1969"
+    },
+    {
+        "nombre": "Malick Fofana",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.03.2005"
+    },
+    {
+        "nombre": "Ronald Foguenne",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.08.1970"
+    },
+    {
+        "nombre": "Thomas Foket",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.09.1994"
+    },
+    {
+        "nombre": "Dominic Foley",
+        "pais": "Irlanda",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.07.1976"
+    },
+    {
+        "nombre": "Louis Fortin",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.01.2002"
+    },
+    {
+        "nombre": "Francisco Benedito",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.04.1948"
+    },
+    {
+        "nombre": "Franky Frans",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.02.1966"
+    },
+    {
+        "nombre": "Saša Gajser",
+        "pais": "Eslovenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.02.1974"
+    },
+    {
+        "nombre": "Enis Gavazaj",
+        "pais": "Albania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.03.1995"
+    },
+    {
+        "nombre": "Marcel Gecov",
+        "pais": "República Checa",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.01.1988"
+    },
+    {
+        "nombre": "Wim Geeraerts",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.02.1975"
+    },
+    {
+        "nombre": "Matthias Geldof",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.10.1985"
+    },
+    {
+        "nombre": "Wouter George",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.03.2002"
+    },
+    {
+        "nombre": "Rami Gershon",
+        "pais": "Israel",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.08.1988"
+    },
+    {
+        "nombre": "Giba",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.07.1950"
+    },
+    {
+        "nombre": "Samuel Gigot",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.10.1993"
+    },
+    {
+        "nombre": "Robert Gijbels",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.02.1962"
+    },
+    {
+        "nombre": "James Gillespie",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.11.1957"
+    },
+    {
+        "nombre": "Guillaume Gillet",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1984"
+    },
+    {
+        "nombre": "Bruno Godeau",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.05.1992"
+    },
+    {
+        "nombre": "Leandro González Pirez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.02.1992"
+    },
+    {
+        "nombre": "Bart Goossens",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.01.1985"
+    },
+    {
+        "nombre": "Mathias Goossens",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.03.1991"
+    },
+    {
+        "nombre": "Christophe Grégoire",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.04.1980"
+    },
+    {
+        "nombre": "Boban Grnčarov",
+        "pais": "Macedonia del Norte",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.08.1982"
+    },
+    {
+        "nombre": "Christophe Grondin",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.09.1983"
+    },
+    {
+        "nombre": "Mahamadou Habibou",
+        "pais": "República Centroafricana",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.04.1987"
+    },
+    {
+        "nombre": "Haris Hajradinović",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.02.1994"
+    },
+    {
+        "nombre": "Yngvar Håkonsen",
+        "pais": "Noruega",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.01.1978"
+    },
+    {
+        "nombre": "Peter Hallaert",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.01.1966"
+    },
+    {
+        "nombre": "Andreas Hanche-Olsen",
+        "pais": "Noruega",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.01.1997"
+    },
+    {
+        "nombre": "Guy Hanssens",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.03.1953"
+    },
+    {
+        "nombre": "Erlend Hanstveit",
+        "pais": "Noruega",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.01.1981"
+    },
+    {
+        "nombre": "Jens Hauge",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.10.1999"
+    },
+    {
+        "nombre": "Admir Haznadar",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.07.1985"
+    },
+    {
+        "nombre": "André Heerwegh",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.01.1955"
+    },
+    {
+        "nombre": "Henk Heijt",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.11.1952"
+    },
+    {
+        "nombre": "Tim Helin",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.08.1986"
+    },
+    {
+        "nombre": "Jimmy Hempte",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.03.1982"
+    },
+    {
+        "nombre": "Konrad Hendrickx",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.05.1993"
+    },
+    {
+        "nombre": "Dirk Herbots",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.11.1967"
+    },
+    {
+        "nombre": "Frédéric Herpoel",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.08.1974"
+    },
+    {
+        "nombre": "Tony Herreman",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.01.1969"
+    },
+    {
+        "nombre": "Dirk Hinderyckx",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.12.1956"
+    },
+    {
+        "nombre": "Luc Hinderyckx",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.12.1961"
+    },
+    {
+        "nombre": "Andrew Hjulsager",
+        "pais": "Dinamarca",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.01.1995"
+    },
+    {
+        "nombre": "Hyun-seok Hong",
+        "pais": "Corea del Sur",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.06.1999"
+    },
+    {
+        "nombre": "Siebe Horemans",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.06.1998"
+    },
+    {
+        "nombre": "Ahmed Hosny",
+        "pais": "Egipto",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.07.1979"
+    },
+    {
+        "nombre": "David Hubert",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.02.1988"
+    },
+    {
+        "nombre": "Saïdou Idrissa",
+        "pais": "Níger",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.12.1985"
+    },
+    {
+        "nombre": "Rik Impens",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.07.1995"
+    },
+    {
+        "nombre": "Or Inbrum",
+        "pais": "Israel",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.01.1996"
+    },
+    {
+        "nombre": "Pascal Jacobs",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.11.1967"
+    },
+    {
+        "nombre": "Rangelo Janga",
+        "pais": "Curazao",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.04.1992"
+    },
+    {
+        "nombre": "Rudy Janssens",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.08.1963"
+    },
+    {
+        "nombre": "Ivica Jarakovic",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.06.1978"
+    },
+    {
+        "nombre": "Nordin Jbari",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.02.1975"
+    },
+    {
+        "nombre": "Owen Jochmans",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.01.2003"
+    },
+    {
+        "nombre": "Eric Joly",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.10.1972"
+    },
+    {
+        "nombre": "Bojan Jorgačević",
+        "pais": "Serbia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.02.1982"
+    },
+    {
+        "nombre": "Jorge López",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.09.1978"
+    },
+    {
+        "nombre": "Jesper Jørgensen",
+        "pais": "Dinamarca",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.05.1984"
+    },
+    {
+        "nombre": "Elton Kabangu",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.02.1998"
+    },
+    {
+        "nombre": "Hervé Kage",
+        "pais": "R.D. Congo",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.04.1989"
+    },
+    {
+        "nombre": "Alexandros Kaklamanos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.05.1974"
+    },
+    {
+        "nombre": "Lovre Kalinić",
+        "pais": "Croacia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.04.1990"
+    },
+    {
+        "nombre": "Samuel Kalu",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.08.1997"
+    },
+    {
+        "nombre": "Thomas Kaminski",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "23.10.1992"
+    },
+    {
+        "nombre": "Branko Karačić",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.09.1960"
+    },
+    {
+        "nombre": "Suad Katana",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.04.1969"
+    },
+    {
+        "nombre": "Jacek Kazimierski",
+        "pais": "Polonia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.08.1959"
+    },
+    {
+        "nombre": "Tarik Kharif",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.09.1976"
+    },
+    {
+        "nombre": "Tim Kleindienst",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.08.1995"
+    },
+    {
+        "nombre": "Udo Klohs",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.11.1953"
+    },
+    {
+        "nombre": "Aboubakary Koita",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.09.1998"
+    },
+    {
+        "nombre": "Rodgers Kola",
+        "pais": "Zambia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.07.1989"
+    },
+    {
+        "nombre": "Petros Konnafis",
+        "pais": "Chipre",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.08.1979"
+    },
+    {
+        "nombre": "Aad Koudijzer",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.12.1947"
+    },
+    {
+        "nombre": "Nasrédine Kraouche",
+        "pais": "Argelia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.08.1979"
+    },
+    {
+        "nombre": "Mladen Križanovic",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.09.1977"
+    },
+    {
+        "nombre": "Yūya Kubo",
+        "pais": "Japón",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.12.1993"
+    },
+    {
+        "nombre": "Emir Kujović",
+        "pais": "Suecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.06.1988"
+    },
+    {
+        "nombre": "Sven Kums",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.02.1988"
+    },
+    {
+        "nombre": "Erdinc Kurtulus",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.11.1985"
+    },
+    {
+        "nombre": "Mohamed Kurtuluş",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.08.1974"
+    },
+    {
+        "nombre": "Giorgi Kvilitaia",
+        "pais": "Georgia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.10.1993"
+    },
+    {
+        "nombre": "Martin Laamers",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.08.1967"
+    },
+    {
+        "nombre": "Benoit Ladrière",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.04.1987"
+    },
+    {
+        "nombre": "Bram Lagae",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.01.2004"
+    },
+    {
+        "nombre": "Ronny Lambrechts",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.12.1955"
+    },
+    {
+        "nombre": "Theo Laseroms",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.03.1940"
+    },
+    {
+        "nombre": "André Laureyssen",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.10.1953"
+    },
+    {
+        "nombre": "Stephen Laybutt",
+        "pais": "Australia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1977"
+    },
+    {
+        "nombre": "Luka Lazitch",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.02.1993"
+    },
+    {
+        "nombre": "Jean-Michel Lecloux",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.04.1958"
+    },
+    {
+        "nombre": "Darko Lemajić",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.08.1993"
+    },
+    {
+        "nombre": "Stéphane Lemmens",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "09.10.1968"
+    },
+    {
+        "nombre": "Jerome Lempereur",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.11.1973"
+    },
+    {
+        "nombre": "Johny Léonard",
+        "pais": "Luxemburgo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.10.1941"
+    },
+    {
+        "nombre": "Christophe Lepoint",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.10.1984"
+    },
+    {
+        "nombre": "Nir Levin",
+        "pais": "Israel",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.1962"
+    },
+    {
+        "nombre": "Mbaye Leye",
+        "pais": "Senegal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.12.1982"
+    },
+    {
+        "nombre": "Stallone Limbombe",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.03.1991"
+    },
+    {
+        "nombre": "Zlatan Ljubijankić",
+        "pais": "Eslovenia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.12.1983"
+    },
+    {
+        "nombre": "Sébastien Locigno",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.09.1995"
+    },
+    {
+        "nombre": "Nicolas Lombaerts",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.03.1985"
+    },
+    {
+        "nombre": "Geert Lootens",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.01.1958"
+    },
+    {
+        "nombre": "Jasper Lootens",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.01.1986"
+    },
+    {
+        "nombre": "Ali Lukunku",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.04.1976"
+    },
+    {
+        "nombre": "Mikael Lustig",
+        "pais": "Suecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.12.1986"
+    },
+    {
+        "nombre": "Ilombe M'Boyo",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.04.1987"
+    },
+    {
+        "nombre": "Zakaria M'Sila",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.04.1992"
+    },
+    {
+        "nombre": "Mohammed Maarouf",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.06.1951"
+    },
+    {
+        "nombre": "Deiver Machado",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.09.1993"
+    },
+    {
+        "nombre": "Kristof Maes",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.04.1988"
+    },
+    {
+        "nombre": "Piet Maes",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.03.1973"
+    },
+    {
+        "nombre": "Laurens Maldrie",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.01.1989"
+    },
+    {
+        "nombre": "Yonas Malede",
+        "pais": "Israel",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.11.1999"
+    },
+    {
+        "nombre": "Mamar Mamouni",
+        "pais": "Argelia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.02.1976"
+    },
+    {
+        "nombre": "Yannick Marchand",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.08.1988"
+    },
+    {
+        "nombre": "Damien Marcq",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.12.1988"
+    },
+    {
+        "nombre": "Benjamin Maréchal",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.05.1983"
+    },
+    {
+        "nombre": "Rémi Maréval",
+        "pais": "Martinica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.02.1983"
+    },
+    {
+        "nombre": "Ragnar Margeirsson",
+        "pais": "Islandia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.08.1962"
+    },
+    {
+        "nombre": "Miloš Marić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.03.1982"
+    },
+    {
+        "nombre": "Sulayman Marreh",
+        "pais": "Gambia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.01.1996"
+    },
+    {
+        "nombre": "Ronny Martens",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.12.1958"
+    },
+    {
+        "nombre": "Sandy Martens",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.12.1972"
+    },
+    {
+        "nombre": "Alexandre Martinovic",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.05.1985"
+    },
+    {
+        "nombre": "Carl Massagie",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.03.1965"
+    },
+    {
+        "nombre": "Tim Matthijs",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.12.1983"
+    },
+    {
+        "nombre": "Thomas Matton",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.10.1985"
+    },
+    {
+        "nombre": "Dylan Mbayo",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.10.2001"
+    },
+    {
+        "nombre": "Dirk Medved",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.09.1968"
+    },
+    {
+        "nombre": "Thomas Meeuwsen",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.05.1982"
+    },
+    {
+        "nombre": "Ersin Mehmedović",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.05.1981"
+    },
+    {
+        "nombre": "Melli",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.06.1984"
+    },
+    {
+        "nombre": "Mohamed Messoudi",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.01.1984"
+    },
+    {
+        "nombre": "Mido",
+        "pais": "Egipto",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.02.1983"
+    },
+    {
+        "nombre": "Danijel Miličević",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.01.1986"
+    },
+    {
+        "nombre": "Davy Minnaert",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.05.1974"
+    },
+    {
+        "nombre": "Damir Mirvic",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.11.1982"
+    },
+    {
+        "nombre": "Stefan Mitrovič",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.05.1990"
+    },
+    {
+        "nombre": "Nenad Mladenović",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.12.1976"
+    },
+    {
+        "nombre": "Milad Mohammadi",
+        "pais": "Irán",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.09.1993"
+    },
+    {
+        "nombre": "Massimo Moia",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1987"
+    },
+    {
+        "nombre": "Peter Mollez",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "23.09.1983"
+    },
+    {
+        "nombre": "Omo Monday",
+        "pais": "Níger",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.08.1984"
+    },
+    {
+        "nombre": "Edson Montaño",
+        "pais": "Ecuador",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.03.1991"
+    },
+    {
+        "nombre": "Ahmed Mostafa",
+        "pais": "Egipto",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.10.1997"
+    },
+    {
+        "nombre": "Anders Møller Christensen",
+        "pais": "Dinamarca",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.07.1977"
+    },
+    {
+        "nombre": "Dorian Mpoto Thom",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.11.1994"
+    },
+    {
+        "nombre": "Milan Mrdaković",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.05.1982"
+    },
+    {
+        "nombre": "René Mücher",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.09.1950"
+    },
+    {
+        "nombre": "Gaby Mudingayi",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.10.1981"
+    },
+    {
+        "nombre": "John Muiruri",
+        "pais": "Kenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.10.1979"
+    },
+    {
+        "nombre": "Robert Mumba",
+        "pais": "Kenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.10.1978"
+    },
+    {
+        "nombre": "Aleksandar Mutavdžić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.01.1977"
+    },
+    {
+        "nombre": "Roy Myrie",
+        "pais": "Costa Rica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.08.1982"
+    },
+    {
+        "nombre": "Mustafa N'Daw",
+        "pais": "Gambia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.11.1981"
+    },
+    {
+        "nombre": "Mahamed N'Diaye",
+        "pais": "Malí",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.01.1986"
+    },
+    {
+        "nombre": "Mamoutou N'Diaye",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.03.1990"
+    },
+    {
+        "nombre": "Sylvain N'Diaye",
+        "pais": "Senegal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.06.1976"
+    },
+    {
+        "nombre": "Valery N'Tamag",
+        "pais": "Camerún",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.09.1976"
+    },
+    {
+        "nombre": "Valery Nahayo",
+        "pais": "Burundi",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.04.1984"
+    },
+    {
+        "nombre": "Paul Nardi",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.05.1994"
+    },
+    {
+        "nombre": "Hamad Ndikumana",
+        "pais": "Ruanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.10.1978"
+    },
+    {
+        "nombre": "Dieumerci Ndongala",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.06.1991"
+    },
+    {
+        "nombre": "Ernest Nfor",
+        "pais": "Camerún",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.04.1986"
+    },
+    {
+        "nombre": "Michael Ngadeu-Ngadjui",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.11.1990"
+    },
+    {
+        "nombre": "Michel Ngonge",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1967"
+    },
+    {
+        "nombre": "Anderson Niangbo",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.10.1999"
+    },
+    {
+        "nombre": "Anders Nielsen",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.12.1970"
+    },
+    {
+        "nombre": "Lasse Nielsen",
+        "pais": "Dinamarca",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.01.1988"
+    },
+    {
+        "nombre": "Nivaldo",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.11.1977"
+    },
+    {
+        "nombre": "Frank Nollet",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.06.1959"
+    },
+    {
+        "nombre": "Patrick Notteboom",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.01.1958"
+    },
+    {
+        "nombre": "Patrice Noukeu",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.11.1982"
+    },
+    {
+        "nombre": "Núrio Fortuna",
+        "pais": "Angola",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.03.1995"
+    },
+    {
+        "nombre": "Vadis Odjidja-Ofoe",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.02.1989"
+    },
+    {
+        "nombre": "Joseph Okumu",
+        "pais": "Kenia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.05.1997"
+    },
+    {
+        "nombre": "Adewale Oladoye",
+        "pais": "Nigeria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.08.2001"
+    },
+    {
+        "nombre": "Peter Olayinka",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.11.1995"
+    },
+    {
+        "nombre": "Aldo Olcese",
+        "pais": "Perú",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.10.1974"
+    },
+    {
+        "nombre": "Adekanmi Olufade",
+        "pais": "Togo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.01.1980"
+    },
+    {
+        "nombre": "Christopher Operi",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.04.1997"
+    },
+    {
+        "nombre": "Gift Orban",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.07.2002"
+    },
+    {
+        "nombre": "Mustapha Oussalah",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.02.1982"
+    },
+    {
+        "nombre": "Elisha Owusu",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.11.1997"
+    },
+    {
+        "nombre": "Djima Oyawole",
+        "pais": "Togo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.10.1976"
+    },
+    {
+        "nombre": "Sergio Padt",
+        "pais": "Países Bajos",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.06.1990"
+    },
+    {
+        "nombre": "Mathéo Parmentier",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.10.2002"
+    },
+    {
+        "nombre": "Pau Cendrós",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.04.1987"
+    },
+    {
+        "nombre": "Nebojša Pavlović",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.04.1981"
+    },
+    {
+        "nombre": "Morten Pedersen",
+        "pais": "Noruega",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.04.1972"
+    },
+    {
+        "nombre": "Nicklas Pedersen",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.10.1987"
+    },
+    {
+        "nombre": "Alfons Peeters",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.01.1943"
+    },
+    {
+        "nombre": "Jacky Peeters",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.12.1969"
+    },
+    {
+        "nombre": "Jérémy Perbet",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.12.1984"
+    },
+    {
+        "nombre": "Zsolt Petry",
+        "pais": "Hungría",
+        "posicion": "Portero",
+        "fecha_nacimiento": "23.09.1966"
+    },
+    {
+        "nombre": "Sebastien Phiri",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.07.1990"
+    },
+    {
+        "nombre": "Kamil Piątkowski",
+        "pais": "Polonia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.06.2000"
+    },
+    {
+        "nombre": "Luigi Pieroni",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.09.1980"
+    },
+    {
+        "nombre": "Francesco Pirelli",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.04.1960"
+    },
+    {
+        "nombre": "Thierry Pister",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.09.1965"
+    },
+    {
+        "nombre": "Igor Plastun",
+        "pais": "Ucrania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.08.1990"
+    },
+    {
+        "nombre": "Marko Poletanović",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.07.1993"
+    },
+    {
+        "nombre": "David Pollet",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.08.1988"
+    },
+    {
+        "nombre": "Krist Porte",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.09.1968"
+    },
+    {
+        "nombre": "Sloan Privat",
+        "pais": "Guayana Francesa",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.07.1989"
+    },
+    {
+        "nombre": "Ante Puljić",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.11.1987"
+    },
+    {
+        "nombre": "Willy Quipor",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.02.1956"
+    },
+    {
+        "nombre": "Ibrahim Rabiu",
+        "pais": "Nigeria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.03.1991"
+    },
+    {
+        "nombre": "André Raes",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.10.1955"
+    },
+    {
+        "nombre": "Roger Raeven",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.12.1960"
+    },
+    {
+        "nombre": "Rafinha",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.06.1982"
+    },
+    {
+        "nombre": "Benito Raman",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.11.1994"
+    },
+    {
+        "nombre": "Edin Ramčić",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.08.1970"
+    },
+    {
+        "nombre": "Nicolas Raskin",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.02.2001"
+    },
+    {
+        "nombre": "Jordan Remacle",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.02.1987"
+    },
+    {
+        "nombre": "Renato Neto",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.09.1991"
+    },
+    {
+        "nombre": "Kevin Reyns",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.06.1973"
+    },
+    {
+        "nombre": "Steven Ribus",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.07.1978"
+    },
+    {
+        "nombre": "Jacob Rinne",
+        "pais": "Suecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.06.1993"
+    },
+    {
+        "nombre": "Davy Roef",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.02.1994"
+    },
+    {
+        "nombre": "Albert Rombaut",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.04.1974"
+    },
+    {
+        "nombre": "Tony Rombouts",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.10.1952"
+    },
+    {
+        "nombre": "Roberto Rosales",
+        "pais": "Venezuela",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.11.1988"
+    },
+    {
+        "nombre": "Sigurd Rosted",
+        "pais": "Noruega",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.07.1994"
+    },
+    {
+        "nombre": "Cédric Roussel",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.01.1978"
+    },
+    {
+        "nombre": "Petter Rudi",
+        "pais": "Noruega",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.09.1973"
+    },
+    {
+        "nombre": "Bryan Ruiz",
+        "pais": "Costa Rica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.08.1985"
+    },
+    {
+        "nombre": "Zlatko Runje",
+        "pais": "Croacia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "09.12.1979"
+    },
+    {
+        "nombre": "Gilles Ruyssen",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1994"
+    },
+    {
+        "nombre": "Milan Ružić",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.07.1955"
+    },
+    {
+        "nombre": "Kenny Saief",
+        "pais": "Estados Unidos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.12.1993"
+    },
+    {
+        "nombre": "Bassalia Sakanoko",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.06.1985"
+    },
+    {
+        "nombre": "Ibrahim Salah",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.08.2001"
+    },
+    {
+        "nombre": "Matisse Samoise",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.11.2001"
+    },
+    {
+        "nombre": "Luc Sanders",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.10.1945"
+    },
+    {
+        "nombre": "Milan Savić",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.04.1994"
+    },
+    {
+        "nombre": "Zoran Savić",
+        "pais": "Serbia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.01.1974"
+    },
+    {
+        "nombre": "Cees Schapendonk",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.12.1955"
+    },
+    {
+        "nombre": "Willy Scheepers",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.04.1961"
+    },
+    {
+        "nombre": "Gunther Schepens",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.05.1973"
+    },
+    {
+        "nombre": "Alexis Scholl",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.03.1996"
+    },
+    {
+        "nombre": "Lucas Schoofs",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.01.1997"
+    },
+    {
+        "nombre": "Rob Schoofs",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.03.1994"
+    },
+    {
+        "nombre": "Urbain Segers",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.07.1942"
+    },
+    {
+        "nombre": "Matz Sels",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.02.1992"
+    },
+    {
+        "nombre": "Moses Simon",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.07.1995"
+    },
+    {
+        "nombre": "Damjan Siskovski",
+        "pais": "Macedonia del Norte",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.03.1995"
+    },
+    {
+        "nombre": "Matija Škarabot",
+        "pais": "Eslovenia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.02.1988"
+    },
+    {
+        "nombre": "Axel Smeets",
+        "pais": "R.D. Congo",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.07.1974"
+    },
+    {
+        "nombre": "Eric Smith",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.01.1997"
+    },
+    {
+        "nombre": "Dario Smoje",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.09.1979"
+    },
+    {
+        "nombre": "Tim Smolders",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.08.1980"
+    },
+    {
+        "nombre": "Kristof Snelders",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.09.1982"
+    },
+    {
+        "nombre": "Valeriy Sorokin",
+        "pais": "Rusia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.1985"
+    },
+    {
+        "nombre": "Abdelhak Souady",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.07.1960"
+    },
+    {
+        "nombre": "Yves Soudan",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.10.1967"
+    },
+    {
+        "nombre": "Noël Soumah",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.12.1994"
+    },
+    {
+        "nombre": "Yaya Soumahoro",
+        "pais": "Costa de Marfil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.09.1989"
+    },
+    {
+        "nombre": "Arnaud Souquet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.02.1992"
+    },
+    {
+        "nombre": "Alexander Sørloth",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.12.1995"
+    },
+    {
+        "nombre": "Emil Šterbal",
+        "pais": "Eslovenia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.06.1970"
+    },
+    {
+        "nombre": "Alin Stoica",
+        "pais": "Rumania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.12.1979"
+    },
+    {
+        "nombre": "James Storme",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.04.1943"
+    },
+    {
+        "nombre": "Christiaan Stroybant",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.10.1946"
+    },
+    {
+        "nombre": "Marko Šuler",
+        "pais": "Eslovenia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.03.1983"
+    },
+    {
+        "nombre": "Đorđe Svetličić",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.01.1974"
+    },
+    {
+        "nombre": "Anthony Swolfs",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.11.1997"
+    },
+    {
+        "nombre": "Mamadou Sylla",
+        "pais": "Senegal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.03.1994"
+    },
+    {
+        "nombre": "Tamás Szekeres",
+        "pais": "Hungría",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.09.1972"
+    },
+    {
+        "nombre": "Serge Tabekou",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.10.1996"
+    },
+    {
+        "nombre": "Jérémy Taravel",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.04.1987"
+    },
+    {
+        "nombre": "Tesfaldet Tekie",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.06.1997"
+    },
+    {
+        "nombre": "Davy Theunis",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.01.1980"
+    },
+    {
+        "nombre": "Bernd Thijs",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.06.1978"
+    },
+    {
+        "nombre": "Bruno Thoelen",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.06.1964"
+    },
+    {
+        "nombre": "Yannick Thoelen",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.07.1990"
+    },
+    {
+        "nombre": "Kenny Thompson",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.04.1985"
+    },
+    {
+        "nombre": "Ode Thompson",
+        "pais": "Nigeria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.11.1980"
+    },
+    {
+        "nombre": "Ola Tidman",
+        "pais": "Suecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.05.1979"
+    },
+    {
+        "nombre": "Anthony Timo",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.01.1985"
+    },
+    {
+        "nombre": "Tarik Tissoudali",
+        "pais": "Marruecos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.04.1993"
+    },
+    {
+        "nombre": "Jordan Torunarigha",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.08.1997"
+    },
+    {
+        "nombre": "Jovica Trajcev",
+        "pais": "Macedonia del Norte",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.01.1981"
+    },
+    {
+        "nombre": "William Troost-Ekong",
+        "pais": "Nigeria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.09.1993"
+    },
+    {
+        "nombre": "Freddy Truyens",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.02.1956"
+    },
+    {
+        "nombre": "John Tudor",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.06.1946"
+    },
+    {
+        "nombre": "Cederick Van Daele",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.08.2000"
+    },
+    {
+        "nombre": "Sören Van De Moortele",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.07.1987"
+    },
+    {
+        "nombre": "Noël van de Velde",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.03.1940"
+    },
+    {
+        "nombre": "Jan Van den Bergh",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.10.1994"
+    },
+    {
+        "nombre": "Rune Van den Bergh",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.01.2003"
+    },
+    {
+        "nombre": "Hannes Van der Bruggen",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.04.1993"
+    },
+    {
+        "nombre": "Sven van der Jeugt",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.09.1980"
+    },
+    {
+        "nombre": "Stijn Van Der Kelen",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.06.1990"
+    },
+    {
+        "nombre": "Marc van der Linden",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.02.1964"
+    },
+    {
+        "nombre": "Rudi van Goethem",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.05.1953"
+    },
+    {
+        "nombre": "Gunther Van Handenhoven",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.12.1978"
+    },
+    {
+        "nombre": "Robbie Van Hauter",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.05.2003"
+    },
+    {
+        "nombre": "Yvo van Herp",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.12.1949"
+    },
+    {
+        "nombre": "David Van Hoyweghen",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.03.1976"
+    },
+    {
+        "nombre": "Olivier Van Impe",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.12.1983"
+    },
+    {
+        "nombre": "Bram van Kerkhof",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.11.1948"
+    },
+    {
+        "nombre": "Stefan Van Laere",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.09.1972"
+    },
+    {
+        "nombre": "Johan van Looy",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.12.1962"
+    },
+    {
+        "nombre": "Toine van Mierlo",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.08.1957"
+    },
+    {
+        "nombre": "Ronald Van Peteghem",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.02.1964"
+    },
+    {
+        "nombre": "René Vanden Borre",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.01.2004"
+    },
+    {
+        "nombre": "Erwin Vandenbergh",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.01.1959"
+    },
+    {
+        "nombre": "Brian Vandenbussche",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "24.09.1981"
+    },
+    {
+        "nombre": "Erwin Vandendaele",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.03.1945"
+    },
+    {
+        "nombre": "Jari Vandeputte",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.02.1996"
+    },
+    {
+        "nombre": "Dirk Vanderbeken",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.12.1965"
+    },
+    {
+        "nombre": "Nico Vanderdonck",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.12.1969"
+    },
+    {
+        "nombre": "René Vandereycken",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.07.1953"
+    },
+    {
+        "nombre": "Lucas Vanderschommen",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.09.1954"
+    },
+    {
+        "nombre": "Tom Vandervee",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.09.1970"
+    },
+    {
+        "nombre": "Johan Vandevelde",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.01.1973"
+    },
+    {
+        "nombre": "Dirk Vangronsveld",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.08.1967"
+    },
+    {
+        "nombre": "Franky Vanhaecke",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.04.1954"
+    },
+    {
+        "nombre": "Nenad Vanić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.08.1970"
+    },
+    {
+        "nombre": "Zoltán Varga",
+        "pais": "Hungría",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.01.1945"
+    },
+    {
+        "nombre": "Tomas Vasov",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.01.1972"
+    },
+    {
+        "nombre": "Spencer Verbiest",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.02.1984"
+    },
+    {
+        "nombre": "Marc Verbruggen",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.06.1959"
+    },
+    {
+        "nombre": "Brecht Verbrugghe",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.04.1982"
+    },
+    {
+        "nombre": "Jan Verdegem",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.04.1969"
+    },
+    {
+        "nombre": "Tom Verdegem",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.09.1967"
+    },
+    {
+        "nombre": "Stefan Vereycken",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.04.1966"
+    },
+    {
+        "nombre": "Bernard Verheecke",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.01.1957"
+    },
+    {
+        "nombre": "René Verheyen",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.03.1952"
+    },
+    {
+        "nombre": "Kenny Verhoene",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.04.1973"
+    },
+    {
+        "nombre": "Marc Verkuijl",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.11.1963"
+    },
+    {
+        "nombre": "Johan Vermeersch",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.11.1951"
+    },
+    {
+        "nombre": "Gil Vermouth",
+        "pais": "Israel",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.08.1985"
+    },
+    {
+        "nombre": "Matthieu Verschuére",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.02.1972"
+    },
+    {
+        "nombre": "Birger Verstraete",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.04.1994"
+    },
+    {
+        "nombre": "Louis Verstraete",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.05.1999"
+    },
+    {
+        "nombre": "Danny Veyt",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.12.1956"
+    },
+    {
+        "nombre": "Eric Viscaal",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.03.1968"
+    },
+    {
+        "nombre": "Uroš Vitas",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.07.1992"
+    },
+    {
+        "nombre": "Jef Vogels",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.01.1991"
+    },
+    {
+        "nombre": "Eddy Voordeckers",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.02.1960"
+    },
+    {
+        "nombre": "Wouter Vrancken",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1979"
+    },
+    {
+        "nombre": "Stijn Vreven",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.07.1973"
+    },
+    {
+        "nombre": "Zdenko Vukasović",
+        "pais": "Croacia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.09.1941"
+    },
+    {
+        "nombre": "Sretko Vuksanović",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.02.1973"
+    },
+    {
+        "nombre": "Danté Walen",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.02.1998"
+    },
+    {
+        "nombre": "Wallace",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.10.1986"
+    },
+    {
+        "nombre": "Frédéric Waseige",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.05.1965"
+    },
+    {
+        "nombre": "Nfor Webnje",
+        "pais": "Camerún",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.04.1986"
+    },
+    {
+        "nombre": "Kurt Welzl",
+        "pais": "Austria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.11.1954"
+    },
+    {
+        "nombre": "Kenneth Weytens",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.01.1987"
+    },
+    {
+        "nombre": "Evan Whitfield",
+        "pais": "Estados Unidos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.06.1977"
+    },
+    {
+        "nombre": "Samuel Wiart",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.06.1973"
+    },
+    {
+        "nombre": "Gustav Wikheim",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.03.1993"
+    },
+    {
+        "nombre": "Stef Wils",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.08.1982"
+    },
+    {
+        "nombre": "Dieter Wittesaele",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.01.1989"
+    },
+    {
+        "nombre": "Mario Witvrouwen",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.01.1974"
+    },
+    {
+        "nombre": "Roman Yaremchuk",
+        "pais": "Ucrania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.11.1995"
+    },
+    {
+        "nombre": "Ygor Nogueira",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.03.1995"
+    },
+    {
+        "nombre": "Grant Young",
+        "pais": "Sudáfrica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.03.1971"
+    },
+    {
+        "nombre": "Peter Zelenský",
+        "pais": "Eslovaquia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.11.1958"
+    },
+    {
+        "nombre": "Marcin Żewłakow",
+        "pais": "Polonia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.04.1976"
+    },
+    {
+        "nombre": "Zézéto",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.06.1981"
+    },
+    {
+        "nombre": "Zéphirin Zoko",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.09.1977"
+    },
+    {
+        "nombre": "Nermin Zolotić",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.07.1993"
+    },
+    {
+        "nombre": "Ervin Zukanović",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.02.1987"
+    }
+]

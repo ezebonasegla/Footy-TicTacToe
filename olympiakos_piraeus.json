@@ -1,0 +1,3308 @@
+[
+    {
+        "nombre": "Djamel Abdoun",
+        "pais": "Argelia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.02.1986"
+    },
+    {
+        "nombre": "Éric Abidal",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.09.1979"
+    },
+    {
+        "nombre": "Felix Aboagye",
+        "pais": "Ghana",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.12.1975"
+    },
+    {
+        "nombre": "Ibrahim Afellay",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.04.1986"
+    },
+    {
+        "nombre": "Grigoris Aganian",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.08.1943"
+    },
+    {
+        "nombre": "Thanasis Aggelis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.03.1946"
+    },
+    {
+        "nombre": "Diego Aguirre",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.09.1965"
+    },
+    {
+        "nombre": "Thomas Ahlström",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.07.1952"
+    },
+    {
+        "nombre": "Kostas Aidiniou",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.1946"
+    },
+    {
+        "nombre": "Albert Riera",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.04.1982"
+    },
+    {
+        "nombre": "Alberto Botía",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.01.1989"
+    },
+    {
+        "nombre": "Roger Albertsen",
+        "pais": "Noruega",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.03.1957"
+    },
+    {
+        "nombre": "Alexios Alexandris",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.10.1968"
+    },
+    {
+        "nombre": "Alexis Alexiou",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.09.1963"
+    },
+    {
+        "nombre": "Bobby Allain",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.11.1991"
+    },
+    {
+        "nombre": "Gabriel Álvez",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.12.1974"
+    },
+    {
+        "nombre": "Giorgios Amanatidis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.04.1970"
+    },
+    {
+        "nombre": "Kofi Amponsah",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.04.1978"
+    },
+    {
+        "nombre": "Nikos Anastopoulos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.01.1958"
+    },
+    {
+        "nombre": "Georgios Anatolakis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.03.1974"
+    },
+    {
+        "nombre": "André Martins",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.01.1990"
+    },
+    {
+        "nombre": "Athanasios Androutsos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.05.1997"
+    },
+    {
+        "nombre": "Giannis Angelopoulos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.05.1999"
+    },
+    {
+        "nombre": "Karim Ansarifard",
+        "pais": "Irán",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.04.1990"
+    },
+    {
+        "nombre": "Antonis Antoniadis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.05.1946"
+    },
+    {
+        "nombre": "Paraskevas Antzas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.08.1976"
+    },
+    {
+        "nombre": "Stratos Apostolakis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.05.1964"
+    },
+    {
+        "nombre": "Apostolos Apostolopoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.12.2002"
+    },
+    {
+        "nombre": "Rodrigo Archubi",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.06.1985"
+    },
+    {
+        "nombre": "Nikos Argiroulis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.07.1952"
+    },
+    {
+        "nombre": "Romain Argyroudis",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.11.1946"
+    },
+    {
+        "nombre": "Christos Arvanitis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "23.01.1953"
+    },
+    {
+        "nombre": "Mark Asigba",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.07.1990"
+    },
+    {
+        "nombre": "Anastasios Avlonitis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.01.1990"
+    },
+    {
+        "nombre": "Ousseynou Ba",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.11.1995"
+    },
+    {
+        "nombre": "Haruna Babangida",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.10.1982"
+    },
+    {
+        "nombre": "Ivan Babovic",
+        "pais": "Serbia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.03.1992"
+    },
+    {
+        "nombre": "Petros Bagalianis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.02.2001"
+    },
+    {
+        "nombre": "Algassime Bah",
+        "pais": "Guinea",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.11.2002"
+    },
+    {
+        "nombre": "Cédric Bakambu",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.04.1991"
+    },
+    {
+        "nombre": "Yaya Banana",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.07.1991"
+    },
+    {
+        "nombre": "Božidar Bandović",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.08.1969"
+    },
+    {
+        "nombre": "Jorge Barrios",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.01.1961"
+    },
+    {
+        "nombre": "Daniel Batista",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.09.1964"
+    },
+    {
+        "nombre": "Kristijan Belić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.2001"
+    },
+    {
+        "nombre": "Fernando Belluschi",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.09.1983"
+    },
+    {
+        "nombre": "El Fardou Ben",
+        "pais": "Comoras",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.06.1989"
+    },
+    {
+        "nombre": "Jorge Benítez",
+        "pais": "Paraguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.09.1992"
+    },
+    {
+        "nombre": "Yassine Benzia",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.09.1994"
+    },
+    {
+        "nombre": "Jorge Bermúdez",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1971"
+    },
+    {
+        "nombre": "Gaëtan Bong",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.04.1988"
+    },
+    {
+        "nombre": "Andreas Bonovas",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.11.1963"
+    },
+    {
+        "nombre": "Félix Borja",
+        "pais": "Ecuador",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.04.1983"
+    },
+    {
+        "nombre": "Vasilis Botinos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.10.1944"
+    },
+    {
+        "nombre": "Andreas Bouchalakis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.04.1993"
+    },
+    {
+        "nombre": "Josh Bowler",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.03.1999"
+    },
+    {
+        "nombre": "Bruma",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.10.1994"
+    },
+    {
+        "nombre": "Bruno",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.05.1994"
+    },
+    {
+        "nombre": "Bruno Chalkiadakis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.04.1993"
+    },
+    {
+        "nombre": "Bruno Gaspar",
+        "pais": "Angola",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.04.1993"
+    },
+    {
+        "nombre": "Bruno Viana",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.02.1995"
+    },
+    {
+        "nombre": "Juraj Bucek",
+        "pais": "Eslovaquia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.09.1973"
+    },
+    {
+        "nombre": "Emiliano Bullari",
+        "pais": "Albania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.04.2001"
+    },
+    {
+        "nombre": "Erol Bulut",
+        "pais": "Turquía",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.01.1975"
+    },
+    {
+        "nombre": "Tomislav Butina",
+        "pais": "Croacia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.03.1974"
+    },
+    {
+        "nombre": "Zymer Bytyqi",
+        "pais": "Kosovo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.09.1996"
+    },
+    {
+        "nombre": "Cafú",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.02.1993"
+    },
+    {
+        "nombre": "Aguibou Camara",
+        "pais": "Guinea",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.05.2001"
+    },
+    {
+        "nombre": "Fode Camara",
+        "pais": "Guinea",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.04.1998"
+    },
+    {
+        "nombre": "Mady Camara",
+        "pais": "Guinea",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.02.1997"
+    },
+    {
+        "nombre": "Esteban Cambiasso",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.08.1980"
+    },
+    {
+        "nombre": "Joel Campbell",
+        "pais": "Costa Rica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.06.1992"
+    },
+    {
+        "nombre": "Mehdi Carcela-González",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.07.1989"
+    },
+    {
+        "nombre": "Óscar Cardozo",
+        "pais": "Paraguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.05.1983"
+    },
+    {
+        "nombre": "Roy Carroll",
+        "pais": "Irlanda del Norte",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.09.1977"
+    },
+    {
+        "nombre": "Nery Castillo",
+        "pais": "México",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.06.1984"
+    },
+    {
+        "nombre": "Vasilis Chardalias",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "1962"
+    },
+    {
+        "nombre": "José Cholevas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.06.1984"
+    },
+    {
+        "nombre": "Eleftherios Choutesiotis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.07.1994"
+    },
+    {
+        "nombre": "Lampros Choutos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.12.1979"
+    },
+    {
+        "nombre": "Bent Christensen",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.01.1967"
+    },
+    {
+        "nombre": "Lazaros Christodoulopoulos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.12.1986"
+    },
+    {
+        "nombre": "Giorgos Christodoulou",
+        "pais": "Chipre",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.08.1965"
+    },
+    {
+        "nombre": "Giannis Christofilopoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.07.2003"
+    },
+    {
+        "nombre": "Pape Cissé",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.09.1995"
+    },
+    {
+        "nombre": "Aly Cissokho",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.09.1987"
+    },
+    {
+        "nombre": "Pablo Contreras",
+        "pais": "Chile",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.09.1978"
+    },
+    {
+        "nombre": "Franco Costanzo",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.09.1980"
+    },
+    {
+        "nombre": "Rolland Courbis",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.08.1953"
+    },
+    {
+        "nombre": "Nikola Čumić",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.11.1998"
+    },
+    {
+        "nombre": "Hugo Cuypers",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.02.1997"
+    },
+    {
+        "nombre": "D'Acol",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.07.1986"
+    },
+    {
+        "nombre": "Manuel Da Costa",
+        "pais": "Marruecos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.05.1986"
+    },
+    {
+        "nombre": "Nikolaos Dabizas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.08.1973"
+    },
+    {
+        "nombre": "Aris Damianidis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.05.1957"
+    },
+    {
+        "nombre": "Dani",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.12.1974"
+    },
+    {
+        "nombre": "Daniel Podence",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.10.1995"
+    },
+    {
+        "nombre": "Iosif Daskalakis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.08.1982"
+    },
+    {
+        "nombre": "Jesús Dátolo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.05.1984"
+    },
+    {
+        "nombre": "David Fuster",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1982"
+    },
+    {
+        "nombre": "Kostas Davourlis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.01.1948"
+    },
+    {
+        "nombre": "De la Bella",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.12.1985"
+    },
+    {
+        "nombre": "Konrad de la Fuente",
+        "pais": "Estados Unidos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.07.2001"
+    },
+    {
+        "nombre": "Tomás De Vincenti",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1989"
+    },
+    {
+        "nombre": "Giorgos Delikaris",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.07.1951"
+    },
+    {
+        "nombre": "Ioannis Demirtsogli",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.01.1982"
+    },
+    {
+        "nombre": "Matt Derbyshire",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.04.1986"
+    },
+    {
+        "nombre": "Lajos Détári",
+        "pais": "Hungría",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.04.1963"
+    },
+    {
+        "nombre": "Drissa Diakité",
+        "pais": "Malí",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.02.1985"
+    },
+    {
+        "nombre": "Dimitrios Diamantakos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.03.1993"
+    },
+    {
+        "nombre": "Diby",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.07.2003"
+    },
+    {
+        "nombre": "Claude Dielna",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.12.1987"
+    },
+    {
+        "nombre": "Georgios Dimitropoulos",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.05.1980"
+    },
+    {
+        "nombre": "Diogo",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.05.1987"
+    },
+    {
+        "nombre": "Diogo Figueiras",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.07.1991"
+    },
+    {
+        "nombre": "Rafik Djebbour",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.03.1984"
+    },
+    {
+        "nombre": "Didier Domi",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.05.1978"
+    },
+    {
+        "nombre": "Alejandro Domínguez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.06.1981"
+    },
+    {
+        "nombre": "Mathieu Dossevi",
+        "pais": "Togo",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.02.1988"
+    },
+    {
+        "nombre": "Georgios Dovas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.11.1983"
+    },
+    {
+        "nombre": "Mohamed Dräger",
+        "pais": "Túnez",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.06.1996"
+    },
+    {
+        "nombre": "Apostolis Drakopoulos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.12.1966"
+    },
+    {
+        "nombre": "Dudu Cearense",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.04.1983"
+    },
+    {
+        "nombre": "Jimmy Durmaz",
+        "pais": "Suecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.03.1989"
+    },
+    {
+        "nombre": "Fiorin Durmishaj",
+        "pais": "Albania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.11.1996"
+    },
+    {
+        "nombre": "Predrag Đorđević",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.08.1972"
+    },
+    {
+        "nombre": "Uroš Đurđević",
+        "pais": "Montenegro",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.03.1994"
+    },
+    {
+        "nombre": "Edu Dracena",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.05.1981"
+    },
+    {
+        "nombre": "Youssef El-Arabi",
+        "pais": "Marruecos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.02.1987"
+    },
+    {
+        "nombre": "Omar Elabdellaoui",
+        "pais": "Noruega",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.12.1991"
+    },
+    {
+        "nombre": "Dimitrios Eleftheropoulos",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.08.1976"
+    },
+    {
+        "nombre": "Tarik Elyounoussi",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.02.1988"
+    },
+    {
+        "nombre": "Emmanuel Emenike",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.05.1987"
+    },
+    {
+        "nombre": "Björn Engels",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.09.1994"
+    },
+    {
+        "nombre": "Vince Estavilio",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.05.1955"
+    },
+    {
+        "nombre": "Fabián Estay",
+        "pais": "Chile",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1968"
+    },
+    {
+        "nombre": "Stefanos Evangelou",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.05.1998"
+    },
+    {
+        "nombre": "Bandiougou Fadiga",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.01.2001"
+    },
+    {
+        "nombre": "Yiannoulis Fakinos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.07.1989"
+    },
+    {
+        "nombre": "Ljubomir Fejsa",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.08.1988"
+    },
+    {
+        "nombre": "Georgios Fekkas",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.05.2001"
+    },
+    {
+        "nombre": "Felipe Santana",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1986"
+    },
+    {
+        "nombre": "Ioannis Fetfatzidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.12.1990"
+    },
+    {
+        "nombre": "Alfreð Finnbogason",
+        "pais": "Islandia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.02.1989"
+    },
+    {
+        "nombre": "Kostas Fortounis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.10.1992"
+    },
+    {
+        "nombre": "Antonios Fouasis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.06.1998"
+    },
+    {
+        "nombre": "Fran Yeste",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.12.1979"
+    },
+    {
+        "nombre": "Juan Funes",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.03.1963"
+    },
+    {
+        "nombre": "Giannis Gaitatzis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.04.1944"
+    },
+    {
+        "nombre": "Maik Galakos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.11.1951"
+    },
+    {
+        "nombre": "Georgios Galitsios",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.07.1986"
+    },
+    {
+        "nombre": "Luciano Galletti",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.04.1980"
+    },
+    {
+        "nombre": "Iason Gavalas",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.01.1998"
+    },
+    {
+        "nombre": "Grigoris Georgatos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.10.1972"
+    },
+    {
+        "nombre": "Giorgos Charalampos Georgiadis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.03.1972"
+    },
+    {
+        "nombre": "Angelos Georgiou",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.08.1974"
+    },
+    {
+        "nombre": "Gevorg Ghazaryan",
+        "pais": "Armenia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.04.1988"
+    },
+    {
+        "nombre": "Stylianos Giannakopoulos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.07.1974"
+    },
+    {
+        "nombre": "Giannis Gianniotas",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.04.1993"
+    },
+    {
+        "nombre": "Andreas Gianniotis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.12.1992"
+    },
+    {
+        "nombre": "Kleopas Giannou",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.05.1982"
+    },
+    {
+        "nombre": "Konstantinos Giannoulis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.12.1987"
+    },
+    {
+        "nombre": "Gil Dias",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.09.1996"
+    },
+    {
+        "nombre": "Guillaume Gillet",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1984"
+    },
+    {
+        "nombre": "Stavros Giorgiopoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.08.1978"
+    },
+    {
+        "nombre": "Nikos Gioutsos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.04.1942"
+    },
+    {
+        "nombre": "Giovanni",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.02.1972"
+    },
+    {
+        "nombre": "Giorgos Gkavasiadis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.12.1959"
+    },
+    {
+        "nombre": "Lakis Glezos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.02.1947"
+    },
+    {
+        "nombre": "Siniša Gogić",
+        "pais": "Chipre",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.10.1963"
+    },
+    {
+        "nombre": "Gonçalo Paciência",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.08.1994"
+    },
+    {
+        "nombre": "Takis Gonias",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.10.1971"
+    },
+    {
+        "nombre": "Mattheos Gotzias",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.06.1970"
+    },
+    {
+        "nombre": "Ioannis Gounaris",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.07.1952"
+    },
+    {
+        "nombre": "Dimitrios Goutas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.04.1994"
+    },
+    {
+        "nombre": "Petar Grbić",
+        "pais": "Montenegro",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.08.1988"
+    },
+    {
+        "nombre": "Leandro Greco",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.07.1986"
+    },
+    {
+        "nombre": "Guerrero",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.07.1990"
+    },
+    {
+        "nombre": "Guilherme",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.04.1991"
+    },
+    {
+        "nombre": "Ehsan Hajsafi",
+        "pais": "Irán",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.02.1990"
+    },
+    {
+        "nombre": "Minas Hantzidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.07.1966"
+    },
+    {
+        "nombre": "Ahmed Hassan",
+        "pais": "Egipto",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.03.1993"
+    },
+    {
+        "nombre": "Hernâni",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.08.1991"
+    },
+    {
+        "nombre": "Zhora Hovhannisyan",
+        "pais": "Armenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.04.1987"
+    },
+    {
+        "nombre": "In-beom Hwang",
+        "pais": "Corea del Sur",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.09.1996"
+    },
+    {
+        "nombre": "Ui-jo Hwang",
+        "pais": "Corea del Sur",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.08.1992"
+    },
+    {
+        "nombre": "Jahmir Hyka",
+        "pais": "Albania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.03.1988"
+    },
+    {
+        "nombre": "Ariel Ibagaza",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.10.1976"
+    },
+    {
+        "nombre": "Abdisalam Ibrahim",
+        "pais": "Noruega",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.05.1991"
+    },
+    {
+        "nombre": "Brown Ideye",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.10.1988"
+    },
+    {
+        "nombre": "Igor Silva",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.08.1996"
+    },
+    {
+        "nombre": "Nikolaos Ioannidis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.04.1994"
+    },
+    {
+        "nombre": "Vassilis Ioannidis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.06.1967"
+    },
+    {
+        "nombre": "Ilija Ivić",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.02.1971"
+    },
+    {
+        "nombre": "Ivica Ivušić",
+        "pais": "Croacia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.02.1995"
+    },
+    {
+        "nombre": "Marko Janković",
+        "pais": "Montenegro",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.07.1995"
+    },
+    {
+        "nombre": "Franco Jara",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.07.1988"
+    },
+    {
+        "nombre": "Javito",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.11.1983"
+    },
+    {
+        "nombre": "João Carvalho",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1997"
+    },
+    {
+        "nombre": "José Sá",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.01.1993"
+    },
+    {
+        "nombre": "Júlio César",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.11.1978"
+    },
+    {
+        "nombre": "Andrzej Juskowiak",
+        "pais": "Polonia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.11.1970"
+    },
+    {
+        "nombre": "Pantelis Kafes",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.06.1978"
+    },
+    {
+        "nombre": "Alexandros Kaklamanos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.05.1974"
+    },
+    {
+        "nombre": "Chris Kalantzis",
+        "pais": "Australia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.07.1968"
+    },
+    {
+        "nombre": "Alexios Kalogeropoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.07.2004"
+    },
+    {
+        "nombre": "Vaggelis Kalogeropoulos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.02.1965"
+    },
+    {
+        "nombre": "Agapios Kaltaveridis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.01.1962"
+    },
+    {
+        "nombre": "Christos Kaltsas",
+        "pais": "Rumania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.12.1956"
+    },
+    {
+        "nombre": "Dimitrios Kalykas",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.05.1974"
+    },
+    {
+        "nombre": "Aboubakar Kamara",
+        "pais": "Mauritania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.03.1995"
+    },
+    {
+        "nombre": "Mamadou Kané",
+        "pais": "Guinea",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.01.1997"
+    },
+    {
+        "nombre": "Petros Kanellos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "1957"
+    },
+    {
+        "nombre": "Stefanos Kapino",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.03.1994"
+    },
+    {
+        "nombre": "Giorgos Kapouranis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.05.1966"
+    },
+    {
+        "nombre": "Mihalis Kapsis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.10.1973"
+    },
+    {
+        "nombre": "Antonis Karageorgis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.05.1997"
+    },
+    {
+        "nombre": "Vasilis Karagounis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.01.1994"
+    },
+    {
+        "nombre": "Anastasios Karamanos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.09.1990"
+    },
+    {
+        "nombre": "Vasilis Karapialis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.06.1965"
+    },
+    {
+        "nombre": "Ilias Karargyris",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.06.2002"
+    },
+    {
+        "nombre": "Theofilos Karasavvidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.04.1971"
+    },
+    {
+        "nombre": "Kyriakos Karataidis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.07.1965"
+    },
+    {
+        "nombre": "Angelos Karatasios",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.06.1997"
+    },
+    {
+        "nombre": "Petros Karavitis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.03.1952"
+    },
+    {
+        "nombre": "Michał Karbownik",
+        "pais": "Polonia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.03.2001"
+    },
+    {
+        "nombre": "Christian Karembeu",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.12.1970"
+    },
+    {
+        "nombre": "Gus Kartes",
+        "pais": "Estados Unidos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.10.1981"
+    },
+    {
+        "nombre": "Pajtim Kasami",
+        "pais": "Suiza",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.06.1992"
+    },
+    {
+        "nombre": "Aleksandar Katai",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.02.1991"
+    },
+    {
+        "nombre": "Theofanis Katergiannakis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.02.1974"
+    },
+    {
+        "nombre": "Makis Katsavakis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.01.1953"
+    },
+    {
+        "nombre": "Georgios Katsikogiannis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.09.1988"
+    },
+    {
+        "nombre": "Dimitrios Katsimitros",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.06.1997"
+    },
+    {
+        "nombre": "Jacek Kazimierski",
+        "pais": "Polonia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.08.1959"
+    },
+    {
+        "nombre": "Colin Kâzım-Richards",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.08.1986"
+    },
+    {
+        "nombre": "Abdoulaye Keita",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.01.1994"
+    },
+    {
+        "nombre": "Panagiotis Kelesidis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.03.1950"
+    },
+    {
+        "nombre": "Étienne Kinkoue",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.01.2002"
+    },
+    {
+        "nombre": "Fotios Kitsos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.03.2003"
+    },
+    {
+        "nombre": "Dimitrios Klingopoulos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1998"
+    },
+    {
+        "nombre": "Savvas Kofidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.02.1961"
+    },
+    {
+        "nombre": "Giorgos Kokolakis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.09.1960"
+    },
+    {
+        "nombre": "Dimitrios Kolovos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.04.1993"
+    },
+    {
+        "nombre": "Michalis Konstantinou",
+        "pais": "Chipre",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.02.1978"
+    },
+    {
+        "nombre": "Christos Kontis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.05.1975"
+    },
+    {
+        "nombre": "Thanasis Kostanasios",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.01.1999"
+    },
+    {
+        "nombre": "Ioannis Kosti",
+        "pais": "Chipre",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.03.2000"
+    },
+    {
+        "nombre": "Giorgios Kostikos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.04.1958"
+    },
+    {
+        "nombre": "Athanasios Kostoulas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.03.1976"
+    },
+    {
+        "nombre": "Kostas Kotsaridis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.06.1992"
+    },
+    {
+        "nombre": "Efthimios Kouloucheris",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.03.1981"
+    },
+    {
+        "nombre": "Kyriakos Koureas",
+        "pais": "Chipre",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.09.1947"
+    },
+    {
+        "nombre": "Vaggelis Kousoulakis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.04.1954"
+    },
+    {
+        "nombre": "Leonardo Koutris",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.07.1995"
+    },
+    {
+        "nombre": "Paul Koutsoliakos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.07.1966"
+    },
+    {
+        "nombre": "Pavel Kováč",
+        "pais": "Eslovaquia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.08.1974"
+    },
+    {
+        "nombre": "Darko Kovačević",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.11.1973"
+    },
+    {
+        "nombre": "Emil Kremenliev",
+        "pais": "Bulgaria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.08.1969"
+    },
+    {
+        "nombre": "Ögmundur Kristinsson",
+        "pais": "Islandia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.06.1989"
+    },
+    {
+        "nombre": "Mihalis Kritikopoulos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.01.1946"
+    },
+    {
+        "nombre": "Pierre Kunde",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.07.1995"
+    },
+    {
+        "nombre": "Marcin Kuźba",
+        "pais": "Polonia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.04.1977"
+    },
+    {
+        "nombre": "Giannis Kyrastas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.10.1952"
+    },
+    {
+        "nombre": "Anastasios Kyriakos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.09.1978"
+    },
+    {
+        "nombre": "Qazim Laçi",
+        "pais": "Albania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.01.1996"
+    },
+    {
+        "nombre": "Kostas Laifis",
+        "pais": "Chipre",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.05.1993"
+    },
+    {
+        "nombre": "Vassilios Lakis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.09.1976"
+    },
+    {
+        "nombre": "Kenny Lala",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.10.1991"
+    },
+    {
+        "nombre": "Stathis Lamprou",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.09.1998"
+    },
+    {
+        "nombre": "Nicola Leali",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.02.1993"
+    },
+    {
+        "nombre": "Leandro Pinto",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.01.1994"
+    },
+    {
+        "nombre": "Leandro Salino",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.04.1985"
+    },
+    {
+        "nombre": "Cristian Ledesma",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.11.1978"
+    },
+    {
+        "nombre": "Doron Leidner",
+        "pais": "Israel",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.04.2002"
+    },
+    {
+        "nombre": "Erwin Lemmens",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.05.1976"
+    },
+    {
+        "nombre": "Takis Lemonis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.01.1960"
+    },
+    {
+        "nombre": "Leonardo",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.08.1985"
+    },
+    {
+        "nombre": "Sebastián Leto",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.08.1986"
+    },
+    {
+        "nombre": "Christos Liatsos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.09.2003"
+    },
+    {
+        "nombre": "Thomas Liolios",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.11.1954"
+    },
+    {
+        "nombre": "Christos Lisgaras",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.02.1986"
+    },
+    {
+        "nombre": "Gennadiy Litovchenko",
+        "pais": "Ucrania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.09.1963"
+    },
+    {
+        "nombre": "Yuriy Lodygin",
+        "pais": "Rusia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.05.1990"
+    },
+    {
+        "nombre": "Julio Losada",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.06.1950"
+    },
+    {
+        "nombre": "Maximiliano Lovera",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1999"
+    },
+    {
+        "nombre": "Lomana LuaLua",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.12.1980"
+    },
+    {
+        "nombre": "Luciano",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.08.1972"
+    },
+    {
+        "nombre": "Charalampos Lykogiannis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.10.1993"
+    },
+    {
+        "nombre": "Yann M'Vila",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.06.1990"
+    },
+    {
+        "nombre": "Jean Makoun",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.05.1983"
+    },
+    {
+        "nombre": "Ioannis Maniatis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.10.1986"
+    },
+    {
+        "nombre": "Giorgos Manolakis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.05.1999"
+    },
+    {
+        "nombre": "Kostas Manolas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.06.1991"
+    },
+    {
+        "nombre": "Dimitrios Manos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.09.1994"
+    },
+    {
+        "nombre": "Georgios Manthatis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.05.1997"
+    },
+    {
+        "nombre": "Marcano",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.06.1987"
+    },
+    {
+        "nombre": "Marcelo",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.05.1988"
+    },
+    {
+        "nombre": "Enzo Maresca",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.02.1980"
+    },
+    {
+        "nombre": "Miloš Marić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.03.1982"
+    },
+    {
+        "nombre": "Marko Marin",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.03.1989"
+    },
+    {
+        "nombre": "Petros Marinakis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.02.1968"
+    },
+    {
+        "nombre": "Georgios Marinos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.05.2000"
+    },
+    {
+        "nombre": "Svetozar Marković",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.03.2000"
+    },
+    {
+        "nombre": "Nicolás Martínez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.09.1987"
+    },
+    {
+        "nombre": "Apostolos-Ilias Martinis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.01.2001"
+    },
+    {
+        "nombre": "Georgios Masouras",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.01.1994"
+    },
+    {
+        "nombre": "Giannis Masouras",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.08.1996"
+    },
+    {
+        "nombre": "Arthur Masuaku",
+        "pais": "R.D. Congo",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.11.1993"
+    },
+    {
+        "nombre": "Leuteris Matsoukas",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.03.1986"
+    },
+    {
+        "nombre": "Dimitrios Mavrogenidis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.12.1976"
+    },
+    {
+        "nombre": "Sotiris Mavromatis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.02.1966"
+    },
+    {
+        "nombre": "Pavlos Mavroudis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.01.2001"
+    },
+    {
+        "nombre": "Carl Medjani",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.05.1985"
+    },
+    {
+        "nombre": "Konstantinos Megaritis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.01.1997"
+    },
+    {
+        "nombre": "Balázs Megyeri",
+        "pais": "Hungría",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.03.1990"
+    },
+    {
+        "nombre": "Olof Mellberg",
+        "pais": "Suecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1977"
+    },
+    {
+        "nombre": "Konstantinos Mendrinos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.05.1985"
+    },
+    {
+        "nombre": "Yassine Meriah",
+        "pais": "Túnez",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.07.1993"
+    },
+    {
+        "nombre": "Petros Michos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.02.1959"
+    },
+    {
+        "nombre": "Miguel Torres",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.01.1986"
+    },
+    {
+        "nombre": "Hrvoje Milić",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.05.1989"
+    },
+    {
+        "nombre": "Luka Milivojević",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.04.1991"
+    },
+    {
+        "nombre": "Kevin Mirallas",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.10.1987"
+    },
+    {
+        "nombre": "Giorgos Mirtsos",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.12.1964"
+    },
+    {
+        "nombre": "Kostas Mitroglou",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.03.1988"
+    },
+    {
+        "nombre": "Anastasios Mitropoulos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.08.1957"
+    },
+    {
+        "nombre": "Giorgos Mitsibonas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.11.1962"
+    },
+    {
+        "nombre": "François Modesto",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.08.1978"
+    },
+    {
+        "nombre": "Moisés Hurtado",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.02.1981"
+    },
+    {
+        "nombre": "Panagiotis Molakidis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.08.1963"
+    },
+    {
+        "nombre": "Alfredo Monje",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.06.1981"
+    },
+    {
+        "nombre": "Emre Mor",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.07.1997"
+    },
+    {
+        "nombre": "Vassilis Mouratidis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.01.1967"
+    },
+    {
+        "nombre": "Isaak Moustakidis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.07.1968"
+    },
+    {
+        "nombre": "Delvin N'Dinga",
+        "pais": "Congo",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.03.1988"
+    },
+    {
+        "nombre": "Nahuel Leiva",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.11.1996"
+    },
+    {
+        "nombre": "Bibras Natcho",
+        "pais": "Israel",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.02.1988"
+    },
+    {
+        "nombre": "Andreas Ndoj",
+        "pais": "Albania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.2003"
+    },
+    {
+        "nombre": "Marco Né",
+        "pais": "Costa de Marfil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.07.1983"
+    },
+    {
+        "nombre": "Krisztián Németh",
+        "pais": "Hungría",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.01.1989"
+    },
+    {
+        "nombre": "Nikos Nentidis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.06.1966"
+    },
+    {
+        "nombre": "Georgios Neofytidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.07.2000"
+    },
+    {
+        "nombre": "Herbert Neumann",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.11.1953"
+    },
+    {
+        "nombre": "Georgios Niklitsiotis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.03.1991"
+    },
+    {
+        "nombre": "Dimitrios Nikolaou",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.08.1998"
+    },
+    {
+        "nombre": "Alexandros Nikolias",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.07.1994"
+    },
+    {
+        "nombre": "Nemanja Nikolić",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.02.2001"
+    },
+    {
+        "nombre": "Nikitas Nikolis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.06.2002"
+    },
+    {
+        "nombre": "Takis Nikoloudis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.08.1951"
+    },
+    {
+        "nombre": "Antonis Nikopolidis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.01.1971"
+    },
+    {
+        "nombre": "Andreas Niniadis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.02.1971"
+    },
+    {
+        "nombre": "Džoni Novak",
+        "pais": "Eslovenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.09.1969"
+    },
+    {
+        "nombre": "Martin Novoselac",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.11.1950"
+    },
+    {
+        "nombre": "Leonel Núñez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.10.1984"
+    },
+    {
+        "nombre": "Vadis Odjidja-Ofoe",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.02.1989"
+    },
+    {
+        "nombre": "Peter Ofori-Quaye",
+        "pais": "Ghana",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.03.1980"
+    },
+    {
+        "nombre": "Yiannis Okkas",
+        "pais": "Chipre",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.02.1977"
+    },
+    {
+        "nombre": "Michael Olaitan",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.01.1993"
+    },
+    {
+        "nombre": "Henry Onyekuru",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.06.1997"
+    },
+    {
+        "nombre": "Orbaiz",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.02.1979"
+    },
+    {
+        "nombre": "Kostas Orfanos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.09.1956"
+    },
+    {
+        "nombre": "Óscar",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.11.1982"
+    },
+    {
+        "nombre": "Abdeslam Ouaddou",
+        "pais": "Marruecos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.11.1978"
+    },
+    {
+        "nombre": "Theodoros Pachatouridis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.09.1967"
+    },
+    {
+        "nombre": "Theodoros Pallas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.05.1949"
+    },
+    {
+        "nombre": "Leonidas Panagopoulos",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.10.1987"
+    },
+    {
+        "nombre": "Konstantinos Panagou",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.06.1998"
+    },
+    {
+        "nombre": "Epaminondas Pantelakis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.02.1995"
+    },
+    {
+        "nombre": "Marko Pantelić",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.09.1978"
+    },
+    {
+        "nombre": "Anastasios Pantos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.05.1976"
+    },
+    {
+        "nombre": "Vasilis Papachristou",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.01.1959"
+    },
+    {
+        "nombre": "Panagiotis Papadimitriou",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.06.1949"
+    },
+    {
+        "nombre": "Avraam Papadopoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.12.1984"
+    },
+    {
+        "nombre": "Giannis Papadopoulos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1989"
+    },
+    {
+        "nombre": "Kyriakos Papadopoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.02.1992"
+    },
+    {
+        "nombre": "Nikos Papadopoulos",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.04.1990"
+    },
+    {
+        "nombre": "Pamboulis Papadopoulos",
+        "pais": "Chipre",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.05.1947"
+    },
+    {
+        "nombre": "Stavros Papadopoulos",
+        "pais": "Chipre",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.09.1953"
+    },
+    {
+        "nombre": "Athanasios-Theologos Papadoudis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.09.2003"
+    },
+    {
+        "nombre": "Vassileios Papaggelis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.07.1959"
+    },
+    {
+        "nombre": "Antonis Papasavvas",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.03.1995"
+    },
+    {
+        "nombre": "Sokratis Papastathopoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.06.1988"
+    },
+    {
+        "nombre": "Tasos Papazoglou",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.09.1988"
+    },
+    {
+        "nombre": "Charis Pappas",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.05.1983"
+    },
+    {
+        "nombre": "Soulis Pappas",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.05.1947"
+    },
+    {
+        "nombre": "Felipe Pardo",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.08.1990"
+    },
+    {
+        "nombre": "Juan Paredes",
+        "pais": "Ecuador",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.07.1987"
+    },
+    {
+        "nombre": "Alexandros Paschalakis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.07.1989"
+    },
+    {
+        "nombre": "Petros Passalis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.04.1974"
+    },
+    {
+        "nombre": "Christos Patsatzoglou",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.03.1979"
+    },
+    {
+        "nombre": "Paulo Machado",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.03.1986"
+    },
+    {
+        "nombre": "Nikolaos Peios",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.06.1999"
+    },
+    {
+        "nombre": "Pelé",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.09.1987"
+    },
+    {
+        "nombre": "Pep Biel",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.09.1996"
+    },
+    {
+        "nombre": "Pêpê",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.05.1997"
+    },
+    {
+        "nombre": "Hernán Pérez",
+        "pais": "Paraguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.02.1989"
+    },
+    {
+        "nombre": "Rafael Perone",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.09.1953"
+    },
+    {
+        "nombre": "Takis Persias",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.12.1957"
+    },
+    {
+        "nombre": "Peter Persidis",
+        "pais": "Austria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.03.1947"
+    },
+    {
+        "nombre": "Peter Philipakos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.01.1983"
+    },
+    {
+        "nombre": "Juan Pino",
+        "pais": "Colombia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.03.1987"
+    },
+    {
+        "nombre": "Pipa",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.01.1998"
+    },
+    {
+        "nombre": "Konstantinos Plegas",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.04.1997"
+    },
+    {
+        "nombre": "Mimis Plessas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.11.1944"
+    },
+    {
+        "nombre": "Giorgos Plitsis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.08.1963"
+    },
+    {
+        "nombre": "Giorgi Popkhadze",
+        "pais": "Georgia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.09.1986"
+    },
+    {
+        "nombre": "Giannis Potouridis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.02.1992"
+    },
+    {
+        "nombre": "Eleftherios Poupakis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.12.1946"
+    },
+    {
+        "nombre": "Savvas Poursaitidis",
+        "pais": "Chipre",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.06.1976"
+    },
+    {
+        "nombre": "Ilias Poursanidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.04.1972"
+    },
+    {
+        "nombre": "Oleg Protasov",
+        "pais": "Ucrania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.02.1964"
+    },
+    {
+        "nombre": "Silvio Proto",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "23.05.1983"
+    },
+    {
+        "nombre": "Giannis Provokas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.11.1954"
+    },
+    {
+        "nombre": "Christos Pseftis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.05.1959"
+    },
+    {
+        "nombre": "Alan Pulido",
+        "pais": "México",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.03.1991"
+    },
+    {
+        "nombre": "Rafinha",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.09.1985"
+    },
+    {
+        "nombre": "Ramon",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.03.2001"
+    },
+    {
+        "nombre": "Lazar Ranđelović",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.08.1997"
+    },
+    {
+        "nombre": "Alekos Rantos",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.10.1966"
+    },
+    {
+        "nombre": "Raúl Bravo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.04.1981"
+    },
+    {
+        "nombre": "Oleg Reabciuk",
+        "pais": "Moldavia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.01.1998"
+    },
+    {
+        "nombre": "Steve Refenes",
+        "pais": "Australia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.02.1970"
+    },
+    {
+        "nombre": "Panagiotis Retsos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.08.1998"
+    },
+    {
+        "nombre": "Ivan Režić",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.09.1979"
+    },
+    {
+        "nombre": "Spyros Risvanis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.01.1994"
+    },
+    {
+        "nombre": "Rivaldo",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.04.1972"
+    },
+    {
+        "nombre": "Roberto",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.02.1986"
+    },
+    {
+        "nombre": "Zizi Roberts",
+        "pais": "Liberia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.06.1979"
+    },
+    {
+        "nombre": "Roderick Miranda",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1991"
+    },
+    {
+        "nombre": "Rodinei",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.01.1992"
+    },
+    {
+        "nombre": "Garry Rodrigues",
+        "pais": "Cabo Verde",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.11.1990"
+    },
+    {
+        "nombre": "James Rodríguez",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.07.1991"
+    },
+    {
+        "nombre": "Thomas Rohrbach",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.04.1949"
+    },
+    {
+        "nombre": "Alaixys Romao",
+        "pais": "Togo",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.01.1984"
+    },
+    {
+        "nombre": "Dennis Rommedahl",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.07.1978"
+    },
+    {
+        "nombre": "Rony Lopes",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.12.1995"
+    },
+    {
+        "nombre": "Kostas Rougalas",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.10.1993"
+    },
+    {
+        "nombre": "Rúben Semedo",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.04.1994"
+    },
+    {
+        "nombre": "Rúben Vinagre",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.04.1999"
+    },
+    {
+        "nombre": "Refik Šabanadžović",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.08.1965"
+    },
+    {
+        "nombre": "Manolis Saliakas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.09.1996"
+    },
+    {
+        "nombre": "Andreas Samaris",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.06.1989"
+    },
+    {
+        "nombre": "Diadié Samassékou",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.01.1996"
+    },
+    {
+        "nombre": "Håkan Sandberg",
+        "pais": "Suecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.07.1958"
+    },
+    {
+        "nombre": "Ilias Sapanis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.12.1973"
+    },
+    {
+        "nombre": "Georgios Sapounas",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.02.1985"
+    },
+    {
+        "nombre": "Anastasios Sapountzis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.01.2002"
+    },
+    {
+        "nombre": "Nikos Sarganis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.01.1954"
+    },
+    {
+        "nombre": "Yuriy Savichev",
+        "pais": "Rusia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.02.1965"
+    },
+    {
+        "nombre": "Javier Saviola",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.12.1981"
+    },
+    {
+        "nombre": "Gregory Savva",
+        "pais": "Chipre",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.07.1955"
+    },
+    {
+        "nombre": "Ilias Savvidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.11.1967"
+    },
+    {
+        "nombre": "Marko Šćepović",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.05.1991"
+    },
+    {
+        "nombre": "Gabriel Schürrer",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.08.1971"
+    },
+    {
+        "nombre": "Sebá",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.06.1992"
+    },
+    {
+        "nombre": "Giorgos Semertzidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.06.1957"
+    },
+    {
+        "nombre": "Sergi Canós",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.02.1997"
+    },
+    {
+        "nombre": "Miloš Šestić",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.08.1956"
+    },
+    {
+        "nombre": "Stylianos Sfakianakis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.03.1976"
+    },
+    {
+        "nombre": "Vasil Shkurtaj",
+        "pais": "Albania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.02.1992"
+    },
+    {
+        "nombre": "Marios Siabanis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.09.1999"
+    },
+    {
+        "nombre": "Giannis Siderakis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.11.1987"
+    },
+    {
+        "nombre": "Michail Sifakis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "09.09.1984"
+    },
+    {
+        "nombre": "Yiangos Simantiris",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "1940"
+    },
+    {
+        "nombre": "Vasilis Siokos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.05.1947"
+    },
+    {
+        "nombre": "Manolis Siopis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.05.1994"
+    },
+    {
+        "nombre": "Dimitrios Siovas",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.09.1988"
+    },
+    {
+        "nombre": "Mirnes Šišić",
+        "pais": "Eslovenia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.08.1981"
+    },
+    {
+        "nombre": "Dimitrios Skafidas",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.08.1999"
+    },
+    {
+        "nombre": "Giorgos Skartados",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.04.1960"
+    },
+    {
+        "nombre": "Dimitris Skounas",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.08.1960"
+    },
+    {
+        "nombre": "Takis Sofianopoulos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.07.1968"
+    },
+    {
+        "nombre": "Aristides Soiledis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.02.1991"
+    },
+    {
+        "nombre": "Franco Soldano",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.09.1994"
+    },
+    {
+        "nombre": "Hillal Soudani",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.11.1987"
+    },
+    {
+        "nombre": "Vasilios Sourlis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.11.2002"
+    },
+    {
+        "nombre": "Niels Sørensen",
+        "pais": "Dinamarca",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.11.1951"
+    },
+    {
+        "nombre": "Derek Spence",
+        "pais": "Irlanda del Norte",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.01.1952"
+    },
+    {
+        "nombre": "Georgios Stamoulis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.01.2003"
+    },
+    {
+        "nombre": "Charalambos Stavropoulos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "1947"
+    },
+    {
+        "nombre": "Ieroklis Stoltidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.02.1975"
+    },
+    {
+        "nombre": "Fota Strakosha",
+        "pais": "Albania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.03.1965"
+    },
+    {
+        "nombre": "Georgios Strezos",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.07.1995"
+    },
+    {
+        "nombre": "Takis Synetopoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.12.1948"
+    },
+    {
+        "nombre": "Panagiotis Tachtsidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.02.1991"
+    },
+    {
+        "nombre": "Ilias Talikriadis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.07.1965"
+    },
+    {
+        "nombre": "Giannis Taralidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.05.1981"
+    },
+    {
+        "nombre": "Andreas Tatos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.05.1989"
+    },
+    {
+        "nombre": "Alexandros Tatsis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.08.1979"
+    },
+    {
+        "nombre": "Tiago Silva",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.06.1993"
+    },
+    {
+        "nombre": "Tiquinho Soares",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.01.1991"
+    },
+    {
+        "nombre": "Kyriakos Tochouroglou",
+        "pais": "Australia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.08.1972"
+    },
+    {
+        "nombre": "Georgios Togias",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.01.1960"
+    },
+    {
+        "nombre": "Ardit Toli",
+        "pais": "Albania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.07.1997"
+    },
+    {
+        "nombre": "Vasilios Torosidis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.06.1985"
+    },
+    {
+        "nombre": "Yaya Touré",
+        "pais": "Costa de Marfil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.05.1983"
+    },
+    {
+        "nombre": "Yves Triantafilos",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.10.1948"
+    },
+    {
+        "nombre": "Grigoris Troupkos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.12.1971"
+    },
+    {
+        "nombre": "Panagiotis Tsalouchidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.03.1963"
+    },
+    {
+        "nombre": "Angelos Tsavos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.04.2002"
+    },
+    {
+        "nombre": "Anastasios-Andreas Tselios",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.10.2002"
+    },
+    {
+        "nombre": "Nikos Tsiantakis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.10.1963"
+    },
+    {
+        "nombre": "Kostas Tsimikas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.05.1996"
+    },
+    {
+        "nombre": "Theofanis Tzandaris",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.06.1993"
+    },
+    {
+        "nombre": "Nikos Tzinis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "1942"
+    },
+    {
+        "nombre": "Konstantinos Tzolakis",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.11.2002"
+    },
+    {
+        "nombre": "Urko",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.01.1983"
+    },
+    {
+        "nombre": "Tomáš Vaclík",
+        "pais": "República Checa",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.03.1989"
+    },
+    {
+        "nombre": "Giorgos Vaitsis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.08.1967"
+    },
+    {
+        "nombre": "Mathieu Valbuena",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.09.1984"
+    },
+    {
+        "nombre": "Nelson Valdez",
+        "pais": "Paraguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.11.1983"
+    },
+    {
+        "nombre": "Georgios Valerianos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.02.1992"
+    },
+    {
+        "nombre": "Spiros Vallas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.08.1981"
+    },
+    {
+        "nombre": "Nikos Vamvakoulas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.01.1957"
+    },
+    {
+        "nombre": "Mirza Varesanović",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.05.1972"
+    },
+    {
+        "nombre": "Pavlos Vasiliou",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.12.1940"
+    },
+    {
+        "nombre": "Andreas Vasilogiannis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.02.1991"
+    },
+    {
+        "nombre": "Giorgos Vasilopoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.10.1946"
+    },
+    {
+        "nombre": "Antonis Vatousiadis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.04.1996"
+    },
+    {
+        "nombre": "Stylianos Venetidis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.11.1976"
+    },
+    {
+        "nombre": "Nikolaos Vergos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.01.1996"
+    },
+    {
+        "nombre": "Milton Viera",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.05.1946"
+    },
+    {
+        "nombre": "Panagiotis Vlachodimos",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.10.1991"
+    },
+    {
+        "nombre": "Michalis Vlachos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.09.1967"
+    },
+    {
+        "nombre": "Alexandros Voilis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.05.2000"
+    },
+    {
+        "nombre": "Praxitelis Vouros",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.05.1995"
+    },
+    {
+        "nombre": "Vasilis Vouzas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.03.1966"
+    },
+    {
+        "nombre": "Igor Vrablic",
+        "pais": "Canadá",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.07.1965"
+    },
+    {
+        "nombre": "Marios Vrousai",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.07.1998"
+    },
+    {
+        "nombre": "Šime Vrsaljko",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.01.1992"
+    },
+    {
+        "nombre": "Jagoš Vuković",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.06.1988"
+    },
+    {
+        "nombre": "Wanderson",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.02.1994"
+    },
+    {
+        "nombre": "Vladimír Weiss",
+        "pais": "Eslovaquia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.11.1989"
+    },
+    {
+        "nombre": "Kurt Welzl",
+        "pais": "Austria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.11.1954"
+    },
+    {
+        "nombre": "Petros Xanthopoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.04.1959"
+    },
+    {
+        "nombre": "Georgios Xenitidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.09.1999"
+    },
+    {
+        "nombre": "Sambou Yatabaré",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.03.1989"
+    },
+    {
+        "nombre": "Rashidi Yekini",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.10.1963"
+    },
+    {
+        "nombre": "Zlatko Zahovič",
+        "pais": "Eslovenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.02.1971"
+    },
+    {
+        "nombre": "Jaouad Zairi",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.04.1982"
+    },
+    {
+        "nombre": "Christos Zanteroglou",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.07.1940"
+    },
+    {
+        "nombre": "Giannis Zaradoukas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.12.1985"
+    },
+    {
+        "nombre": "Saša Zdjelar",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.03.1995"
+    },
+    {
+        "nombre": "Zé Elias",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.09.1976"
+    },
+    {
+        "nombre": "Theodoros Zelilidis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.11.1959"
+    },
+    {
+        "nombre": "Pär Zetterberg",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.10.1970"
+    },
+    {
+        "nombre": "Michał Żewłakow",
+        "pais": "Polonia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.04.1976"
+    },
+    {
+        "nombre": "Philip Zinckernagel",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.12.1994"
+    },
+    {
+        "nombre": "Giorgos Zindros",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.05.1955"
+    },
+    {
+        "nombre": "Giannis Zoannos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.03.1949"
+    }
+]
