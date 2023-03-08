@@ -1,0 +1,3434 @@
+[
+    {
+        "nombre": "Yassine Abdellaoui",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.06.1975"
+    },
+    {
+        "nombre": "Abel Resino",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.02.1960"
+    },
+    {
+        "nombre": "Mohammed Abu",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.11.1991"
+    },
+    {
+        "nombre": "Juan Acosta",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.05.1957"
+    },
+    {
+        "nombre": "Adrián",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.05.1988"
+    },
+    {
+        "nombre": "Adrián Carrasco",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.10.1996"
+    },
+    {
+        "nombre": "Adrián Embarba",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.05.1992"
+    },
+    {
+        "nombre": "Adrián Moya",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.03.2001"
+    },
+    {
+        "nombre": "Adrián Saballs",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.07.1995"
+    },
+    {
+        "nombre": "Luis Advíncula",
+        "pais": "Perú",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.03.1990"
+    },
+    {
+        "nombre": "Aganzo",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1981"
+    },
+    {
+        "nombre": "Uche Agbo",
+        "pais": "Nigeria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.12.1995"
+    },
+    {
+        "nombre": "Wilfred Agbonavbare",
+        "pais": "Nigeria",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.10.1966"
+    },
+    {
+        "nombre": "Aguilar",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.03.1949"
+    },
+    {
+        "nombre": "Aguilar",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.05.1952"
+    },
+    {
+        "nombre": "Agujetas",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.08.1971"
+    },
+    {
+        "nombre": "Aitor Núñez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.10.1987"
+    },
+    {
+        "nombre": "Akieme",
+        "pais": "Guinea Ecuatorial",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.12.1997"
+    },
+    {
+        "nombre": "Abdulmajeed Al Sulayhem",
+        "pais": "Arabia Saudita",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.05.1994"
+    },
+    {
+        "nombre": "Alabanda",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.10.1950"
+    },
+    {
+        "nombre": "Alberto",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "09.02.1985"
+    },
+    {
+        "nombre": "Alberto",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.02.1999"
+    },
+    {
+        "nombre": "Alberto Cifuentes",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.05.1979"
+    },
+    {
+        "nombre": "Alberto Perea",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.12.1990"
+    },
+    {
+        "nombre": "Albiol",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.09.1981"
+    },
+    {
+        "nombre": "Alcañiz",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.07.1990"
+    },
+    {
+        "nombre": "Alcázar",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.05.1954"
+    },
+    {
+        "nombre": "Alcázar",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.04.1967"
+    },
+    {
+        "nombre": "Alejandro Asensio",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.09.2000"
+    },
+    {
+        "nombre": "Álex Alegría",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.10.1992"
+    },
+    {
+        "nombre": "Álex Campos",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.06.1991"
+    },
+    {
+        "nombre": "Álex García",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.01.1970"
+    },
+    {
+        "nombre": "Álex Moreno",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.06.1993"
+    },
+    {
+        "nombre": "Cristian Álvarez",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.11.1985"
+    },
+    {
+        "nombre": "Julio Álvarez",
+        "pais": "Venezuela",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.05.1981"
+    },
+    {
+        "nombre": "Roberto Álvarez",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.09.1954"
+    },
+    {
+        "nombre": "Alvarito",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.01.1952"
+    },
+    {
+        "nombre": "Álvaro Aguirre",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.02.2000"
+    },
+    {
+        "nombre": "Álvaro García",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.10.1992"
+    },
+    {
+        "nombre": "Amaya",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1978"
+    },
+    {
+        "nombre": "Amaya",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.05.1983"
+    },
+    {
+        "nombre": "Horacio Ameli",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.07.1974"
+    },
+    {
+        "nombre": "Amores",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.02.1985"
+    },
+    {
+        "nombre": "Søren Andersen",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.01.1970"
+    },
+    {
+        "nombre": "Andrés",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.08.1964"
+    },
+    {
+        "nombre": "Andrés Martín",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.07.1999"
+    },
+    {
+        "nombre": "Stjepan Andrijašević",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.02.1967"
+    },
+    {
+        "nombre": "Anero",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.09.1953"
+    },
+    {
+        "nombre": "Ángel Algobia",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.06.1999"
+    },
+    {
+        "nombre": "Ángel Crespo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.02.1987"
+    },
+    {
+        "nombre": "Ángel Férez",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.01.1966"
+    },
+    {
+        "nombre": "Ángel Martínez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.01.1986"
+    },
+    {
+        "nombre": "Brayan Angulo",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.11.1989"
+    },
+    {
+        "nombre": "Antoñín",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.04.2000"
+    },
+    {
+        "nombre": "Antonio Luna",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1991"
+    },
+    {
+        "nombre": "Daniel Aquino",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.06.1965"
+    },
+    {
+        "nombre": "Javier Aquino",
+        "pais": "México",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.02.1990"
+    },
+    {
+        "nombre": "Aráez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.05.1945"
+    },
+    {
+        "nombre": "Arana",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.12.1984"
+    },
+    {
+        "nombre": "Arbilla",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.05.1987"
+    },
+    {
+        "nombre": "Mauricio Arboleda",
+        "pais": "Colombia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.04.1996"
+    },
+    {
+        "nombre": "Argenta",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.09.1962"
+    },
+    {
+        "nombre": "Mariano Armentano",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.07.1974"
+    },
+    {
+        "nombre": "Emiliano Armenteros",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.01.1986"
+    },
+    {
+        "nombre": "Arratia",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.04.2000"
+    },
+    {
+        "nombre": "Arregi",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.10.1979"
+    },
+    {
+        "nombre": "Alejandro Arribas",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.05.1989"
+    },
+    {
+        "nombre": "Arteaga",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.06.1969"
+    },
+    {
+        "nombre": "Daniel Astegiano",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.08.1952"
+    },
+    {
+        "nombre": "Ayarza",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.09.1965"
+    },
+    {
+        "nombre": "Azcona",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.02.1964"
+    },
+    {
+        "nombre": "Azkoitia",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.04.1974"
+    },
+    {
+        "nombre": "Abdoulaye Ba",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.01.1991"
+    },
+    {
+        "nombre": "Baiano",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.02.1987"
+    },
+    {
+        "nombre": "Elvir Baljić",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.07.1974"
+    },
+    {
+        "nombre": "Ballesteros",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.09.1975"
+    },
+    {
+        "nombre": "Ballina",
+        "pais": "Guinea Ecuatorial",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.04.1964"
+    },
+    {
+        "nombre": "Balliu",
+        "pais": "Albania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.01.1992"
+    },
+    {
+        "nombre": "Alhassane Bangoura",
+        "pais": "Guinea",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.03.1992"
+    },
+    {
+        "nombre": "Baquero",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.10.1980"
+    },
+    {
+        "nombre": "Barla",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.01.1967"
+    },
+    {
+        "nombre": "Baroja",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.05.1970"
+    },
+    {
+        "nombre": "Gustavo Bartelt",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.09.1974"
+    },
+    {
+        "nombre": "Bebé",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.07.1990"
+    },
+    {
+        "nombre": "Eduardo Belza",
+        "pais": "Uruguay",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.09.1956"
+    },
+    {
+        "nombre": "Benítez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.12.1979"
+    },
+    {
+        "nombre": "Benito",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.05.1959"
+    },
+    {
+        "nombre": "Benito",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.10.1946"
+    },
+    {
+        "nombre": "Jan Berg",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.05.1965"
+    },
+    {
+        "nombre": "Leonardo Biagini",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.04.1977"
+    },
+    {
+        "nombre": "Nicki Bille Nielsen",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.02.1988"
+    },
+    {
+        "nombre": "Derek Boateng",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.05.1983"
+    },
+    {
+        "nombre": "Elvir Bolić",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.10.1971"
+    },
+    {
+        "nombre": "Bolo",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.03.1974"
+    },
+    {
+        "nombre": "Borja",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.02.1982"
+    },
+    {
+        "nombre": "Borja García",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.11.1990"
+    },
+    {
+        "nombre": "Borja Gómez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.05.1988"
+    },
+    {
+        "nombre": "Borja López",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1994"
+    },
+    {
+        "nombre": "Botella",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.12.1963"
+    },
+    {
+        "nombre": "Bravo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.04.1974"
+    },
+    {
+        "nombre": "Búa",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.10.1947"
+    },
+    {
+        "nombre": "Bueno",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.03.1988"
+    },
+    {
+        "nombre": "Calderón",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.06.1967"
+    },
+    {
+        "nombre": "Callejo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.04.1966"
+    },
+    {
+        "nombre": "Samuel Camille",
+        "pais": "Martinica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1986"
+    },
+    {
+        "nombre": "Camuñas",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.07.1980"
+    },
+    {
+        "nombre": "Canabal",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.11.1974"
+    },
+    {
+        "nombre": "Candil",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.08.1962"
+    },
+    {
+        "nombre": "Carlos Sastre",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.08.1968"
+    },
+    {
+        "nombre": "Carmelo Núñez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.04.1941"
+    },
+    {
+        "nombre": "Carou",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.11.1968"
+    },
+    {
+        "nombre": "Carvajal",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.05.1968"
+    },
+    {
+        "nombre": "Casado",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.08.1986"
+    },
+    {
+        "nombre": "Ezequiel Castillo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.03.1967"
+    },
+    {
+        "nombre": "Nery Castillo",
+        "pais": "México",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.06.1984"
+    },
+    {
+        "nombre": "Catena",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.10.1994"
+    },
+    {
+        "nombre": "Cavas",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.07.1974"
+    },
+    {
+        "nombre": "Francisco Cerro",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1988"
+    },
+    {
+        "nombre": "Chechu Dorado",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.07.1982"
+    },
+    {
+        "nombre": "Chesa",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.02.1970"
+    },
+    {
+        "nombre": "Chupe",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.01.1986"
+    },
+    {
+        "nombre": "Pathé Ciss",
+        "pais": "Senegal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.03.1994"
+    },
+    {
+        "nombre": "Ousseynou Cissé",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.04.1991"
+    },
+    {
+        "nombre": "Clotet",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.12.1972"
+    },
+    {
+        "nombre": "Cobeño",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.04.1982"
+    },
+    {
+        "nombre": "Coke",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.04.1987"
+    },
+    {
+        "nombre": "Collantes",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.01.1983"
+    },
+    {
+        "nombre": "Juan Comas",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.10.1962"
+    },
+    {
+        "nombre": "Contreras",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.01.1972"
+    },
+    {
+        "nombre": "Cortijo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.09.1966"
+    },
+    {
+        "nombre": "Cota",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.07.1967"
+    },
+    {
+        "nombre": "Franco Cristaldo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.08.1996"
+    },
+    {
+        "nombre": "Crusat",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.05.1982"
+    },
+    {
+        "nombre": "Cuadrado",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.02.1979"
+    },
+    {
+        "nombre": "Cubillo",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.1978"
+    },
+    {
+        "nombre": "Christian Cueva",
+        "pais": "Perú",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.11.1991"
+    },
+    {
+        "nombre": "Laurie Cunningham",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.03.1956"
+    },
+    {
+        "nombre": "Pedro Custodio",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.08.1953"
+    },
+    {
+        "nombre": "Osvaldo Damiano",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.01.1957"
+    },
+    {
+        "nombre": "Dani Bouzas",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.01.1974"
+    },
+    {
+        "nombre": "Dani Giménez",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.07.1983"
+    },
+    {
+        "nombre": "Dani Merino",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.01.1999"
+    },
+    {
+        "nombre": "Dani Moreno",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.09.2001"
+    },
+    {
+        "nombre": "Dani Pacheco",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.01.1991"
+    },
+    {
+        "nombre": "Dani Roiz",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "24.06.1980"
+    },
+    {
+        "nombre": "Dani Segovia",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.05.1985"
+    },
+    {
+        "nombre": "Yanko Daucík",
+        "pais": "República Checa",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.03.1941"
+    },
+    {
+        "nombre": "David Alba",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.04.1985"
+    },
+    {
+        "nombre": "David Lago",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.10.1979"
+    },
+    {
+        "nombre": "De Gomar",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.12.1984"
+    },
+    {
+        "nombre": "De la Vega",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.01.1980"
+    },
+    {
+        "nombre": "De Quintana",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.02.1972"
+    },
+    {
+        "nombre": "Andrija Delibašić",
+        "pais": "Montenegro",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.04.1981"
+    },
+    {
+        "nombre": "Franco Di Santo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.04.1989"
+    },
+    {
+        "nombre": "Diamanka",
+        "pais": "Senegal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.01.1990"
+    },
+    {
+        "nombre": "Momo Diamé",
+        "pais": "Senegal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.06.1987"
+    },
+    {
+        "nombre": "Diego Aguirre",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.10.1990"
+    },
+    {
+        "nombre": "Diego Benito",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.08.1988"
+    },
+    {
+        "nombre": "Diego Costa",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.10.1988"
+    },
+    {
+        "nombre": "Diego López",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.11.1981"
+    },
+    {
+        "nombre": "Diego Méndez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.08.2003"
+    },
+    {
+        "nombre": "Diego Torres",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.09.1978"
+    },
+    {
+        "nombre": "Díez",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.12.1955"
+    },
+    {
+        "nombre": "Stole Dimitrievski",
+        "pais": "Macedonia del Norte",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.12.1993"
+    },
+    {
+        "nombre": "Alejandro Domínguez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.06.1981"
+    },
+    {
+        "nombre": "Dorado",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.02.1977"
+    },
+    {
+        "nombre": "Mark Draper",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.11.1970"
+    },
+    {
+        "nombre": "Miloš Drizić",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.12.1960"
+    },
+    {
+        "nombre": "Dueñas",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.08.1946"
+    },
+    {
+        "nombre": "Dupi",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.06.1978"
+    },
+    {
+        "nombre": "Patrick Ebert",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.03.1987"
+    },
+    {
+        "nombre": "Echarri",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.09.1942"
+    },
+    {
+        "nombre": "Edu Albácar",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.11.1979"
+    },
+    {
+        "nombre": "Edu Rodríguez",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.02.1974"
+    },
+    {
+        "nombre": "Elustondo",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.03.1987"
+    },
+    {
+        "nombre": "Eneko Romo",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.09.1979"
+    },
+    {
+        "nombre": "Enguix",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.02.1978"
+    },
+    {
+        "nombre": "Escribano",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1957"
+    },
+    {
+        "nombre": "España",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.05.1973"
+    },
+    {
+        "nombre": "Estíbariz",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.05.1966"
+    },
+    {
+        "nombre": "Eutiquio",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.06.1961"
+    },
+    {
+        "nombre": "Fabián Luzzi",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.05.2004"
+    },
+    {
+        "nombre": "Radamel Falcao",
+        "pais": "Colombia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.02.1986"
+    },
+    {
+        "nombre": "Luis Fariña",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.04.1991"
+    },
+    {
+        "nombre": "Mohammed Fatau",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.12.1992"
+    },
+    {
+        "nombre": "Miku Fedor",
+        "pais": "Venezuela",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.08.1985"
+    },
+    {
+        "nombre": "Felines",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.10.1943"
+    },
+    {
+        "nombre": "Fermin",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.03.1948"
+    },
+    {
+        "nombre": "Sebastián Fernández",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.05.1985"
+    },
+    {
+        "nombre": "Fernando",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.05.1973"
+    },
+    {
+        "nombre": "Fernando López",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.06.1983"
+    },
+    {
+        "nombre": "Ferrón",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.08.1978"
+    },
+    {
+        "nombre": "Flaco Glaría",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.05.1966"
+    },
+    {
+        "nombre": "Daniel Flores",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.03.1955"
+    },
+    {
+        "nombre": "Cristian Florez",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.12.1994"
+    },
+    {
+        "nombre": "Fran Beltrán",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1999"
+    },
+    {
+        "nombre": "Fran García",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.08.1999"
+    },
+    {
+        "nombre": "Francis Cabral",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.11.1965"
+    },
+    {
+        "nombre": "Francisco",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.01.1950"
+    },
+    {
+        "nombre": "Galán",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.08.1950"
+    },
+    {
+        "nombre": "Galán",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.06.1986"
+    },
+    {
+        "nombre": "Leonel Galeano",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.08.1991"
+    },
+    {
+        "nombre": "Gallardo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.08.1974"
+    },
+    {
+        "nombre": "Gallego",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.12.1970"
+    },
+    {
+        "nombre": "Gallego",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.02.1959"
+    },
+    {
+        "nombre": "Gallego",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.02.1953"
+    },
+    {
+        "nombre": "Gálvez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.06.1989"
+    },
+    {
+        "nombre": "Gambín",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.08.1965"
+    },
+    {
+        "nombre": "Jorge Garcés",
+        "pais": "Chile",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.05.1954"
+    },
+    {
+        "nombre": "Lucho García",
+        "pais": "Colombia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.03.1998"
+    },
+    {
+        "nombre": "García Cortés",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.01.1958"
+    },
+    {
+        "nombre": "García Fernández",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.11.1941"
+    },
+    {
+        "nombre": "García Jimenez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.12.1961"
+    },
+    {
+        "nombre": "García Navajas",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.03.1958"
+    },
+    {
+        "nombre": "Paulo Gazzaniga",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.01.1992"
+    },
+    {
+        "nombre": "Robert Gehring",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.01.1976"
+    },
+    {
+        "nombre": "Geni",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.02.1980"
+    },
+    {
+        "nombre": "Jorge Ghiso",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.06.1951"
+    },
+    {
+        "nombre": "Darío Gigena",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.01.1978"
+    },
+    {
+        "nombre": "Gilmar",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.04.1971"
+    },
+    {
+        "nombre": "Glaucio",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.11.1975"
+    },
+    {
+        "nombre": "Gomis",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.11.1982"
+    },
+    {
+        "nombre": "Óscar González",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.01.1954"
+    },
+    {
+        "nombre": "Patricio Graff",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.11.1975"
+    },
+    {
+        "nombre": "Grande",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.09.1947"
+    },
+    {
+        "nombre": "Emir Granov",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.02.1976"
+    },
+    {
+        "nombre": "Guerrero",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.07.1990"
+    },
+    {
+        "nombre": "Guilherme",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.05.1974"
+    },
+    {
+        "nombre": "Gurrutxaga",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.11.1980"
+    },
+    {
+        "nombre": "Gustavo",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.09.1971"
+    },
+    {
+        "nombre": "Guzmán",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.12.1953"
+    },
+    {
+        "nombre": "Hélder",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.02.1972"
+    },
+    {
+        "nombre": "Jean Hernández",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.04.1969"
+    },
+    {
+        "nombre": "Hidalgo",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.02.1943"
+    },
+    {
+        "nombre": "Hierro",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.05.1951"
+    },
+    {
+        "nombre": "Hontecillas",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.11.1959"
+    },
+    {
+        "nombre": "Hugo Álvarez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.06.1985"
+    },
+    {
+        "nombre": "Hugo Fraile",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.03.1987"
+    },
+    {
+        "nombre": "Iago Falqué",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.01.1990"
+    },
+    {
+        "nombre": "Ibarrondo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.03.1967"
+    },
+    {
+        "nombre": "Iker Recio",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.06.2001"
+    },
+    {
+        "nombre": "Illán",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.06.1948"
+    },
+    {
+        "nombre": "Imanol Etxeberria",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.03.1973"
+    },
+    {
+        "nombre": "Giannelli Imbula",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.09.1992"
+    },
+    {
+        "nombre": "Iñigo Idiakez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.11.1973"
+    },
+    {
+        "nombre": "Emiliano Insúa",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.01.1989"
+    },
+    {
+        "nombre": "Iriarte",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.07.1946"
+    },
+    {
+        "nombre": "Iriney",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.04.1981"
+    },
+    {
+        "nombre": "Isi",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.10.1995"
+    },
+    {
+        "nombre": "Isi Palazón",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.12.1994"
+    },
+    {
+        "nombre": "Isma Gil",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "23.01.1989"
+    },
+    {
+        "nombre": "Manuel Iturra",
+        "pais": "Chile",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.06.1984"
+    },
+    {
+        "nombre": "Iván Ania",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.10.1977"
+    },
+    {
+        "nombre": "Iván García",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.11.1999"
+    },
+    {
+        "nombre": "Ivan Iglesias",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.12.1971"
+    },
+    {
+        "nombre": "Iván Martos",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.05.1997"
+    },
+    {
+        "nombre": "Iván Rosado",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.04.1974"
+    },
+    {
+        "nombre": "Iván Zarandona",
+        "pais": "Guinea Ecuatorial",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.08.1980"
+    },
+    {
+        "nombre": "Iznata",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.09.1977"
+    },
+    {
+        "nombre": "Izquierdo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.04.1960"
+    },
+    {
+        "nombre": "Javi Fuego",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.01.1984"
+    },
+    {
+        "nombre": "Javi García",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.10.1969"
+    },
+    {
+        "nombre": "Javi Guerra",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.03.1982"
+    },
+    {
+        "nombre": "Javi Muñoz",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.01.1982"
+    },
+    {
+        "nombre": "Javi Noblejas",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.03.1993"
+    },
+    {
+        "nombre": "Javi Rey",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.08.1968"
+    },
+    {
+        "nombre": "Javi Rubio",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.05.1999"
+    },
+    {
+        "nombre": "Jero",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.09.1977"
+    },
+    {
+        "nombre": "Joel",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.06.1990"
+    },
+    {
+        "nombre": "Jofre",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.01.1980"
+    },
+    {
+        "nombre": "Jonathan Pereira",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.05.1987"
+    },
+    {
+        "nombre": "Jonathan Viera",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.10.1989"
+    },
+    {
+        "nombre": "Joni Montiel",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.09.1998"
+    },
+    {
+        "nombre": "Jordi Amat",
+        "pais": "Indonesia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.03.1992"
+    },
+    {
+        "nombre": "Jordi Figueras",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.05.1987"
+    },
+    {
+        "nombre": "Jordi Gómez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.05.1985"
+    },
+    {
+        "nombre": "Jorge De Frutos",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.02.1997"
+    },
+    {
+        "nombre": "Jorge Moreno",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.07.2001"
+    },
+    {
+        "nombre": "Jorge Pulido",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.04.1991"
+    },
+    {
+        "nombre": "Jorge Sáez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.05.1990"
+    },
+    {
+        "nombre": "José Carlos",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.07.1987"
+    },
+    {
+        "nombre": "José García",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.01.1944"
+    },
+    {
+        "nombre": "José González",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.10.1966"
+    },
+    {
+        "nombre": "José Luis",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.05.1943"
+    },
+    {
+        "nombre": "José María",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.07.1965"
+    },
+    {
+        "nombre": "José María",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.07.1955"
+    },
+    {
+        "nombre": "José Pozo",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.03.1996"
+    },
+    {
+        "nombre": "José Serrano",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1981"
+    },
+    {
+        "nombre": "Josemi",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.08.1974"
+    },
+    {
+        "nombre": "Josete",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.03.1970"
+    },
+    {
+        "nombre": "Joseto González",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.06.2001"
+    },
+    {
+        "nombre": "Jozabed",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.03.1991"
+    },
+    {
+        "nombre": "Juan Carlos",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.01.1988"
+    },
+    {
+        "nombre": "Juan Díaz",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.07.1964"
+    },
+    {
+        "nombre": "Juan Pedro",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.07.1975"
+    },
+    {
+        "nombre": "Juan Quero",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.10.1984"
+    },
+    {
+        "nombre": "Juan Villar",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.05.1988"
+    },
+    {
+        "nombre": "Juancho",
+        "pais": "Colombia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.01.1996"
+    },
+    {
+        "nombre": "Juanito",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.08.1961"
+    },
+    {
+        "nombre": "Juanito",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.09.1944"
+    },
+    {
+        "nombre": "Juanma",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.08.1982"
+    },
+    {
+        "nombre": "Juanma",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.10.1982"
+    },
+    {
+        "nombre": "Juli",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.08.1981"
+    },
+    {
+        "nombre": "Jurado",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.03.1976"
+    },
+    {
+        "nombre": "Gaël Kakuta",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.06.1991"
+    },
+    {
+        "nombre": "Kasey Keller",
+        "pais": "Estados Unidos",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.11.1969"
+    },
+    {
+        "nombre": "Kike Hermoso",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.08.1999"
+    },
+    {
+        "nombre": "Kike Pérez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.02.1997"
+    },
+    {
+        "nombre": "Kiko",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.04.1978"
+    },
+    {
+        "nombre": "Diego Klimowicz",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.07.1974"
+    },
+    {
+        "nombre": "Koke",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.04.1983"
+    },
+    {
+        "nombre": "Korino",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.10.1974"
+    },
+    {
+        "nombre": "Labaka",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.08.1980"
+    },
+    {
+        "nombre": "Landáburu",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.01.1955"
+    },
+    {
+        "nombre": "Joaquín Larrivey",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.08.1984"
+    },
+    {
+        "nombre": "Lastra",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.01.1956"
+    },
+    {
+        "nombre": "Leirós",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.03.1949"
+    },
+    {
+        "nombre": "Florian Lejeune",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.05.1991"
+    },
+    {
+        "nombre": "Lema",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.09.1964"
+    },
+    {
+        "nombre": "Leo Baptistão",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.08.1992"
+    },
+    {
+        "nombre": "León",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.02.1995"
+    },
+    {
+        "nombre": "Licá",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.09.1988"
+    },
+    {
+        "nombre": "Ildefons Lima",
+        "pais": "Andorra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.12.1979"
+    },
+    {
+        "nombre": "Llorens",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.09.1969"
+    },
+    {
+        "nombre": "Llorente",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.08.1993"
+    },
+    {
+        "nombre": "Samuele Longo",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.1992"
+    },
+    {
+        "nombre": "Lopetegui",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.09.1966"
+    },
+    {
+        "nombre": "Lucas Pérez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.09.1988"
+    },
+    {
+        "nombre": "Luis Cembranos",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.06.1972"
+    },
+    {
+        "nombre": "Luis Delgado",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.08.1965"
+    },
+    {
+        "nombre": "Luis López",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.05.1975"
+    },
+    {
+        "nombre": "Luis Martínez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.11.1975"
+    },
+    {
+        "nombre": "Josemir Lujambio",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.09.1971"
+    },
+    {
+        "nombre": "Luna",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.10.1951"
+    },
+    {
+        "nombre": "Machado",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.09.1989"
+    },
+    {
+        "nombre": "Macua",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.11.1954"
+    },
+    {
+        "nombre": "Madriñan",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.05.1964"
+    },
+    {
+        "nombre": "Mainz",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.12.1982"
+    },
+    {
+        "nombre": "Henry Makinwa",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.11.1977"
+    },
+    {
+        "nombre": "Martin Mandra",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.12.1975"
+    },
+    {
+        "nombre": "Manolito",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.05.1951"
+    },
+    {
+        "nombre": "Manolo",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.11.1985"
+    },
+    {
+        "nombre": "Manolo",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.04.1959"
+    },
+    {
+        "nombre": "Manu Navarro",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.10.2000"
+    },
+    {
+        "nombre": "Manucho",
+        "pais": "Angola",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.03.1983"
+    },
+    {
+        "nombre": "Manuel Clares",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.02.1948"
+    },
+    {
+        "nombre": "Hugo Maradona",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.05.1969"
+    },
+    {
+        "nombre": "Nikola Maraš",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.12.1995"
+    },
+    {
+        "nombre": "Marc",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.1999"
+    },
+    {
+        "nombre": "Marcial",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.05.1949"
+    },
+    {
+        "nombre": "Marián Díaz",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.12.1959"
+    },
+    {
+        "nombre": "Mariano",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.04.1945"
+    },
+    {
+        "nombre": "Mariano Barbero",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.04.1954"
+    },
+    {
+        "nombre": "Mario",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.02.1981"
+    },
+    {
+        "nombre": "Mario de Luis",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.05.2002"
+    },
+    {
+        "nombre": "Mario Fernández",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.04.1988"
+    },
+    {
+        "nombre": "Mario Gomez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.10.1992"
+    },
+    {
+        "nombre": "Mario Hernández",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.01.1999"
+    },
+    {
+        "nombre": "Mario Sánchez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.10.1988"
+    },
+    {
+        "nombre": "Mario Suárez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.02.1987"
+    },
+    {
+        "nombre": "Marqués",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.12.1984"
+    },
+    {
+        "nombre": "Márquez",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.08.1972"
+    },
+    {
+        "nombre": "Martín González",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.04.1964"
+    },
+    {
+        "nombre": "Martín Merquelanz",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.06.1995"
+    },
+    {
+        "nombre": "Martín Pascual",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.08.1999"
+    },
+    {
+        "nombre": "Maté",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.03.1955"
+    },
+    {
+        "nombre": "Mauri",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.08.1979"
+    },
+    {
+        "nombre": "Mauro",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.05.1971"
+    },
+    {
+        "nombre": "Máximo Hernández",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.08.1945"
+    },
+    {
+        "nombre": "Hernán Medford",
+        "pais": "Costa Rica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.05.1968"
+    },
+    {
+        "nombre": "Medrán",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.03.1994"
+    },
+    {
+        "nombre": "Mejías",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.01.1959"
+    },
+    {
+        "nombre": "Melgar",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.05.1972"
+    },
+    {
+        "nombre": "Mendieta",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.02.1945"
+    },
+    {
+        "nombre": "Mendiondo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.06.1966"
+    },
+    {
+        "nombre": "Meseguer",
+        "pais": "Guinea Ecuatorial",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.09.1999"
+    },
+    {
+        "nombre": "Mesones",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.02.1965"
+    },
+    {
+        "nombre": "Míchel",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.10.1975"
+    },
+    {
+        "nombre": "Míchel",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.08.1977"
+    },
+    {
+        "nombre": "Michu",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.03.1986"
+    },
+    {
+        "nombre": "Miguel Hernández",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.02.1970"
+    },
+    {
+        "nombre": "Antonio Milić",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.03.1994"
+    },
+    {
+        "nombre": "Mingo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.06.1977"
+    },
+    {
+        "nombre": "Johan Mojica",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.08.1992"
+    },
+    {
+        "nombre": "Momparlet",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.11.1966"
+    },
+    {
+        "nombre": "Mora",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.12.1947"
+    },
+    {
+        "nombre": "Morcillo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.03.1986"
+    },
+    {
+        "nombre": "Fabrice Moreau",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.10.1967"
+    },
+    {
+        "nombre": "Fernando Morena",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.02.1952"
+    },
+    {
+        "nombre": "Moreno",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.09.1963"
+    },
+    {
+        "nombre": "Morillas",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.08.1966"
+    },
+    {
+        "nombre": "Morón",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.09.1959"
+    },
+    {
+        "nombre": "Morro",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.09.2000"
+    },
+    {
+        "nombre": "Movilla",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.02.1975"
+    },
+    {
+        "nombre": "Abdul Mumin",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.06.1998"
+    },
+    {
+        "nombre": "Muñiz",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.11.1968"
+    },
+    {
+        "nombre": "Nacho",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.03.1989"
+    },
+    {
+        "nombre": "Nacho Monsalve",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.04.1994"
+    },
+    {
+        "nombre": "Nieto",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.07.1955"
+    },
+    {
+        "nombre": "Nono",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.05.1991"
+    },
+    {
+        "nombre": "Daniel Noriega",
+        "pais": "Venezuela",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.03.1977"
+    },
+    {
+        "nombre": "Randy Nteka",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.12.1997"
+    },
+    {
+        "nombre": "Olalla",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.01.1980"
+    },
+    {
+        "nombre": "Onésimo",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.08.1968"
+    },
+    {
+        "nombre": "Viktor Onopko",
+        "pais": "Rusia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.10.1969"
+    },
+    {
+        "nombre": "Orejuela",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.12.1960"
+    },
+    {
+        "nombre": "Ortega",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.10.1947"
+    },
+    {
+        "nombre": "Ortiz",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.11.1968"
+    },
+    {
+        "nombre": "Óscar",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.08.1994"
+    },
+    {
+        "nombre": "Óscar Aparicio",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.05.1981"
+    },
+    {
+        "nombre": "Aras Özbiliz",
+        "pais": "Armenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1990"
+    },
+    {
+        "nombre": "Pablo",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.05.1970"
+    },
+    {
+        "nombre": "Pablo Clavería",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.04.1996"
+    },
+    {
+        "nombre": "Pablo Díaz",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.12.1981"
+    },
+    {
+        "nombre": "Pablo Hernández",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.04.1985"
+    },
+    {
+        "nombre": "Pablo Íñiguez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.01.1994"
+    },
+    {
+        "nombre": "Pablo Lago",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.08.1974"
+    },
+    {
+        "nombre": "Pablo Muñoz",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.09.2003"
+    },
+    {
+        "nombre": "Pablo Sanz",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.08.1973"
+    },
+    {
+        "nombre": "Germán Pacheco",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.05.1991"
+    },
+    {
+        "nombre": "Pachón",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.02.1977"
+    },
+    {
+        "nombre": "Paco Chaparro",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.11.1942"
+    },
+    {
+        "nombre": "Paco Jémez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.04.1970"
+    },
+    {
+        "nombre": "Pagès",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.11.1975"
+    },
+    {
+        "nombre": "Palacios",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.12.1970"
+    },
+    {
+        "nombre": "David Palacios",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.09.1977"
+    },
+    {
+        "nombre": "Paquito",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.08.1942"
+    },
+    {
+        "nombre": "Pascual",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.03.1953"
+    },
+    {
+        "nombre": "Patxi Ferreira",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.05.1967"
+    },
+    {
+        "nombre": "Paulo Torres",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.11.1971"
+    },
+    {
+        "nombre": "Pedro Aguado",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.05.1972"
+    },
+    {
+        "nombre": "Pedro Botelho",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.12.1989"
+    },
+    {
+        "nombre": "Pedro Riesco",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.10.1969"
+    },
+    {
+        "nombre": "Pelegrín",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.04.1979"
+    },
+    {
+        "nombre": "Pep Chavarría",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.04.1998"
+    },
+    {
+        "nombre": "Pepin",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.09.1959"
+    },
+    {
+        "nombre": "Peragón",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.02.1978"
+    },
+    {
+        "nombre": "Perera",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.04.1980"
+    },
+    {
+        "nombre": "Pineda",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.11.1971"
+    },
+    {
+        "nombre": "Federico Piovaccari",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.09.1984"
+    },
+    {
+        "nombre": "Piti",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.05.1981"
+    },
+    {
+        "nombre": "Pizo Gómez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.01.1964"
+    },
+    {
+        "nombre": "Toni Polster",
+        "pais": "Austria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.03.1964"
+    },
+    {
+        "nombre": "Gerhard Poschner",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.09.1969"
+    },
+    {
+        "nombre": "Potele",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.01.1947"
+    },
+    {
+        "nombre": "Pozo",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.04.1954"
+    },
+    {
+        "nombre": "Pozuelo",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.09.1991"
+    },
+    {
+        "nombre": "Prieto",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.06.1971"
+    },
+    {
+        "nombre": "Provencio",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.10.1987"
+    },
+    {
+        "nombre": "Pruden",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.04.1967"
+    },
+    {
+        "nombre": "Puig Solsona",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.10.1952"
+    },
+    {
+        "nombre": "Pulido",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1979"
+    },
+    {
+        "nombre": "Yacine Qasmi",
+        "pais": "Marruecos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.01.1991"
+    },
+    {
+        "nombre": "Quevedo",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.06.1969"
+    },
+    {
+        "nombre": "Quini",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.09.1989"
+    },
+    {
+        "nombre": "Quinzinho",
+        "pais": "Angola",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.1974"
+    },
+    {
+        "nombre": "Quique Ramos",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.03.1956"
+    },
+    {
+        "nombre": "Quique Yagüe",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.10.1959"
+    },
+    {
+        "nombre": "Dmitri Radchenko",
+        "pais": "Rusia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.12.1970"
+    },
+    {
+        "nombre": "Rafa Bono",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.07.1969"
+    },
+    {
+        "nombre": "Rafa García",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1986"
+    },
+    {
+        "nombre": "Rafael Jacques",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.09.1975"
+    },
+    {
+        "nombre": "Răzvan Raţ",
+        "pais": "Rumania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.05.1981"
+    },
+    {
+        "nombre": "Raúl Baena",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.03.1989"
+    },
+    {
+        "nombre": "Raúl Bravo",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.04.1981"
+    },
+    {
+        "nombre": "Raúl de Tomás",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.10.1994"
+    },
+    {
+        "nombre": "Raúl Molina",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.11.1976"
+    },
+    {
+        "nombre": "Raúl Tamudo",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.10.1977"
+    },
+    {
+        "nombre": "Rayco",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.03.1987"
+    },
+    {
+        "nombre": "Rial",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.07.1950"
+    },
+    {
+        "nombre": "Ribera",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.06.1965"
+    },
+    {
+        "nombre": "Rivera",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.11.1977"
+    },
+    {
+        "nombre": "Rivés",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.08.1940"
+    },
+    {
+        "nombre": "Rober Correa",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.09.1992"
+    },
+    {
+        "nombre": "Roberto",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.01.1973"
+    },
+    {
+        "nombre": "Roberto González",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.05.1999"
+    },
+    {
+        "nombre": "Robles",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.04.1955"
+    },
+    {
+        "nombre": "Rocamora",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.01.1954"
+    },
+    {
+        "nombre": "Rocha",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.04.1969"
+    },
+    {
+        "nombre": "Rodri",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.06.1969"
+    },
+    {
+        "nombre": "Rodri",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.08.1984"
+    },
+    {
+        "nombre": "Rodri",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.07.1976"
+    },
+    {
+        "nombre": "Rodri",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.09.1968"
+    },
+    {
+        "nombre": "Kévin Rodrigues",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.03.1994"
+    },
+    {
+        "nombre": "Rodríguez",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.06.1966"
+    },
+    {
+        "nombre": "Bruno Rodriguez",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.11.1972"
+    },
+    {
+        "nombre": "Rojas",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.11.1974"
+    },
+    {
+        "nombre": "Roselló",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.10.1945"
+    },
+    {
+        "nombre": "Éric Roy",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.09.1967"
+    },
+    {
+        "nombre": "Ruano",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.07.1974"
+    },
+    {
+        "nombre": "Rubén",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.06.1984"
+    },
+    {
+        "nombre": "Rubén Cano",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.02.1951"
+    },
+    {
+        "nombre": "Rubén Castro",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.06.1981"
+    },
+    {
+        "nombre": "Rubén Falcón",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.10.1977"
+    },
+    {
+        "nombre": "Rubén Ramiro",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.04.1993"
+    },
+    {
+        "nombre": "Rubén Reyes",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.01.1979"
+    },
+    {
+        "nombre": "Rubén Rochina",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.03.1991"
+    },
+    {
+        "nombre": "Rubio",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.05.1976"
+    },
+    {
+        "nombre": "Sabas",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.04.1967"
+    },
+    {
+        "nombre": "Sebastián Saja",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.06.1979"
+    },
+    {
+        "nombre": "Salazar",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.12.1951"
+    },
+    {
+        "nombre": "Carlos Salom",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.04.1987"
+    },
+    {
+        "nombre": "Salva",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.06.1981"
+    },
+    {
+        "nombre": "Salvi",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.03.1991"
+    },
+    {
+        "nombre": "Hugo Sánchez",
+        "pais": "México",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.07.1958"
+    },
+    {
+        "nombre": "Santamaría",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.02.1985"
+    },
+    {
+        "nombre": "Santi Comesaña",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1996"
+    },
+    {
+        "nombre": "Saúl",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.11.1994"
+    },
+    {
+        "nombre": "Saúl García",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.11.1994"
+    },
+    {
+        "nombre": "Esteban Saveljić",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.05.1991"
+    },
+    {
+        "nombre": "Segura",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.02.1978"
+    },
+    {
+        "nombre": "Sergi Guardiola",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.05.1991"
+    },
+    {
+        "nombre": "Sergio Benito",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.03.1999"
+    },
+    {
+        "nombre": "Sergio Camello",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.02.2001"
+    },
+    {
+        "nombre": "Sergio Mora",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.08.1979"
+    },
+    {
+        "nombre": "Sergio Moreno",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.01.1999"
+    },
+    {
+        "nombre": "Serna",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.05.1983"
+    },
+    {
+        "nombre": "Setvalls",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.08.1974"
+    },
+    {
+        "nombre": "Simón",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.10.1972"
+    },
+    {
+        "nombre": "Soto",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.03.1965"
+    },
+    {
+        "nombre": "Sousa",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1980"
+    },
+    {
+        "nombre": "Sueliton",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.08.1986"
+    },
+    {
+        "nombre": "Susaeta",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.12.1984"
+    },
+    {
+        "nombre": "Mamadou Sylla",
+        "pais": "Senegal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.03.1994"
+    },
+    {
+        "nombre": "Idan Tal",
+        "pais": "Israel",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.09.1975"
+    },
+    {
+        "nombre": "Tanco",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.04.1953"
+    },
+    {
+        "nombre": "Tébar",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.02.1986"
+    },
+    {
+        "nombre": "Tena",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.02.1978"
+    },
+    {
+        "nombre": "Tete",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.02.1974"
+    },
+    {
+        "nombre": "Tiago",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.07.1975"
+    },
+    {
+        "nombre": "Tito",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.07.1985"
+    },
+    {
+        "nombre": "Tito",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.07.1988"
+    },
+    {
+        "nombre": "Tomás Mejías",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.01.1989"
+    },
+    {
+        "nombre": "Ivan Tomić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.01.1976"
+    },
+    {
+        "nombre": "Toni",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.10.1970"
+    },
+    {
+        "nombre": "Toni",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.04.1990"
+    },
+    {
+        "nombre": "Toño",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.12.1979"
+    },
+    {
+        "nombre": "Trashorras",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.02.1981"
+    },
+    {
+        "nombre": "Óscar Trejo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.04.1988"
+    },
+    {
+        "nombre": "Trobbiani",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.08.1960"
+    },
+    {
+        "nombre": "Borja Truchado",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.03.1986"
+    },
+    {
+        "nombre": "Uceda",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1952"
+    },
+    {
+        "nombre": "Leonardo Ulloa",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.07.1986"
+    },
+    {
+        "nombre": "Unai López",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.10.1995"
+    },
+    {
+        "nombre": "Urbano",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.02.1975"
+    },
+    {
+        "nombre": "Urzáiz",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.10.1971"
+    },
+    {
+        "nombre": "Jorge Valdivia",
+        "pais": "Venezuela",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.10.1983"
+    },
+    {
+        "nombre": "Valentín",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1975"
+    },
+    {
+        "nombre": "Dave van den Bergh",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.05.1976"
+    },
+    {
+        "nombre": "Franco Vázquez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.02.1989"
+    },
+    {
+        "nombre": "Velasco",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.05.1978"
+    },
+    {
+        "nombre": "Velázquez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.01.1943"
+    },
+    {
+        "nombre": "Emiliano Velázquez",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.04.1994"
+    },
+    {
+        "nombre": "Fernando Vergara",
+        "pais": "Chile",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.05.1970"
+    },
+    {
+        "nombre": "Víctor Sanz",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.11.1973"
+    },
+    {
+        "nombre": "Víctor Vía",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.05.1979"
+    },
+    {
+        "nombre": "Villalvilla",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "09.08.1963"
+    },
+    {
+        "nombre": "Gheorghe Viscreanu",
+        "pais": "Rumania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.08.1961"
+    },
+    {
+        "nombre": "Josip Višnjić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.11.1966"
+    },
+    {
+        "nombre": "Vitoria",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.01.1956"
+    },
+    {
+        "nombre": "Vivanco",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.09.1962"
+    },
+    {
+        "nombre": "Vívar Dorado",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.02.1974"
+    },
+    {
+        "nombre": "Xavi Roca",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.01.1974"
+    },
+    {
+        "nombre": "Yoel",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.08.1988"
+    },
+    {
+        "nombre": "Yubero",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.01.1972"
+    },
+    {
+        "nombre": "Yuma",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.10.1985"
+    },
+    {
+        "nombre": "Zapatera",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.03.1966"
+    },
+    {
+        "nombre": "Zazo",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.08.1982"
+    },
+    {
+        "nombre": "Zé Castro",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.01.1983"
+    },
+    {
+        "nombre": "Chengdong Zhang",
+        "pais": "China",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.02.1989"
+    },
+    {
+        "nombre": "Luca Zidane",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.05.1998"
+    },
+    {
+        "nombre": "Bruno Zuculini",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.04.1993"
+    }
+]
