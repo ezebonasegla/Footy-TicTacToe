@@ -1,0 +1,3080 @@
+[
+    {
+        "nombre": "Nicolas Abdat",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.11.1996"
+    },
+    {
+        "nombre": "Hans-Joachim Abel",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.06.1952"
+    },
+    {
+        "nombre": "Jonas Acquistapace",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1989"
+    },
+    {
+        "nombre": "Holger Aden",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.08.1965"
+    },
+    {
+        "nombre": "Fatih Akyel",
+        "pais": "Turquía",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.12.1977"
+    },
+    {
+        "nombre": "Thomas Andersson",
+        "pais": "Suecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.12.1956"
+    },
+    {
+        "nombre": "Christopher Antwi-Adjei",
+        "pais": "Ghana",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.02.1994"
+    },
+    {
+        "nombre": "Takuma Asano",
+        "pais": "Japón",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.11.1994"
+    },
+    {
+        "nombre": "Benjamin Auer",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.01.1981"
+    },
+    {
+        "nombre": "Mirkan Aydin",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.07.1987"
+    },
+    {
+        "nombre": "Mimoun Azaouagh",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.11.1982"
+    },
+    {
+        "nombre": "Tom Baack",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.03.1999"
+    },
+    {
+        "nombre": "Alexander Bade",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.08.1970"
+    },
+    {
+        "nombre": "Ridvan Balci",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.09.1993"
+    },
+    {
+        "nombre": "Werner Balte",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.02.1948"
+    },
+    {
+        "nombre": "Henryk Bałuszyński",
+        "pais": "Polonia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.07.1972"
+    },
+    {
+        "nombre": "Jannik Bandowski",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1994"
+    },
+    {
+        "nombre": "Ulrich Bapoh",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.06.1999"
+    },
+    {
+        "nombre": "Thorsten Barg",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.08.1986"
+    },
+    {
+        "nombre": "Malek Barudi",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.08.1981"
+    },
+    {
+        "nombre": "Dieter Bast",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.08.1951"
+    },
+    {
+        "nombre": "Felix Bastians",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.05.1988"
+    },
+    {
+        "nombre": "Yıldıray Baştürk",
+        "pais": "Turquía",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.12.1978"
+    },
+    {
+        "nombre": "Dominik Baumgartner",
+        "pais": "Austria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.07.1996"
+    },
+    {
+        "nombre": "Tommy Bechmann",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.12.1981"
+    },
+    {
+        "nombre": "Oleksiy Belik",
+        "pais": "Ucrania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.02.1981"
+    },
+    {
+        "nombre": "Armel Bella-Kotchap",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.12.2001"
+    },
+    {
+        "nombre": "Michael Bemben",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.01.1976"
+    },
+    {
+        "nombre": "Frank Benatelli",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.08.1962"
+    },
+    {
+        "nombre": "Dietmar Berchtold",
+        "pais": "Austria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.08.1974"
+    },
+    {
+        "nombre": "Denis Berger",
+        "pais": "Austria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.04.1983"
+    },
+    {
+        "nombre": "Sören Bertram",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.06.1991"
+    },
+    {
+        "nombre": "Ulrich Bittorf",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.09.1959"
+    },
+    {
+        "nombre": "Rolf Blau",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.05.1952"
+    },
+    {
+        "nombre": "Heinz-Jürgen Blome",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.12.1946"
+    },
+    {
+        "nombre": "Danny Blum",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.01.1991"
+    },
+    {
+        "nombre": "Verthomy Boboy",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.04.2003"
+    },
+    {
+        "nombre": "Herbert Bockhorn",
+        "pais": "Uganda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.01.1995"
+    },
+    {
+        "nombre": "Udo Böckmann",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.07.1952"
+    },
+    {
+        "nombre": "Harry Bohrmann",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.03.1952"
+    },
+    {
+        "nombre": "Thorsten Bolzek",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.07.1968"
+    },
+    {
+        "nombre": "Peter Bomm",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.12.1947"
+    },
+    {
+        "nombre": "Luka Bonačić",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.03.1955"
+    },
+    {
+        "nombre": "Heiko Bonan",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.02.1966"
+    },
+    {
+        "nombre": "Tarsis Bonga",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1997"
+    },
+    {
+        "nombre": "Philipp Bönig",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.03.1980"
+    },
+    {
+        "nombre": "Siegfried Bönighausen",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.03.1955"
+    },
+    {
+        "nombre": "Andreas Bordan",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.05.1964"
+    },
+    {
+        "nombre": "Karl-Heinz Böttcher",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.08.1944"
+    },
+    {
+        "nombre": "Sven Boy",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.10.1976"
+    },
+    {
+        "nombre": "Hans-Jürgen Bradler",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.08.1948"
+    },
+    {
+        "nombre": "Moritz Broschinski",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.09.2000"
+    },
+    {
+        "nombre": "Florian Brügmann",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.01.1991"
+    },
+    {
+        "nombre": "Sebastian Brune",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.02.1994"
+    },
+    {
+        "nombre": "Delron Buckley",
+        "pais": "Sudáfrica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.12.1977"
+    },
+    {
+        "nombre": "Onur Bulut",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.04.1994"
+    },
+    {
+        "nombre": "Mike Busch",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.04.1981"
+    },
+    {
+        "nombre": "Heiko Butscher",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.07.1980"
+    },
+    {
+        "nombre": "Malcolm Cacutalua",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.11.1994"
+    },
+    {
+        "nombre": "Russell Canouse",
+        "pais": "Estados Unidos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.06.1995"
+    },
+    {
+        "nombre": "Stefano Celozzi",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.11.1988"
+    },
+    {
+        "nombre": "Mounir Chaftar",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.01.1986"
+    },
+    {
+        "nombre": "Raman Chibsah",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.03.1993"
+    },
+    {
+        "nombre": "China",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.08.1980"
+    },
+    {
+        "nombre": "Tae-se Chong",
+        "pais": "Corea del Norte",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.03.1984"
+    },
+    {
+        "nombre": "Sven Christians",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.01.1967"
+    },
+    {
+        "nombre": "Thomas Christiansen",
+        "pais": "Panamá",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.03.1973"
+    },
+    {
+        "nombre": "Søren Colding",
+        "pais": "Dinamarca",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.09.1972"
+    },
+    {
+        "nombre": "Matias Concha",
+        "pais": "Suecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.03.1980"
+    },
+    {
+        "nombre": "Claus Costa",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.06.1984"
+    },
+    {
+        "nombre": "Ante Čović",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.08.1975"
+    },
+    {
+        "nombre": "Marcus Croonen",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.03.1964"
+    },
+    {
+        "nombre": "Piotr Ćwielong",
+        "pais": "Polonia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.04.1986"
+    },
+    {
+        "nombre": "David Czyszczon",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.09.1981"
+    },
+    {
+        "nombre": "Christoph Dabrowski",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.07.1978"
+    },
+    {
+        "nombre": "Daniel Fernandes",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.09.1983"
+    },
+    {
+        "nombre": "Danilo Soares",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.10.1991"
+    },
+    {
+        "nombre": "David Pallas",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.07.1980"
+    },
+    {
+        "nombre": "Paweł Dawidowicz",
+        "pais": "Polonia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.05.1995"
+    },
+    {
+        "nombre": "Saulo Decarli",
+        "pais": "Suiza",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.02.1992"
+    },
+    {
+        "nombre": "Rudi Decker",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.08.1967"
+    },
+    {
+        "nombre": "Zlatko Dedič",
+        "pais": "Eslovenia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.10.1984"
+    },
+    {
+        "nombre": "Michael Delura",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.07.1985"
+    },
+    {
+        "nombre": "Klaus-Dieter Dewinski",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.08.1950"
+    },
+    {
+        "nombre": "Momo Diabang",
+        "pais": "Senegal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.01.1979"
+    },
+    {
+        "nombre": "Dimitrios Diamantakos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.03.1993"
+    },
+    {
+        "nombre": "Mirko Dickhaut",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.01.1971"
+    },
+    {
+        "nombre": "Georgi Donkov",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.06.1970"
+    },
+    {
+        "nombre": "Felix Dornebusch",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.07.1994"
+    },
+    {
+        "nombre": "Dirk Drescher",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.02.1968"
+    },
+    {
+        "nombre": "Olaf Dressel",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.09.1968"
+    },
+    {
+        "nombre": "Patrick Drewes",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.02.1993"
+    },
+    {
+        "nombre": "Zdravko Drinčić",
+        "pais": "Montenegro",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.05.1972"
+    },
+    {
+        "nombre": "Jaroslav Drobný",
+        "pais": "República Checa",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.10.1979"
+    },
+    {
+        "nombre": "Pavel Drsek",
+        "pais": "República Checa",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.09.1976"
+    },
+    {
+        "nombre": "Jürgen Duah",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.12.1985"
+    },
+    {
+        "nombre": "Emir Džafić",
+        "pais": "Eslovenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.09.1972"
+    },
+    {
+        "nombre": "Max Eberl",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.09.1973"
+    },
+    {
+        "nombre": "Edu",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.11.1981"
+    },
+    {
+        "nombre": "Frank Eggeling",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.07.1963"
+    },
+    {
+        "nombre": "Heinz-Werner Eggeling",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.04.1955"
+    },
+    {
+        "nombre": "Michael Eggert",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.09.1952"
+    },
+    {
+        "nombre": "Peter Ehmke",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.07.1953"
+    },
+    {
+        "nombre": "Markus Ehrhard",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.07.1976"
+    },
+    {
+        "nombre": "Thomas Eisfeld",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.01.1993"
+    },
+    {
+        "nombre": "Dirk Eitzert",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.11.1968"
+    },
+    {
+        "nombre": "Baris Ekincier",
+        "pais": "Azerbaiyán",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.03.1999"
+    },
+    {
+        "nombre": "Sami El-Nounou",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.05.1979"
+    },
+    {
+        "nombre": "Harry Ellbracht",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.09.1953"
+    },
+    {
+        "nombre": "Daniel Engelbrecht",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.11.1990"
+    },
+    {
+        "nombre": "Engibar Engibarov",
+        "pais": "Bulgaria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.09.1971"
+    },
+    {
+        "nombre": "Joël Epalle",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.02.1978"
+    },
+    {
+        "nombre": "Thomas Epp",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.04.1968"
+    },
+    {
+        "nombre": "Jonas Ermes",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.04.1992"
+    },
+    {
+        "nombre": "Thomas Ernst",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "23.12.1967"
+    },
+    {
+        "nombre": "Tjark Ernst",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.03.2003"
+    },
+    {
+        "nombre": "Michael Esser",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.11.1987"
+    },
+    {
+        "nombre": "Hans-Günter Etterich",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.08.1951"
+    },
+    {
+        "nombre": "Wolfgang Euteneuer",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.09.1955"
+    },
+    {
+        "nombre": "Gustav Eversberg",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.09.1940"
+    },
+    {
+        "nombre": "Hólmar Eyjólfsson",
+        "pais": "Islandia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.08.1990"
+    },
+    {
+        "nombre": "Patrick Fabian",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.10.1987"
+    },
+    {
+        "nombre": "Fábio Júnior",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.11.1977"
+    },
+    {
+        "nombre": "Frank Fahrenhorst",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.09.1977"
+    },
+    {
+        "nombre": "László Farkasházy",
+        "pais": "Hungría",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.01.1968"
+    },
+    {
+        "nombre": "Harry Fechner",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.05.1950"
+    },
+    {
+        "nombre": "Giovanni Federico",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.10.1980"
+    },
+    {
+        "nombre": "Dieter Fern",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.12.1944"
+    },
+    {
+        "nombre": "Cristian Fiél",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.03.1980"
+    },
+    {
+        "nombre": "Klaus Fischer",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.12.1949"
+    },
+    {
+        "nombre": "Marcus Fischer",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.08.1980"
+    },
+    {
+        "nombre": "Mikael Forssell",
+        "pais": "Finlandia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.03.1981"
+    },
+    {
+        "nombre": "Philipp Förster",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.02.1995"
+    },
+    {
+        "nombre": "Klaus Franke",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.05.1948"
+    },
+    {
+        "nombre": "Kevin Freiberger",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.11.1988"
+    },
+    {
+        "nombre": "Paul Freier",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.07.1979"
+    },
+    {
+        "nombre": "Hartmut Fromm",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.10.1950"
+    },
+    {
+        "nombre": "Michael Frontzeck",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.03.1964"
+    },
+    {
+        "nombre": "Christian Fuchs",
+        "pais": "Austria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.04.1986"
+    },
+    {
+        "nombre": "Danny Fuchs",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.02.1976"
+    },
+    {
+        "nombre": "Erwin Galeski",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.10.1945"
+    },
+    {
+        "nombre": "Hayk Galstyan",
+        "pais": "Armenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.03.1998"
+    },
+    {
+        "nombre": "Cristian Gamboa",
+        "pais": "Costa Rica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.10.1989"
+    },
+    {
+        "nombre": "Ionel Gane",
+        "pais": "Rumania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.10.1971"
+    },
+    {
+        "nombre": "Silvère Ganvoula",
+        "pais": "Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.06.1996"
+    },
+    {
+        "nombre": "Maurizio Gaudino",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.12.1966"
+    },
+    {
+        "nombre": "Yves Gaugler",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.06.1969"
+    },
+    {
+        "nombre": "Theofanis Gekas",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.05.1980"
+    },
+    {
+        "nombre": "Nikoloz Gelashvili",
+        "pais": "Georgia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.08.1985"
+    },
+    {
+        "nombre": "Bernd Gerber",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.12.1961"
+    },
+    {
+        "nombre": "Hermann Gerland",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.06.1954"
+    },
+    {
+        "nombre": "Lutz Gerresheim",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.09.1958"
+    },
+    {
+        "nombre": "Daniel Ginczek",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.04.1991"
+    },
+    {
+        "nombre": "Jacek Góralski",
+        "pais": "Polonia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.09.1992"
+    },
+    {
+        "nombre": "Leon Goretzka",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.02.1995"
+    },
+    {
+        "nombre": "Bastian Görrissen",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.07.1983"
+    },
+    {
+        "nombre": "Uwe Gospodarek",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.08.1973"
+    },
+    {
+        "nombre": "Florian Gothe",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.08.1962"
+    },
+    {
+        "nombre": "Moritz Göttel",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.02.1993"
+    },
+    {
+        "nombre": "Peter Graulund",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.09.1976"
+    },
+    {
+        "nombre": "Paul Grave",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.04.2001"
+    },
+    {
+        "nombre": "Jürgen Gredig",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.01.1966"
+    },
+    {
+        "nombre": "Michael Gregoritsch",
+        "pais": "Austria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.04.1994"
+    },
+    {
+        "nombre": "Hans Grieger",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.09.1941"
+    },
+    {
+        "nombre": "Harry Griesbeck",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.08.1946"
+    },
+    {
+        "nombre": "Christian Gross",
+        "pais": "Suiza",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.08.1954"
+    },
+    {
+        "nombre": "Günter Gross",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.09.1946"
+    },
+    {
+        "nombre": "Dennis Grote",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.08.1986"
+    },
+    {
+        "nombre": "Peter Grünberger",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.11.1962"
+    },
+    {
+        "nombre": "Dilaver Güçlü",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.02.1986"
+    },
+    {
+        "nombre": "Bjarni Guðjónsson",
+        "pais": "Islandia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.02.1979"
+    },
+    {
+        "nombre": "Þórður Guðjónsson",
+        "pais": "Islandia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.10.1973"
+    },
+    {
+        "nombre": "Patrick Guillou",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.04.1970"
+    },
+    {
+        "nombre": "Gökhan Gül",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.07.1998"
+    },
+    {
+        "nombre": "Henrik Gulden",
+        "pais": "Noruega",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.12.1995"
+    },
+    {
+        "nombre": "Nesat Gülünoglu",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.01.1979"
+    },
+    {
+        "nombre": "Selim Gündüz",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.05.1994"
+    },
+    {
+        "nombre": "Jan Gyamerah",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1995"
+    },
+    {
+        "nombre": "Maxwell Gyamfi",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.01.2000"
+    },
+    {
+        "nombre": "Janik Haberer",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.04.1994"
+    },
+    {
+        "nombre": "Günter Habig",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.12.1964"
+    },
+    {
+        "nombre": "Minas Hantzidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.07.1966"
+    },
+    {
+        "nombre": "Hans-Werner Hartl",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.11.1946"
+    },
+    {
+        "nombre": "Luis Hartwig",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.11.2002"
+    },
+    {
+        "nombre": "Vahid Hashemian",
+        "pais": "Irán",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.07.1976"
+    },
+    {
+        "nombre": "Philipp Heerwagen",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.04.1983"
+    },
+    {
+        "nombre": "Frank Heinemann",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.01.1965"
+    },
+    {
+        "nombre": "Dominique Heintz",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.08.1993"
+    },
+    {
+        "nombre": "Dirk Helmig",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.05.1965"
+    },
+    {
+        "nombre": "Luke Hemmerich",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.02.1998"
+    },
+    {
+        "nombre": "Matthias Herget",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.11.1955"
+    },
+    {
+        "nombre": "Christian Herrmann",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.01.1966"
+    },
+    {
+        "nombre": "Daniel Heuer Fernandes",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.11.1992"
+    },
+    {
+        "nombre": "Sebastian Hille",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.10.1980"
+    },
+    {
+        "nombre": "Lukas Hinterseer",
+        "pais": "Austria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.03.1991"
+    },
+    {
+        "nombre": "Norbert Hofmann",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.01.1972"
+    },
+    {
+        "nombre": "Philipp Hofmann",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.03.1993"
+    },
+    {
+        "nombre": "Sascha Höhle",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.06.1983"
+    },
+    {
+        "nombre": "Jan Holland",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.08.1976"
+    },
+    {
+        "nombre": "Lewis Holtby",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.09.1990"
+    },
+    {
+        "nombre": "Fabian Holthaus",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.01.1995"
+    },
+    {
+        "nombre": "Lars Holtkamp",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.11.2001"
+    },
+    {
+        "nombre": "Gerrit Holtmann",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.1995"
+    },
+    {
+        "nombre": "Paul Holz",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.09.1952"
+    },
+    {
+        "nombre": "Tim Hoogland",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.06.1985"
+    },
+    {
+        "nombre": "Jannes Horn",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.02.1997"
+    },
+    {
+        "nombre": "Gisbert Horsthemke",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.01.1953"
+    },
+    {
+        "nombre": "Michael Hubner",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.08.1969"
+    },
+    {
+        "nombre": "Karsten Hutwelker",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.08.1971"
+    },
+    {
+        "nombre": "Aleksandr Iashvili",
+        "pais": "Georgia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.10.1977"
+    },
+    {
+        "nombre": "Ivo Iličević",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.11.1986"
+    },
+    {
+        "nombre": "Ken Ilsø",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.12.1986"
+    },
+    {
+        "nombre": "Daniel Imhof",
+        "pais": "Canadá",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.11.1977"
+    },
+    {
+        "nombre": "Takashi Inui",
+        "pais": "Japón",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.06.1988"
+    },
+    {
+        "nombre": "Viorel Ion",
+        "pais": "Rumania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.11.1967"
+    },
+    {
+        "nombre": "Frank Islacker",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.08.1963"
+    },
+    {
+        "nombre": "Andrzej Iwan",
+        "pais": "Polonia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.11.1959"
+    },
+    {
+        "nombre": "Mathias Jack",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.02.1969"
+    },
+    {
+        "nombre": "Peter Jackisch",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.11.1963"
+    },
+    {
+        "nombre": "Michael Jakobs",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.07.1959"
+    },
+    {
+        "nombre": "Vitaly Janelt",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.05.1998"
+    },
+    {
+        "nombre": "Saidy Janko",
+        "pais": "Suiza",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.10.1995"
+    },
+    {
+        "nombre": "Jürgen Jansen",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.09.1941"
+    },
+    {
+        "nombre": "Detlef Jaskowiak",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.02.1959"
+    },
+    {
+        "nombre": "Mario Jelavić",
+        "pais": "Croacia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.08.1993"
+    },
+    {
+        "nombre": "Andreas Jeschke",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.09.1966"
+    },
+    {
+        "nombre": "Andreas Johansson",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.03.1982"
+    },
+    {
+        "nombre": "Marko Johansson",
+        "pais": "Suecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.08.1998"
+    },
+    {
+        "nombre": "Björn Joppe",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.12.1978"
+    },
+    {
+        "nombre": "Florian Jungwirth",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.01.1989"
+    },
+    {
+        "nombre": "Jupp Kaczor",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.03.1953"
+    },
+    {
+        "nombre": "Cagatay Kader",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.02.1997"
+    },
+    {
+        "nombre": "Raymond Kalla",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.04.1975"
+    },
+    {
+        "nombre": "Sinan Kaloğlu",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.06.1981"
+    },
+    {
+        "nombre": "Winfried Kaufmann",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.12.1941"
+    },
+    {
+        "nombre": "Oğuzhan Kefkir",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.08.1991"
+    },
+    {
+        "nombre": "Thomas Kempe",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1960"
+    },
+    {
+        "nombre": "Klaus-Peter Kerkemeier",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.11.1951"
+    },
+    {
+        "nombre": "Polat Keser",
+        "pais": "Turquía",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.12.1985"
+    },
+    {
+        "nombre": "Joo-Sung Kim",
+        "pais": "Corea del Sur",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.01.1966"
+    },
+    {
+        "nombre": "Maik Kischko",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.07.1966"
+    },
+    {
+        "nombre": "Michael Klauß",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.09.1970"
+    },
+    {
+        "nombre": "Wolfgang Kleff",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.11.1946"
+    },
+    {
+        "nombre": "Dieter Klever",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.06.1940"
+    },
+    {
+        "nombre": "Diego Klimowicz",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.07.1974"
+    },
+    {
+        "nombre": "Lukas Klostermann",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.06.1996"
+    },
+    {
+        "nombre": "Peter Knäbel",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.10.1966"
+    },
+    {
+        "nombre": "Volker Knappheide",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.03.1966"
+    },
+    {
+        "nombre": "Thomas Knauer",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1964"
+    },
+    {
+        "nombre": "Aleksander Knavs",
+        "pais": "Eslovenia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.12.1975"
+    },
+    {
+        "nombre": "Ivo Knoflíček",
+        "pais": "República Checa",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.02.1962"
+    },
+    {
+        "nombre": "Heinz Knüwe",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.01.1956"
+    },
+    {
+        "nombre": "Stefan Kohn",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.10.1965"
+    },
+    {
+        "nombre": "Stelios Kokovas",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.07.2001"
+    },
+    {
+        "nombre": "Martin Kompalla",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.08.1992"
+    },
+    {
+        "nombre": "Dirk Kontny",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.11.1965"
+    },
+    {
+        "nombre": "Hans-Jürgen Köper",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.08.1951"
+    },
+    {
+        "nombre": "Björn Kopplin",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.01.1989"
+    },
+    {
+        "nombre": "Ümit Korkmaz",
+        "pais": "Austria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.09.1985"
+    },
+    {
+        "nombre": "Kreso Kovacec",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.07.1969"
+    },
+    {
+        "nombre": "Peter Közle",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.11.1967"
+    },
+    {
+        "nombre": "Torsten Kracht",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.10.1967"
+    },
+    {
+        "nombre": "Tim Krafft",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.01.1998"
+    },
+    {
+        "nombre": "Florian Kraft",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.08.1998"
+    },
+    {
+        "nombre": "Christoph Kramer",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.02.1991"
+    },
+    {
+        "nombre": "Dieter Kramer",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.04.1959"
+    },
+    {
+        "nombre": "Werner Krämer",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.01.1940"
+    },
+    {
+        "nombre": "Martin Kree",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.01.1965"
+    },
+    {
+        "nombre": "Detlef Krella",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.03.1964"
+    },
+    {
+        "nombre": "Sven Kreyer",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.05.1991"
+    },
+    {
+        "nombre": "Robbie Kruse",
+        "pais": "Australia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1988"
+    },
+    {
+        "nombre": "Michael Kühn",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.05.1963"
+    },
+    {
+        "nombre": "Pierre Kunde",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.07.1995"
+    },
+    {
+        "nombre": "Stefan Kuntz",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.10.1962"
+    },
+    {
+        "nombre": "Peter Kursinski",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.08.1956"
+    },
+    {
+        "nombre": "Norbert Kurtenbach",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.05.1940"
+    },
+    {
+        "nombre": "Hans Kyei",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.08.1988"
+    },
+    {
+        "nombre": "Frederik Lach",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.03.1997"
+    },
+    {
+        "nombre": "Ata Lameck",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.09.1949"
+    },
+    {
+        "nombre": "Vassilios Lampropoulos",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.03.1990"
+    },
+    {
+        "nombre": "Jan Laštůvka",
+        "pais": "República Checa",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.07.1982"
+    },
+    {
+        "nombre": "Danny Latza",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.12.1989"
+    },
+    {
+        "nombre": "Franz-Josef Laufer",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.09.1952"
+    },
+    {
+        "nombre": "Chung-yong Lee",
+        "pais": "Corea del Sur",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.07.1988"
+    },
+    {
+        "nombre": "Thorsten Legat",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.11.1968"
+    },
+    {
+        "nombre": "Uwe Leifeld",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.07.1966"
+    },
+    {
+        "nombre": "Maxim Leitsch",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.05.1998"
+    },
+    {
+        "nombre": "Dieter Lemke",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.04.1956"
+    },
+    {
+        "nombre": "Andreas Lengsfeld",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.05.1986"
+    },
+    {
+        "nombre": "Benjamin Lense",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.11.1978"
+    },
+    {
+        "nombre": "Jürgen Locadia",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.11.1993"
+    },
+    {
+        "nombre": "Vratislav Lokvenc",
+        "pais": "República Checa",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.09.1973"
+    },
+    {
+        "nombre": "Simon Lorenz",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1997"
+    },
+    {
+        "nombre": "Anthony Losilla",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.03.1986"
+    },
+    {
+        "nombre": "Eduard Löwen",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.01.1997"
+    },
+    {
+        "nombre": "Andreas Lübke",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.03.1967"
+    },
+    {
+        "nombre": "Michael Lumb",
+        "pais": "Dinamarca",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.01.1988"
+    },
+    {
+        "nombre": "Matthias Lust",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.04.1970"
+    },
+    {
+        "nombre": "Andreas Luthe",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.03.1987"
+    },
+    {
+        "nombre": "Vladimir Lyutiy",
+        "pais": "Ucrania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.04.1962"
+    },
+    {
+        "nombre": "Peter Madsen",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.04.1978"
+    },
+    {
+        "nombre": "Reinhard Mager",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.05.1953"
+    },
+    {
+        "nombre": "Mehdi Mahdavikia",
+        "pais": "Irán",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.07.1977"
+    },
+    {
+        "nombre": "Sebastian Maier",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.09.1993"
+    },
+    {
+        "nombre": "Jan Majewski",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.11.1973"
+    },
+    {
+        "nombre": "Reinhard Majgl",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.12.1949"
+    },
+    {
+        "nombre": "Marcel Maltritz",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.10.1978"
+    },
+    {
+        "nombre": "Zoran Mamić",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.09.1971"
+    },
+    {
+        "nombre": "Sergey Mandreko",
+        "pais": "Rusia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.08.1971"
+    },
+    {
+        "nombre": "Gaetano Manno",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.07.1982"
+    },
+    {
+        "nombre": "Michaël Maria",
+        "pais": "Curazao",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.01.1995"
+    },
+    {
+        "nombre": "Marijo Marić",
+        "pais": "Croacia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.1977"
+    },
+    {
+        "nombre": "Miloš Marić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.03.1982"
+    },
+    {
+        "nombre": "Erhan Mašović",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.11.1998"
+    },
+    {
+        "nombre": "Robert Matiebel",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.11.1973"
+    },
+    {
+        "nombre": "Marvin Matip",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.09.1985"
+    },
+    {
+        "nombre": "Mërgim Mavraj",
+        "pais": "Albania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.06.1986"
+    },
+    {
+        "nombre": "Robert Mawick",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.01.1967"
+    },
+    {
+        "nombre": "Meinolf Mehls",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.07.1965"
+    },
+    {
+        "nombre": "Martin Meichelbeck",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.11.1976"
+    },
+    {
+        "nombre": "Christian Mengert",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.02.1990"
+    },
+    {
+        "nombre": "Alexander Merkel",
+        "pais": "Kazajistán",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.02.1992"
+    },
+    {
+        "nombre": "Kai Michalke",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.04.1976"
+    },
+    {
+        "nombre": "Marcin Mięciel",
+        "pais": "Polonia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.12.1975"
+    },
+    {
+        "nombre": "Detlef Mikolajczak",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.04.1964"
+    },
+    {
+        "nombre": "Rocco Milde",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.06.1969"
+    },
+    {
+        "nombre": "Egon Milder",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.04.1942"
+    },
+    {
+        "nombre": "Damir Milinović",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.10.1972"
+    },
+    {
+        "nombre": "Zvjezdan Misimović",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.06.1982"
+    },
+    {
+        "nombre": "Erich Miß",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.03.1948"
+    },
+    {
+        "nombre": "Peniel Mlapa",
+        "pais": "Togo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.02.1991"
+    },
+    {
+        "nombre": "Smail Morabit",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.07.1988"
+    },
+    {
+        "nombre": "Lys Mousset",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.02.1996"
+    },
+    {
+        "nombre": "Dimitrios Moutas",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.04.1968"
+    },
+    {
+        "nombre": "Ole Møller-Nielsen",
+        "pais": "Dinamarca",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.11.1965"
+    },
+    {
+        "nombre": "René Müller",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.05.1974"
+    },
+    {
+        "nombre": "Nando Rafael",
+        "pais": "Angola",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1984"
+    },
+    {
+        "nombre": "Moharram Navidkia",
+        "pais": "Irán",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.11.1982"
+    },
+    {
+        "nombre": "Jupp Nehl",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.06.1961"
+    },
+    {
+        "nombre": "Moise Ngwisani",
+        "pais": "R.D. Congo",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.01.1998"
+    },
+    {
+        "nombre": "David Niepsuj",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.08.1995"
+    },
+    {
+        "nombre": "Arvydas Novikovas",
+        "pais": "Lituania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.12.1990"
+    },
+    {
+        "nombre": "Soma Novothny",
+        "pais": "Hungría",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.06.1994"
+    },
+    {
+        "nombre": "Philipp Ochs",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.04.1997"
+    },
+    {
+        "nombre": "Tim Oermann",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.10.2003"
+    },
+    {
+        "nombre": "Sunday Oliseh",
+        "pais": "Nigeria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.09.1974"
+    },
+    {
+        "nombre": "Shinji Ono",
+        "pais": "Japón",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.09.1979"
+    },
+    {
+        "nombre": "Lucas Oppermann",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.08.1986"
+    },
+    {
+        "nombre": "Ivan Ordets",
+        "pais": "Ucrania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.07.1992"
+    },
+    {
+        "nombre": "Michael Ortega",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.04.1991"
+    },
+    {
+        "nombre": "Jordi Osei-Tutu",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.10.1998"
+    },
+    {
+        "nombre": "Patrick Osterhage",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.02.2000"
+    },
+    {
+        "nombre": "Elard Ostermann",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.10.1968"
+    },
+    {
+        "nombre": "Matthias Ostrzolek",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.06.1990"
+    },
+    {
+        "nombre": "Walter Oswald",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.10.1955"
+    },
+    {
+        "nombre": "Oti",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.10.1969"
+    },
+    {
+        "nombre": "Mats Pannewig",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.10.2004"
+    },
+    {
+        "nombre": "Miloš Pantović",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.07.1996"
+    },
+    {
+        "nombre": "Paolo da Palma",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.03.1966"
+    },
+    {
+        "nombre": "Fotios Papadopulos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.07.1954"
+    },
+    {
+        "nombre": "Stefan Pater",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.10.1960"
+    },
+    {
+        "nombre": "Wolfgang Patzke",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.02.1959"
+    },
+    {
+        "nombre": "Vangelis Pavlidis",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.11.1998"
+    },
+    {
+        "nombre": "Pascal Pellowski",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.12.1988"
+    },
+    {
+        "nombre": "Timo Perthel",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.02.1989"
+    },
+    {
+        "nombre": "Peter Peschel",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.01.1972"
+    },
+    {
+        "nombre": "Alen Petrović",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.11.1969"
+    },
+    {
+        "nombre": "Marc Pfertzel",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.05.1981"
+    },
+    {
+        "nombre": "Ingo Pickenäcker",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.04.1962"
+    },
+    {
+        "nombre": "Kurt Pinkall",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.06.1955"
+    },
+    {
+        "nombre": "Gerrit Plomp",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.06.1963"
+    },
+    {
+        "nombre": "Hans-Joachim Pochstein",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.10.1952"
+    },
+    {
+        "nombre": "Sebastian Polter",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.04.1991"
+    },
+    {
+        "nombre": "Christoph Preuß",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.07.1981"
+    },
+    {
+        "nombre": "Roman Prokoph",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.08.1985"
+    },
+    {
+        "nombre": "Nils Quaschner",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.04.1994"
+    },
+    {
+        "nombre": "Jacek Ratajczak",
+        "pais": "Polonia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.07.1973"
+    },
+    {
+        "nombre": "Thomas Rathgeber",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.04.1985"
+    },
+    {
+        "nombre": "Rob Reekers",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.05.1966"
+    },
+    {
+        "nombre": "Mirko Reichel",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.12.1970"
+    },
+    {
+        "nombre": "Joel Reinholz",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.05.1994"
+    },
+    {
+        "nombre": "Thomas Reis",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.10.1973"
+    },
+    {
+        "nombre": "Rene Renno",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.02.1979"
+    },
+    {
+        "nombre": "Elvis Rexhbeçaj",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.11.1997"
+    },
+    {
+        "nombre": "Andreas Ridder",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.09.1964"
+    },
+    {
+        "nombre": "Nico Rieble",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.08.1995"
+    },
+    {
+        "nombre": "Dirk Riechmann",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.05.1967"
+    },
+    {
+        "nombre": "Manuel Riemann",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "09.09.1988"
+    },
+    {
+        "nombre": "Mike Rietpietsch",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.03.1974"
+    },
+    {
+        "nombre": "Hilko Ristau",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.04.1974"
+    },
+    {
+        "nombre": "Moritz Römling",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.04.2001"
+    },
+    {
+        "nombre": "Karl-Heinz Rosenblatt",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.12.1941"
+    },
+    {
+        "nombre": "Carsten Rothenbach",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1980"
+    },
+    {
+        "nombre": "Andrzej Rudy",
+        "pais": "Polonia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.10.1965"
+    },
+    {
+        "nombre": "Manfred Rüsing",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.06.1946"
+    },
+    {
+        "nombre": "Marc Rzatkowski",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.03.1990"
+    },
+    {
+        "nombre": "Michael Rzehaczek",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.01.1967"
+    },
+    {
+        "nombre": "Frank Saborowski",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.03.1958"
+    },
+    {
+        "nombre": "Dirk Sadowicz",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.02.1965"
+    },
+    {
+        "nombre": "Görkem Sağlam",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.04.1998"
+    },
+    {
+        "nombre": "Mahir Sağlık",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.01.1983"
+    },
+    {
+        "nombre": "Sidney Sam",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.01.1988"
+    },
+    {
+        "nombre": "Marc Sand",
+        "pais": "Austria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.01.1988"
+    },
+    {
+        "nombre": "Werner Schachten",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.09.1954"
+    },
+    {
+        "nombre": "Ralf Schaffeld",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.04.1959"
+    },
+    {
+        "nombre": "Kevin Scheidhauer",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.02.1992"
+    },
+    {
+        "nombre": "Ottmar Scheuch",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.11.1954"
+    },
+    {
+        "nombre": "Franz Schick",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.06.1960"
+    },
+    {
+        "nombre": "Erich Schiller",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.10.1943"
+    },
+    {
+        "nombre": "Sebastian Schindzielorz",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.01.1979"
+    },
+    {
+        "nombre": "Klaus Schlapka",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.07.1972"
+    },
+    {
+        "nombre": "Keven Schlotterbeck",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.04.1997"
+    },
+    {
+        "nombre": "Heinrich Schmidtgal",
+        "pais": "Kazajistán",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.11.1985"
+    },
+    {
+        "nombre": "Thorsten Schmugge",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.10.1971"
+    },
+    {
+        "nombre": "Uwe Schneider",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.08.1971"
+    },
+    {
+        "nombre": "Markus Scholz",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.05.1988"
+    },
+    {
+        "nombre": "Werner Scholz",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.12.1944"
+    },
+    {
+        "nombre": "Olaf Schreiber",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.09.1969"
+    },
+    {
+        "nombre": "Christian Schreier",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.02.1959"
+    },
+    {
+        "nombre": "Toni Schreier",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.03.1962"
+    },
+    {
+        "nombre": "Oliver Schröder",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.06.1980"
+    },
+    {
+        "nombre": "Rouven Schröder",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.10.1975"
+    },
+    {
+        "nombre": "Frank Schulz",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.02.1961"
+    },
+    {
+        "nombre": "Jörg Schwanke",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.01.1969"
+    },
+    {
+        "nombre": "Dieter Schwemmle",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.07.1949"
+    },
+    {
+        "nombre": "Philip Semlits",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.11.1990"
+    },
+    {
+        "nombre": "Janni-Luca Serra",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.03.1998"
+    },
+    {
+        "nombre": "Stanislav Šesták",
+        "pais": "Eslovaquia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.12.1982"
+    },
+    {
+        "nombre": "Gazi Siala",
+        "pais": "Líbano",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.11.1994"
+    },
+    {
+        "nombre": "Sascha Siebert",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.11.1977"
+    },
+    {
+        "nombre": "Jan Šimůnek",
+        "pais": "República Checa",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.02.1987"
+    },
+    {
+        "nombre": "Lukas Sinkiewicz",
+        "pais": "Polonia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.10.1985"
+    },
+    {
+        "nombre": "Peter Skov-Jensen",
+        "pais": "Dinamarca",
+        "posicion": "Portero",
+        "fecha_nacimiento": "09.06.1971"
+    },
+    {
+        "nombre": "Martin Slawinski",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.10.1969"
+    },
+    {
+        "nombre": "Maciej Śliwowski",
+        "pais": "Polonia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1967"
+    },
+    {
+        "nombre": "Kostas Stafylidis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.12.1993"
+    },
+    {
+        "nombre": "Jannik Stevens",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.07.1992"
+    },
+    {
+        "nombre": "Miroslav Stević",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.01.1970"
+    },
+    {
+        "nombre": "Thomas Stickroth",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.04.1965"
+    },
+    {
+        "nombre": "Marco Stiepermann",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1991"
+    },
+    {
+        "nombre": "Julian Stock",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.10.1995"
+    },
+    {
+        "nombre": "Kevin Stöger",
+        "pais": "Austria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.08.1993"
+    },
+    {
+        "nombre": "Bernd Storck",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.01.1963"
+    },
+    {
+        "nombre": "Uwe Stöver",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.02.1967"
+    },
+    {
+        "nombre": "Richard Sukuta-Pasu",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.06.1990"
+    },
+    {
+        "nombre": "Axel Sundermann",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.01.1968"
+    },
+    {
+        "nombre": "Filip Tapalović",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.10.1976"
+    },
+    {
+        "nombre": "Toni Tapalović",
+        "pais": "Croacia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.10.1980"
+    },
+    {
+        "nombre": "Yusuke Tasaka",
+        "pais": "Japón",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.07.1985"
+    },
+    {
+        "nombre": "Ersan Tekkan",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.1985"
+    },
+    {
+        "nombre": "Franz-Josef Tenhagen",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.10.1952"
+    },
+    {
+        "nombre": "Simon Terodde",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.03.1988"
+    },
+    {
+        "nombre": "Marco Terrazzino",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.04.1991"
+    },
+    {
+        "nombre": "Robert Tesche",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.05.1987"
+    },
+    {
+        "nombre": "Alexander Thamm",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.05.1983"
+    },
+    {
+        "nombre": "Christian Tiffert",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.02.1982"
+    },
+    {
+        "nombre": "Mohammed Tolba",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.07.2004"
+    },
+    {
+        "nombre": "Julian Tomas",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.07.1999"
+    },
+    {
+        "nombre": "Samir Toplak",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.04.1970"
+    },
+    {
+        "nombre": "Dino Toppmöller",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.11.1980"
+    },
+    {
+        "nombre": "Faton Toski",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.02.1987"
+    },
+    {
+        "nombre": "Holger Trimhold",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.06.1953"
+    },
+    {
+        "nombre": "Filip Trojan",
+        "pais": "República Checa",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.02.1983"
+    },
+    {
+        "nombre": "Haluk Türkeri",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.11.1986"
+    },
+    {
+        "nombre": "Frank Türr",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.09.1970"
+    },
+    {
+        "nombre": "Enes Uzun",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.01.1992"
+    },
+    {
+        "nombre": "Rein van Duijnhoven",
+        "pais": "Países Bajos",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.09.1967"
+    },
+    {
+        "nombre": "Joris Van Hout",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1977"
+    },
+    {
+        "nombre": "Christian Vander",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "24.10.1980"
+    },
+    {
+        "nombre": "Luciano Velardi",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.08.1981"
+    },
+    {
+        "nombre": "Dieter Versen",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.06.1945"
+    },
+    {
+        "nombre": "Kevin Vogt",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.09.1991"
+    },
+    {
+        "nombre": "Markus von Ahlen",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.01.1971"
+    },
+    {
+        "nombre": "Anton Vriesde",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.10.1968"
+    },
+    {
+        "nombre": "Stefan Wächter",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.04.1978"
+    },
+    {
+        "nombre": "Hans Walitza",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.11.1945"
+    },
+    {
+        "nombre": "Tomasz Wałdoch",
+        "pais": "Polonia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.05.1971"
+    },
+    {
+        "nombre": "Achim Weber",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.03.1969"
+    },
+    {
+        "nombre": "Marius Weeke",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.03.1995"
+    },
+    {
+        "nombre": "Uwe Wegmann",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.01.1964"
+    },
+    {
+        "nombre": "Tom Weilandt",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.04.1992"
+    },
+    {
+        "nombre": "Tobias Weis",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.07.1985"
+    },
+    {
+        "nombre": "Jan Wellers",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.02.2000"
+    },
+    {
+        "nombre": "Andreas Wessels",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.07.1964"
+    },
+    {
+        "nombre": "Oliver Westerbeek",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.02.1966"
+    },
+    {
+        "nombre": "Andreas Wieczorek",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1974"
+    },
+    {
+        "nombre": "Jürgen Wielert",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.07.1960"
+    },
+    {
+        "nombre": "Gerd Wiesemes",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.01.1943"
+    },
+    {
+        "nombre": "Giliano Wijnaldum",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.08.1992"
+    },
+    {
+        "nombre": "Danny Winkler",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.08.1973"
+    },
+    {
+        "nombre": "Manuel Wintzheimer",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1999"
+    },
+    {
+        "nombre": "Klaus Wischniewski",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.12.1954"
+    },
+    {
+        "nombre": "Lothar Woelk",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.08.1954"
+    },
+    {
+        "nombre": "Roland Wohlfarth",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.01.1963"
+    },
+    {
+        "nombre": "Danny Woidtke",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.02.1981"
+    },
+    {
+        "nombre": "Adam Woitynek",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.03.1969"
+    },
+    {
+        "nombre": "Dariusz Wosz",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.06.1969"
+    },
+    {
+        "nombre": "Johannes Wurtz",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.06.1992"
+    },
+    {
+        "nombre": "Dominik Wydra",
+        "pais": "Austria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.03.1994"
+    },
+    {
+        "nombre": "Eric Wynalda",
+        "pais": "Estados Unidos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.06.1969"
+    },
+    {
+        "nombre": "Anthar Yahia",
+        "pais": "Argelia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.03.1982"
+    },
+    {
+        "nombre": "Sergey Yuran",
+        "pais": "Rusia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.06.1969"
+    },
+    {
+        "nombre": "Reinhold Zagorny",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.09.1956"
+    },
+    {
+        "nombre": "Adnan Zahirović",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.03.1990"
+    },
+    {
+        "nombre": "David Zajas",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.05.1983"
+    },
+    {
+        "nombre": "Peter Zanter",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.11.1965"
+    },
+    {
+        "nombre": "Tomasz Zdebel",
+        "pais": "Polonia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.05.1973"
+    },
+    {
+        "nombre": "Roman Zengin",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.02.1997"
+    },
+    {
+        "nombre": "Andreas Zeyer",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.06.1968"
+    },
+    {
+        "nombre": "Simon Zoller",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.06.1991"
+    },
+    {
+        "nombre": "Ivan Žugčić",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.05.1958"
+    },
+    {
+        "nombre": "Robert Žulj",
+        "pais": "Austria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.02.1992"
+    },
+    {
+        "nombre": "Ralf Zumdick",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.05.1958"
+    }
+]
