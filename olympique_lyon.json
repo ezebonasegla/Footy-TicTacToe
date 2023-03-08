@@ -1,0 +1,3044 @@
+[
+    {
+        "nombre": "Loïc Abenzoar",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.02.1989"
+    },
+    {
+        "nombre": "Éric Abidal",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.09.1979"
+    },
+    {
+        "nombre": "Samassi Abou",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.04.1973"
+    },
+    {
+        "nombre": "Stefan Akélian",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.12.1940"
+    },
+    {
+        "nombre": "Hamdan Al Kamali",
+        "pais": "EAU",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.05.1989"
+    },
+    {
+        "nombre": "Rajko Aleksić",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.02.1947"
+    },
+    {
+        "nombre": "Manuel Amoros",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.02.1962"
+    },
+    {
+        "nombre": "Serge Amouret",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.10.1957"
+    },
+    {
+        "nombre": "Joachim Andersen",
+        "pais": "Dinamarca",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.05.1996"
+    },
+    {
+        "nombre": "Anderson",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.04.1980"
+    },
+    {
+        "nombre": "Ghislain Anselmini",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.05.1970"
+    },
+    {
+        "nombre": "Anthony Lopes",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.10.1990"
+    },
+    {
+        "nombre": "Houssem Aouar",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.06.1998"
+    },
+    {
+        "nombre": "Aparicio",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.09.1958"
+    },
+    {
+        "nombre": "Éric Assadourian",
+        "pais": "Armenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.06.1966"
+    },
+    {
+        "nombre": "Patrick Attar",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.07.1952"
+    },
+    {
+        "nombre": "Marcel Aubour",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.06.1940"
+    },
+    {
+        "nombre": "René Aznar",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.03.1952"
+    },
+    {
+        "nombre": "Jean Baeza",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.08.1942"
+    },
+    {
+        "nombre": "Farès Bahlouli",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.04.1995"
+    },
+    {
+        "nombre": "Jacek Bąk",
+        "pais": "Polonia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.03.1973"
+    },
+    {
+        "nombre": "Patrick Baldassara",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.07.1952"
+    },
+    {
+        "nombre": "Florent Balmont",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.02.1980"
+    },
+    {
+        "nombre": "Paco Bandera",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.10.1957"
+    },
+    {
+        "nombre": "Bradley Barcola",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.09.2002"
+    },
+    {
+        "nombre": "Malcolm Barcola",
+        "pais": "Togo",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.05.1999"
+    },
+    {
+        "nombre": "Melvin Bard",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.11.2000"
+    },
+    {
+        "nombre": "Cédric Bardon",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.10.1976"
+    },
+    {
+        "nombre": "Yann Bardon",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.12.1972"
+    },
+    {
+        "nombre": "Alain Baré",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.08.1966"
+    },
+    {
+        "nombre": "Milan Baroš",
+        "pais": "República Checa",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.10.1981"
+    },
+    {
+        "nombre": "Christian Bassila",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1977"
+    },
+    {
+        "nombre": "Claudio Beauvue",
+        "pais": "Guadalupe",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.04.1988"
+    },
+    {
+        "nombre": "Henri Bédimo",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.06.1984"
+    },
+    {
+        "nombre": "Ishak Belfodil",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.1992"
+    },
+    {
+        "nombre": "Nadir Belhadj",
+        "pais": "Argelia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1982"
+    },
+    {
+        "nombre": "Olivier Bellisi",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.11.1975"
+    },
+    {
+        "nombre": "Hatem Ben Arfa",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.03.1987"
+    },
+    {
+        "nombre": "Alim Ben Mabrouk",
+        "pais": "Argelia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.06.1960"
+    },
+    {
+        "nombre": "Mourad Benhamida",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.01.1986"
+    },
+    {
+        "nombre": "Djamel Benlamri",
+        "pais": "Argelia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.12.1989"
+    },
+    {
+        "nombre": "Farid Benstiti",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.01.1967"
+    },
+    {
+        "nombre": "Karim Benzema",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.12.1987"
+    },
+    {
+        "nombre": "Yassine Benzia",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.09.1994"
+    },
+    {
+        "nombre": "Michel Berger",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.06.1950"
+    },
+    {
+        "nombre": "Bryan Bergougnoux",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.01.1983"
+    },
+    {
+        "nombre": "Jean-Paul Bernad",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.07.1954"
+    },
+    {
+        "nombre": "Georges Bernard",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.11.1941"
+    },
+    {
+        "nombre": "Olivier Bernard",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.10.1979"
+    },
+    {
+        "nombre": "Jérémy Berthod",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.04.1984"
+    },
+    {
+        "nombre": "Alexandre Bès",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.04.1967"
+    },
+    {
+        "nombre": "Grégory Bettiol",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.03.1986"
+    },
+    {
+        "nombre": "Serge Bex",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.09.1959"
+    },
+    {
+        "nombre": "Romain Beynié",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.05.1987"
+    },
+    {
+        "nombre": "Romarin Billong",
+        "pais": "Chad",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.06.1970"
+    },
+    {
+        "nombre": "Milan Biševac",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.08.1983"
+    },
+    {
+        "nombre": "Robert Blanc",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.05.1944"
+    },
+    {
+        "nombre": "Serge Blanc",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.10.1972"
+    },
+    {
+        "nombre": "Jérôme Boateng",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1988"
+    },
+    {
+        "nombre": "René Bocchi",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.04.1957"
+    },
+    {
+        "nombre": "Mathieu Bodmer",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.11.1982"
+    },
+    {
+        "nombre": "Bernard Boissier",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.10.1952"
+    },
+    {
+        "nombre": "Noam Bonnet",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.05.2002"
+    },
+    {
+        "nombre": "Kayne Bonnevie",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.07.2001"
+    },
+    {
+        "nombre": "Luc Borrelli",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.07.1965"
+    },
+    {
+        "nombre": "Michel Bossy",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.01.1940"
+    },
+    {
+        "nombre": "Ali Bouafia",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.08.1964"
+    },
+    {
+        "nombre": "Mohamed Bouassa",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "1944"
+    },
+    {
+        "nombre": "Alexandre Bouchard",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.05.1988"
+    },
+    {
+        "nombre": "Eric Boucher",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.12.1958"
+    },
+    {
+        "nombre": "Abdelaziz Bouderbala",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.12.1960"
+    },
+    {
+        "nombre": "Jean-Alain Boumsong",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.12.1979"
+    },
+    {
+        "nombre": "Anthony Braizat",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.08.1977"
+    },
+    {
+        "nombre": "Daniel Bravo",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1963"
+    },
+    {
+        "nombre": "Jérémie Bréchet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.08.1979"
+    },
+    {
+        "nombre": "Christophe Breton",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.05.1966"
+    },
+    {
+        "nombre": "Jimmy Briand",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.08.1985"
+    },
+    {
+        "nombre": "François Brisson",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.04.1958"
+    },
+    {
+        "nombre": "José Broissart",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.02.1947"
+    },
+    {
+        "nombre": "Daniel Bruno",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.11.1959"
+    },
+    {
+        "nombre": "Bruno Guimarães",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.11.1997"
+    },
+    {
+        "nombre": "Miloš Bursać",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.06.1965"
+    },
+    {
+        "nombre": "Fabien Caballero",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "23.04.1984"
+    },
+    {
+        "nombre": "Roberto Cabañas",
+        "pais": "Paraguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.04.1961"
+    },
+    {
+        "nombre": "Patrice Cabanel",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.07.1964"
+    },
+    {
+        "nombre": "Caçapa",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.05.1976"
+    },
+    {
+        "nombre": "Robert Cacchioni",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.07.1950"
+    },
+    {
+        "nombre": "Camilo",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.02.1999"
+    },
+    {
+        "nombre": "Maxence Caqueret",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.02.2000"
+    },
+    {
+        "nombre": "John Carew",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.09.1979"
+    },
+    {
+        "nombre": "Gilbert Carrié",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.05.1952"
+    },
+    {
+        "nombre": "Eric Carrière",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.05.1973"
+    },
+    {
+        "nombre": "Patrice Carteron",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.07.1970"
+    },
+    {
+        "nombre": "Laurent Casanova",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.09.1971"
+    },
+    {
+        "nombre": "Alain Cavéglia",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.03.1968"
+    },
+    {
+        "nombre": "Jean-Marc Chanelet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.07.1968"
+    },
+    {
+        "nombre": "Johann Charpenet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.08.1976"
+    },
+    {
+        "nombre": "Mickaël Charvet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.03.1988"
+    },
+    {
+        "nombre": "Yves Chauveau",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.04.1945"
+    },
+    {
+        "nombre": "Pierre Chavrondier",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.08.1971"
+    },
+    {
+        "nombre": "Alain Chazal",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.07.1952"
+    },
+    {
+        "nombre": "Pape Cheikh Diop",
+        "pais": "Senegal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.08.1997"
+    },
+    {
+        "nombre": "Jean-Claude Chemier",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.06.1954"
+    },
+    {
+        "nombre": "Rayan Cherki",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.08.2003"
+    },
+    {
+        "nombre": "Jean-François Chevat",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.02.1946"
+    },
+    {
+        "nombre": "Serge Chiesa",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.12.1950"
+    },
+    {
+        "nombre": "Aly Cissokho",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.09.1987"
+    },
+    {
+        "nombre": "Jérémy Clément",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.08.1984"
+    },
+    {
+        "nombre": "François Clerc",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.04.1983"
+    },
+    {
+        "nombre": "Guy Clopin",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1951"
+    },
+    {
+        "nombre": "Christophe Cocard",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.11.1967"
+    },
+    {
+        "nombre": "Timothé Cognat",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.01.1998"
+    },
+    {
+        "nombre": "Alain Colacicco",
+        "pais": "Jamaica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.01.1973"
+    },
+    {
+        "nombre": "Jacky Colin",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.08.1963"
+    },
+    {
+        "nombre": "Nestor Combin",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.12.1940"
+    },
+    {
+        "nombre": "Gilbert Conrath",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.12.1949"
+    },
+    {
+        "nombre": "Gilles Constantinian",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.10.1964"
+    },
+    {
+        "nombre": "Mario Corian",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.11.1961"
+    },
+    {
+        "nombre": "Jean-François Cornet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.09.1958"
+    },
+    {
+        "nombre": "Maxwel Cornet",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.09.1996"
+    },
+    {
+        "nombre": "Grégory Coupet",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.12.1972"
+    },
+    {
+        "nombre": "Laurent Courtois",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.09.1978"
+    },
+    {
+        "nombre": "Cris",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.06.1977"
+    },
+    {
+        "nombre": "Patrick Crolle",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.08.1947"
+    },
+    {
+        "nombre": "Damien Da Silva",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.05.1988"
+    },
+    {
+        "nombre": "Mouhamadou Dabo",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.11.1986"
+    },
+    {
+        "nombre": "Gaël Danic",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.11.1981"
+    },
+    {
+        "nombre": "Alain De Cruz",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.10.1965"
+    },
+    {
+        "nombre": "Gilles de Rocco",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.03.1957"
+    },
+    {
+        "nombre": "Mattia De Sciglio",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.10.1992"
+    },
+    {
+        "nombre": "James Debbah",
+        "pais": "Liberia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.12.1967"
+    },
+    {
+        "nombre": "Laurent Debrosse",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.10.1969"
+    },
+    {
+        "nombre": "Eric Deflandre",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.08.1973"
+    },
+    {
+        "nombre": "Théo Defourny",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.04.1992"
+    },
+    {
+        "nombre": "Lucien Degeorges",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.02.1942"
+    },
+    {
+        "nombre": "Christophe Deguerville",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.06.1970"
+    },
+    {
+        "nombre": "Romain Del Castillo",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.03.1996"
+    },
+    {
+        "nombre": "Laurent Delamontagne",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.10.1965"
+    },
+    {
+        "nombre": "Yvon Delestre",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.11.1952"
+    },
+    {
+        "nombre": "César Delgado",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.08.1981"
+    },
+    {
+        "nombre": "Christophe Delmotte",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.06.1969"
+    },
+    {
+        "nombre": "Moussa Dembélé",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.07.1996"
+    },
+    {
+        "nombre": "Jason Denayer",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.06.1995"
+    },
+    {
+        "nombre": "Memphis Depay",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.02.1994"
+    },
+    {
+        "nombre": "Sylvain Deplace",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.01.1972"
+    },
+    {
+        "nombre": "Christophe Desbouillons",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.08.1958"
+    },
+    {
+        "nombre": "Eric Descombes",
+        "pais": "Mauritania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.06.1971"
+    },
+    {
+        "nombre": "Jean-Louis Desvignes",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.05.1956"
+    },
+    {
+        "nombre": "Jean-Christophe Devaux",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.05.1975"
+    },
+    {
+        "nombre": "Vikash Dhorasoo",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.10.1973"
+    },
+    {
+        "nombre": "Fleury Di Nallo",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.04.1943"
+    },
+    {
+        "nombre": "Mouctar Diakhaby",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.12.1996"
+    },
+    {
+        "nombre": "Pape Diakhaté",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.06.1984"
+    },
+    {
+        "nombre": "Alou Diarra",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.07.1981"
+    },
+    {
+        "nombre": "Mahamadou Diarra",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.05.1981"
+    },
+    {
+        "nombre": "Lamine Diatta",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.07.1975"
+    },
+    {
+        "nombre": "Djibrail Dib",
+        "pais": "Argelia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.07.2002"
+    },
+    {
+        "nombre": "Sinaly Diomandé",
+        "pais": "Costa de Marfil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.04.2001"
+    },
+    {
+        "nombre": "Albert Domenech",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.01.1953"
+    },
+    {
+        "nombre": "Raymond Domenech",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.01.1952"
+    },
+    {
+        "nombre": "Jean-François Domergue",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.06.1957"
+    },
+    {
+        "nombre": "Léo Dubois",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.09.1994"
+    },
+    {
+        "nombre": "Roger Duffez",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.07.1942"
+    },
+    {
+        "nombre": "Jean Dumas",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.07.1944"
+    },
+    {
+        "nombre": "Jean-Philippe Durand",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.11.1960"
+    },
+    {
+        "nombre": "Franck Durix",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.10.1965"
+    },
+    {
+        "nombre": "Alan Dzabana",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.03.1997"
+    },
+    {
+        "nombre": "Ederson",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.01.1986"
+    },
+    {
+        "nombre": "Edmilson",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.07.1976"
+    },
+    {
+        "nombre": "Mohamed El Arouch",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.04.2004"
+    },
+    {
+        "nombre": "Emerson",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.08.1994"
+    },
+    {
+        "nombre": "Albert Emon",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.06.1953"
+    },
+    {
+        "nombre": "Boris Essele",
+        "pais": "Camerún",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.01.2000"
+    },
+    {
+        "nombre": "Michael Essien",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.12.1982"
+    },
+    {
+        "nombre": "Fábio Santos",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.10.1980"
+    },
+    {
+        "nombre": "Romain Faivre",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.07.1998"
+    },
+    {
+        "nombre": "Sébastien Faure",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.01.1991"
+    },
+    {
+        "nombre": "Nabil Fekir",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.07.1993"
+    },
+    {
+        "nombre": "Yassin Fekir",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.05.1997"
+    },
+    {
+        "nombre": "François Félix",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.05.1949"
+    },
+    {
+        "nombre": "Olivier Ferez",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.11.1970"
+    },
+    {
+        "nombre": "Alfonso Fernandez",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.04.1963"
+    },
+    {
+        "nombre": "André Ferri",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.03.1956"
+    },
+    {
+        "nombre": "Jordan Ferri",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.03.1992"
+    },
+    {
+        "nombre": "Patrice Ferri",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.07.1963"
+    },
+    {
+        "nombre": "Antoine-Denis Ferrigno",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.11.1958"
+    },
+    {
+        "nombre": "Bernard Ferrigno",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.10.1954"
+    },
+    {
+        "nombre": "Fabrice Fiorése",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.07.1975"
+    },
+    {
+        "nombre": "Maxence Flachez",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.08.1972"
+    },
+    {
+        "nombre": "Yves Flohic",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.03.1943"
+    },
+    {
+        "nombre": "Marc-Vivien Foé",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.05.1975"
+    },
+    {
+        "nombre": "Boubacar Fofana",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.09.1998"
+    },
+    {
+        "nombre": "Gueïda Fofana",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.05.1991"
+    },
+    {
+        "nombre": "Thomas Fontaine",
+        "pais": "Madagascar",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.05.1991"
+    },
+    {
+        "nombre": "Jean-Philippe Foret",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.11.1968"
+    },
+    {
+        "nombre": "Frédéric Fouret",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.10.1974"
+    },
+    {
+        "nombre": "Hubert Fournier",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1967"
+    },
+    {
+        "nombre": "Laurent Fournier",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.09.1964"
+    },
+    {
+        "nombre": "Torben Frank",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.06.1968"
+    },
+    {
+        "nombre": "Pierre-Alain Frau",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.04.1980"
+    },
+    {
+        "nombre": "Joël Fréchet",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.10.1965"
+    },
+    {
+        "nombre": "Fred",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.10.1983"
+    },
+    {
+        "nombre": "Jérémy Frick",
+        "pais": "Suiza",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.03.1993"
+    },
+    {
+        "nombre": "Pascal Fugier",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.09.1968"
+    },
+    {
+        "nombre": "Jean-Marc Furlan",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.11.1957"
+    },
+    {
+        "nombre": "Denis Gagneux",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.02.1963"
+    },
+    {
+        "nombre": "Jean Gallice",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.05.1949"
+    },
+    {
+        "nombre": "Roger Garadier",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.05.1947"
+    },
+    {
+        "nombre": "Claudio García",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.08.1963"
+    },
+    {
+        "nombre": "Rémi Garde",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.04.1966"
+    },
+    {
+        "nombre": "Guy Garrigues",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.06.1948"
+    },
+    {
+        "nombre": "Jordy Gaspar",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.04.1997"
+    },
+    {
+        "nombre": "Lamine Gassama",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.10.1989"
+    },
+    {
+        "nombre": "Franck Gava",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1970"
+    },
+    {
+        "nombre": "Bruno Génésio",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.09.1966"
+    },
+    {
+        "nombre": "Alexis Genet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.06.1982"
+    },
+    {
+        "nombre": "Guy Genet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.08.1955"
+    },
+    {
+        "nombre": "Gaël Genevier",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.06.1982"
+    },
+    {
+        "nombre": "Willem Geubbels",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.08.2001"
+    },
+    {
+        "nombre": "Rachid Ghezzal",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.05.1992"
+    },
+    {
+        "nombre": "Gerardo Giannetta",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.09.1956"
+    },
+    {
+        "nombre": "Jean-Claude Gibert",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.01.1953"
+    },
+    {
+        "nombre": "Giovane Élber",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.07.1972"
+    },
+    {
+        "nombre": "Ludovic Giuly",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.07.1976"
+    },
+    {
+        "nombre": "Jacques Glyczinski",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.09.1944"
+    },
+    {
+        "nombre": "Yohan Gomez",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.09.1981"
+    },
+    {
+        "nombre": "Bafétimbi Gomis",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.08.1985"
+    },
+    {
+        "nombre": "Maxime Gonalons",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.03.1989"
+    },
+    {
+        "nombre": "Mathieu Gorgelin",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.08.1990"
+    },
+    {
+        "nombre": "Amine Gouiri",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.02.2000"
+    },
+    {
+        "nombre": "Yoann Gourcuff",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.07.1986"
+    },
+    {
+        "nombre": "Hervé Goursat",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.01.1957"
+    },
+    {
+        "nombre": "Sidney Govou",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.07.1979"
+    },
+    {
+        "nombre": "Dorian Grange",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.05.1996"
+    },
+    {
+        "nombre": "Marco Grassi",
+        "pais": "Suiza",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.08.1968"
+    },
+    {
+        "nombre": "Clément Grenier",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.01.1991"
+    },
+    {
+        "nombre": "Fabio Grosso",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.11.1977"
+    },
+    {
+        "nombre": "Eric Guichard",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.02.1964"
+    },
+    {
+        "nombre": "Malo Gusto",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.05.2003"
+    },
+    {
+        "nombre": "André Guy",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.03.1941"
+    },
+    {
+        "nombre": "Joan Hartock",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.02.1987"
+    },
+    {
+        "nombre": "Alexandre Hauw",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.01.1982"
+    },
+    {
+        "nombre": "Pascal Havet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.06.1964"
+    },
+    {
+        "nombre": "David Hellebuyck",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.05.1979"
+    },
+    {
+        "nombre": "Henrique",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.04.1994"
+    },
+    {
+        "nombre": "Yacine Hima",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.1984"
+    },
+    {
+        "nombre": "Angelo Hugues",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.09.1966"
+    },
+    {
+        "nombre": "Sylvain Idangar",
+        "pais": "Chad",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.03.1984"
+    },
+    {
+        "nombre": "René Izquierdo",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.09.1948"
+    },
+    {
+        "nombre": "Daniel Jaccard",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.03.1985"
+    },
+    {
+        "nombre": "Kevin Jacmot",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.03.1984"
+    },
+    {
+        "nombre": "Aimé Jacquet",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.11.1941"
+    },
+    {
+        "nombre": "Christophe Jallet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.10.1983"
+    },
+    {
+        "nombre": "Jean Lucas",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.06.1998"
+    },
+    {
+        "nombre": "Jeffinho",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.12.1999"
+    },
+    {
+        "nombre": "Ulrik Jenssen",
+        "pais": "Noruega",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.07.1996"
+    },
+    {
+        "nombre": "Joseph-Désiré Job",
+        "pais": "Camerún",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.12.1977"
+    },
+    {
+        "nombre": "Jean-François Jodar",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.12.1949"
+    },
+    {
+        "nombre": "Juninho Pernambucano",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.01.1975"
+    },
+    {
+        "nombre": "Franck Jurietti",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1975"
+    },
+    {
+        "nombre": "Eugène Kabongo",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.05.1960"
+    },
+    {
+        "nombre": "Tino Kadewere",
+        "pais": "Zimbabwe",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.01.1996"
+    },
+    {
+        "nombre": "Kim Källström",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.08.1982"
+    },
+    {
+        "nombre": "Aldo Kalulu",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.01.1996"
+    },
+    {
+        "nombre": "Gédéon Kalulu",
+        "pais": "R.D. Congo",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.08.1997"
+    },
+    {
+        "nombre": "Pierre Kalulu",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.06.2000"
+    },
+    {
+        "nombre": "Frédéric Kanouté",
+        "pais": "Malí",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.09.1977"
+    },
+    {
+        "nombre": "Abdulkader Keïta",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.08.1981"
+    },
+    {
+        "nombre": "Habib Keita",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.02.2002"
+    },
+    {
+        "nombre": "Olivier Kemen",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.07.1996"
+    },
+    {
+        "nombre": "Jean-Marc Knapp",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.01.1963"
+    },
+    {
+        "nombre": "Timothée Kolodziejczak",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.10.1991"
+    },
+    {
+        "nombre": "Bakary Koné",
+        "pais": "Burkina Faso",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.04.1988"
+    },
+    {
+        "nombre": "Sidy Koné",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.06.1992"
+    },
+    {
+        "nombre": "Youssouf Koné",
+        "pais": "Malí",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.07.1995"
+    },
+    {
+        "nombre": "Erwin Kuffer",
+        "pais": "Luxemburgo",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.09.1943"
+    },
+    {
+        "nombre": "Saël Kumbedi",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.03.2005"
+    },
+    {
+        "nombre": "Achraf Laaziri",
+        "pais": "Marruecos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.11.2003"
+    },
+    {
+        "nombre": "Zakarie Labidi",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.02.1995"
+    },
+    {
+        "nombre": "Alexandre Lacazette",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.05.1991"
+    },
+    {
+        "nombre": "Bernard Lacombe",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.08.1952"
+    },
+    {
+        "nombre": "Guillaume Lacour",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.08.1980"
+    },
+    {
+        "nombre": "Félix Lacuesta",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.02.1958"
+    },
+    {
+        "nombre": "Pierre Laigle",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.09.1970"
+    },
+    {
+        "nombre": "Gérard Lanthier",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.04.1956"
+    },
+    {
+        "nombre": "Jean-François Larios",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.08.1956"
+    },
+    {
+        "nombre": "Laurent Lassagne",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.09.1965"
+    },
+    {
+        "nombre": "Florent Laville",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.08.1973"
+    },
+    {
+        "nombre": "Denis Lavorel",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.05.1947"
+    },
+    {
+        "nombre": "Sekou Lega",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.01.2003"
+    },
+    {
+        "nombre": "Francois Lemasson",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.11.1963"
+    },
+    {
+        "nombre": "Johann Lepenant",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.10.2002"
+    },
+    {
+        "nombre": "Bernard Lhomme",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.12.1942"
+    },
+    {
+        "nombre": "David Linarès",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1975"
+    },
+    {
+        "nombre": "Hugo Lloris",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.12.1986"
+    },
+    {
+        "nombre": "Patrice Loko",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.02.1970"
+    },
+    {
+        "nombre": "Irvyn Lomami",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.12.2003"
+    },
+    {
+        "nombre": "Lisandro López",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.03.1983"
+    },
+    {
+        "nombre": "Dejan Lovren",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.07.1989"
+    },
+    {
+        "nombre": "Daniel Lubin",
+        "pais": "Martinica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.03.1955"
+    },
+    {
+        "nombre": "Lucas Paquetá",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.08.1997"
+    },
+    {
+        "nombre": "Castello Lukeba",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.12.2002"
+    },
+    {
+        "nombre": "Peguy Luyindula",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.05.1979"
+    },
+    {
+        "nombre": "Michel Maillard",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.07.1952"
+    },
+    {
+        "nombre": "Jean Makoun",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.05.1983"
+    },
+    {
+        "nombre": "Steed Malbranque",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.1980"
+    },
+    {
+        "nombre": "Florent Malouda",
+        "pais": "Guayana Francesa",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.06.1980"
+    },
+    {
+        "nombre": "Emanuel Mammana",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.02.1996"
+    },
+    {
+        "nombre": "Ildo Maneiro",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.08.1947"
+    },
+    {
+        "nombre": "Myziane Maolida",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.02.1999"
+    },
+    {
+        "nombre": "Dominique Marais",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.12.1955"
+    },
+    {
+        "nombre": "Marc Crosas",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.01.1988"
+    },
+    {
+        "nombre": "Marçal",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.02.1989"
+    },
+    {
+        "nombre": "Marcelo",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.05.1987"
+    },
+    {
+        "nombre": "Marcelo Djian",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.11.1966"
+    },
+    {
+        "nombre": "Michel Margottin",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.05.1944"
+    },
+    {
+        "nombre": "Mariano",
+        "pais": "Rep. Dominicana",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.08.1993"
+    },
+    {
+        "nombre": "Yves Mariot",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.07.1948"
+    },
+    {
+        "nombre": "Steve Marlet",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1974"
+    },
+    {
+        "nombre": "Karim Maroc",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.03.1958"
+    },
+    {
+        "nombre": "Anthony Martial",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.12.1995"
+    },
+    {
+        "nombre": "Jean-Marc Martinez",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.07.1956"
+    },
+    {
+        "nombre": "Christopher Martins",
+        "pais": "Luxemburgo",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.02.1997"
+    },
+    {
+        "nombre": "Guillaume Masson",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.02.1969"
+    },
+    {
+        "nombre": "Jean-Philippe Mateta",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.06.1997"
+    },
+    {
+        "nombre": "Florian Maurice",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.01.1974"
+    },
+    {
+        "nombre": "Dylan Mboumbouni",
+        "pais": "República Centroafricana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.02.1996"
+    },
+    {
+        "nombre": "Mick McCarthy",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.02.1959"
+    },
+    {
+        "nombre": "Saïd Mehamha",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.09.1990"
+    },
+    {
+        "nombre": "Ferland Mendy",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.06.1995"
+    },
+    {
+        "nombre": "John Mensah",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.11.1982"
+    },
+    {
+        "nombre": "Michel Bastos",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.08.1983"
+    },
+    {
+        "nombre": "Miguel Lopes",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.12.1986"
+    },
+    {
+        "nombre": "Ljubomir Mihajlović",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.09.1943"
+    },
+    {
+        "nombre": "Philippe Millot",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.03.1962"
+    },
+    {
+        "nombre": "Lucas Mocio",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.05.1994"
+    },
+    {
+        "nombre": "Alain Moizan",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.11.1953"
+    },
+    {
+        "nombre": "Sylvain Monsoreau",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.01.1981"
+    },
+    {
+        "nombre": "Patrice Monteilh",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.12.1960"
+    },
+    {
+        "nombre": "Laurent Montoya",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.09.1980"
+    },
+    {
+        "nombre": "Luciano Monzón",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.04.1987"
+    },
+    {
+        "nombre": "Jérémy Morel",
+        "pais": "Madagascar",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.04.1984"
+    },
+    {
+        "nombre": "Laurent Morestin",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.01.1976"
+    },
+    {
+        "nombre": "Fahd Moufi",
+        "pais": "Marruecos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.05.1996"
+    },
+    {
+        "nombre": "Jean-Marc Moulin",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.11.1973"
+    },
+    {
+        "nombre": "Anthony Mounier",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.09.1987"
+    },
+    {
+        "nombre": "Joël Muller",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.01.1952"
+    },
+    {
+        "nombre": "Patrick Müller",
+        "pais": "Suiza",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.12.1976"
+    },
+    {
+        "nombre": "Arnold Mvuemba",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.01.1985"
+    },
+    {
+        "nombre": "Abdoulaye N'Diaye",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.04.2002"
+    },
+    {
+        "nombre": "Philippe N'Dioro",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.06.1962"
+    },
+    {
+        "nombre": "Jean-Jacques N'Domba",
+        "pais": "Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.1960"
+    },
+    {
+        "nombre": "Bruno N'Gotty",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.06.1971"
+    },
+    {
+        "nombre": "Romaric N'Gouma",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.01.1995"
+    },
+    {
+        "nombre": "Clinton N'Jie",
+        "pais": "Camerún",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.08.1993"
+    },
+    {
+        "nombre": "Nicolas N'Koulou",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.03.1990"
+    },
+    {
+        "nombre": "Jean-Claude Nadon",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.11.1964"
+    },
+    {
+        "nombre": "Christian Navacchi",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.01.1946"
+    },
+    {
+        "nombre": "Ousseynou Ndiaye",
+        "pais": "Senegal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.11.1998"
+    },
+    {
+        "nombre": "Tanguy Ndombèlé",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.12.1996"
+    },
+    {
+        "nombre": "Frédéric Née",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.04.1975"
+    },
+    {
+        "nombre": "Christian Ngando",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.12.1993"
+    },
+    {
+        "nombre": "Louis Nganioni",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.06.1995"
+    },
+    {
+        "nombre": "Simo Nikolić",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.08.1954"
+    },
+    {
+        "nombre": "Nilmar",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.07.1984"
+    },
+    {
+        "nombre": "Jean-Jacques Nono",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.01.1965"
+    },
+    {
+        "nombre": "Robert Nouzaret",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.09.1943"
+    },
+    {
+        "nombre": "Harry Novillo",
+        "pais": "Martinica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.02.1992"
+    },
+    {
+        "nombre": "Gaël Nsombi",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.01.2003"
+    },
+    {
+        "nombre": "Alain Olio",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.11.1957"
+    },
+    {
+        "nombre": "Pascal Olmeta",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.04.1961"
+    },
+    {
+        "nombre": "Jean-Pierre Orts",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.09.1960"
+    },
+    {
+        "nombre": "Patrice Ouerdi",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.09.1978"
+    },
+    {
+        "nombre": "Elisha Owusu",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.11.1997"
+    },
+    {
+        "nombre": "Cenk Özkaçar",
+        "pais": "Turquía",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.10.2000"
+    },
+    {
+        "nombre": "Stéphane Paille",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.06.1965"
+    },
+    {
+        "nombre": "Patrick Paillot",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.11.1957"
+    },
+    {
+        "nombre": "Sandy Paillot",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.02.1987"
+    },
+    {
+        "nombre": "Jean Palka",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.02.1945"
+    },
+    {
+        "nombre": "José Pasqualetti",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.09.1956"
+    },
+    {
+        "nombre": "Frédéric Patouillard",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.01.1974"
+    },
+    {
+        "nombre": "Éric Péan",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.09.1963"
+    },
+    {
+        "nombre": "Benoît Pedretti",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.11.1980"
+    },
+    {
+        "nombre": "Reynald Pedros",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.10.1971"
+    },
+    {
+        "nombre": "Abédi Pelé",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.11.1964"
+    },
+    {
+        "nombre": "André Pélisson",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.09.1942"
+    },
+    {
+        "nombre": "André Perrin",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.08.1941"
+    },
+    {
+        "nombre": "Gaëtan Perrin",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.06.1996"
+    },
+    {
+        "nombre": "Thomas Pfannkuch",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.02.1970"
+    },
+    {
+        "nombre": "Jérémy Pied",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.02.1989"
+    },
+    {
+        "nombre": "Jean-François Pilloud",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.06.1957"
+    },
+    {
+        "nombre": "Jacky Pin",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.01.1944"
+    },
+    {
+        "nombre": "Lenny Pintor",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.08.2000"
+    },
+    {
+        "nombre": "Frédéric Piquionne",
+        "pais": "Martinica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.12.1978"
+    },
+    {
+        "nombre": "Jimmy Pistilli",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.05.1943"
+    },
+    {
+        "nombre": "Miralem Pjanić",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.04.1990"
+    },
+    {
+        "nombre": "Alassane Pléa",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.03.1993"
+    },
+    {
+        "nombre": "Julian Pollersbeck",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.08.1994"
+    },
+    {
+        "nombre": "Franck Priou",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.10.1963"
+    },
+    {
+        "nombre": "Georges Prost",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.03.1948"
+    },
+    {
+        "nombre": "Grégoire Puel",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.02.1992"
+    },
+    {
+        "nombre": "Nicolas Puydebois",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.02.1981"
+    },
+    {
+        "nombre": "Anthony Racioppi",
+        "pais": "Suiza",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.12.1998"
+    },
+    {
+        "nombre": "Rafael",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.07.1990"
+    },
+    {
+        "nombre": "Néstor Rambert",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.08.1942"
+    },
+    {
+        "nombre": "Gilbert Ravanello",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.11.1950"
+    },
+    {
+        "nombre": "Daniel Ravier",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.03.1948"
+    },
+    {
+        "nombre": "Jean-Michel Raymond",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "24.08.1959"
+    },
+    {
+        "nombre": "Enzo Réale",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.10.1991"
+    },
+    {
+        "nombre": "Jeff Reine-Adélaïde",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.01.1998"
+    },
+    {
+        "nombre": "Thomas Remark",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.10.1959"
+    },
+    {
+        "nombre": "Loïc Rémy",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.01.1987"
+    },
+    {
+        "nombre": "Anthony Réveillère",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.11.1979"
+    },
+    {
+        "nombre": "Daniel Revillard",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.05.1945"
+    },
+    {
+        "nombre": "Frédéric Ribeiro",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.08.1979"
+    },
+    {
+        "nombre": "Rémy Riou",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.08.1987"
+    },
+    {
+        "nombre": "Claude-Arnaud Rivenet",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.12.1972"
+    },
+    {
+        "nombre": "Jean-Louis Rivoire",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.02.1943"
+    },
+    {
+        "nombre": "Claude Robin",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.12.1960"
+    },
+    {
+        "nombre": "Stéphane Roche",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.09.1970"
+    },
+    {
+        "nombre": "Lindsay Rose",
+        "pais": "Mauricio",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.02.1992"
+    },
+    {
+        "nombre": "Gilles Rousset",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.08.1963"
+    },
+    {
+        "nombre": "Olivier Roussey",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.11.1958"
+    },
+    {
+        "nombre": "Frédéric Roux",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.06.1973"
+    },
+    {
+        "nombre": "Olivier Rouyer",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.12.1955"
+    },
+    {
+        "nombre": "Éric Roy",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.09.1967"
+    },
+    {
+        "nombre": "Didier Russail",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.05.1956"
+    },
+    {
+        "nombre": "Maciej Rybus",
+        "pais": "Polonia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.08.1989"
+    },
+    {
+        "nombre": "Pombolo Sadi-Wa",
+        "pais": "Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.08.1962"
+    },
+    {
+        "nombre": "Florent Sanchez",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.04.2003"
+    },
+    {
+        "nombre": "Amin Sarr",
+        "pais": "Suecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.03.2001"
+    },
+    {
+        "nombre": "Mamadou Sarr",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.08.2005"
+    },
+    {
+        "nombre": "Naby Sarr",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.08.1993"
+    },
+    {
+        "nombre": "Romain Sartre",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.11.1982"
+    },
+    {
+        "nombre": "Jean-Luc Sassus",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.10.1962"
+    },
+    {
+        "nombre": "Raymond Schwinn",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.12.1941"
+    },
+    {
+        "nombre": "Nicolas Seguin",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.03.1990"
+    },
+    {
+        "nombre": "M'Saddek Senoussi",
+        "pais": "Túnez",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.09.1977"
+    },
+    {
+        "nombre": "Sergi Darder",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.12.1993"
+    },
+    {
+        "nombre": "Laurent Sevcenko",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.1968"
+    },
+    {
+        "nombre": "Xherdan Shaqiri",
+        "pais": "Suiza",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.10.1991"
+    },
+    {
+        "nombre": "Islam Slimani",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.06.1988"
+    },
+    {
+        "nombre": "Sébastien Socié",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.08.1976"
+    },
+    {
+        "nombre": "Jaime Solas",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.05.1940"
+    },
+    {
+        "nombre": "Oumar Solet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.02.2000"
+    },
+    {
+        "nombre": "Stéphane Solomenko",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.11.1960"
+    },
+    {
+        "nombre": "Sonny Anderson",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.09.1970"
+    },
+    {
+        "nombre": "Yahya Soumaré",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.06.2000"
+    },
+    {
+        "nombre": "Madyan Sounni",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.12.2002"
+    },
+    {
+        "nombre": "Eric Spadiny",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.09.1963"
+    },
+    {
+        "nombre": "Giora Spiegel",
+        "pais": "Israel",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.07.1947"
+    },
+    {
+        "nombre": "Sébastien Squillaci",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.08.1980"
+    },
+    {
+        "nombre": "Jérémie Sutter",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.09.1970"
+    },
+    {
+        "nombre": "Eric Taborda",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.01.1969"
+    },
+    {
+        "nombre": "Yannis Tafer",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.02.1991"
+    },
+    {
+        "nombre": "Nico Tagliafico",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.08.1992"
+    },
+    {
+        "nombre": "Ciprian Tătăruşanu",
+        "pais": "Rumania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "09.02.1986"
+    },
+    {
+        "nombre": "Jean-Pierre Teisseire",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.08.1940"
+    },
+    {
+        "nombre": "Martin Terrier",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.1997"
+    },
+    {
+        "nombre": "Tetê",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.02.2000"
+    },
+    {
+        "nombre": "Kenny Tete",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.10.1995"
+    },
+    {
+        "nombre": "Thiago Mendes",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.03.1992"
+    },
+    {
+        "nombre": "Alain Thiry",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.07.1943"
+    },
+    {
+        "nombre": "Alain Thomas",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.04.1940"
+    },
+    {
+        "nombre": "Titouan Thomas",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.01.2002"
+    },
+    {
+        "nombre": "Tiago",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.05.1981"
+    },
+    {
+        "nombre": "Jean Tigana",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.06.1955"
+    },
+    {
+        "nombre": "Karl Toko Ekambi",
+        "pais": "Camerún",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.09.1992"
+    },
+    {
+        "nombre": "Corentin Tolisso",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.08.1994"
+    },
+    {
+        "nombre": "Slobodan Topalović",
+        "pais": "Serbia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.11.1952"
+    },
+    {
+        "nombre": "Jérémy Toulalan",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.09.1983"
+    },
+    {
+        "nombre": "Demba Touré",
+        "pais": "Senegal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.12.1984"
+    },
+    {
+        "nombre": "Lucas Tousart",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.04.1997"
+    },
+    {
+        "nombre": "Robert Traba",
+        "pais": "Marruecos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.10.1940"
+    },
+    {
+        "nombre": "Bertrand Traoré",
+        "pais": "Burkina Faso",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.09.1995"
+    },
+    {
+        "nombre": "Dobrivoje Trivić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.10.1943"
+    },
+    {
+        "nombre": "Johann Truchet",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.08.1983"
+    },
+    {
+        "nombre": "Kevin Tsimba",
+        "pais": "Suiza",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.02.1994"
+    },
+    {
+        "nombre": "Samuel Umtiti",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.11.1993"
+    },
+    {
+        "nombre": "Cédric Uras",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.11.1977"
+    },
+    {
+        "nombre": "Tony Vairelles",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.04.1973"
+    },
+    {
+        "nombre": "Jean-Marc Valadier",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.10.1957"
+    },
+    {
+        "nombre": "Mathieu Valbuena",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.09.1984"
+    },
+    {
+        "nombre": "Pierrick Valdivia",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.04.1988"
+    },
+    {
+        "nombre": "Robert Valette",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.11.1948"
+    },
+    {
+        "nombre": "Michel Valke",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.08.1959"
+    },
+    {
+        "nombre": "Mathieu Valverde",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.05.1983"
+    },
+    {
+        "nombre": "Philippe Vargoz",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.11.1962"
+    },
+    {
+        "nombre": "Rémy Vercoutre",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.06.1980"
+    },
+    {
+        "nombre": "Alexandre Viala",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "1940"
+    },
+    {
+        "nombre": "Julien Viale",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.02.1982"
+    },
+    {
+        "nombre": "Roland Vieira",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.08.1979"
+    },
+    {
+        "nombre": "Philippe Violeau",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.09.1970"
+    },
+    {
+        "nombre": "Hugo Vogel",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.01.2004"
+    },
+    {
+        "nombre": "Sylvain Wiltord",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.05.1974"
+    },
+    {
+        "nombre": "Daniel Xuereb",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.05.1959"
+    },
+    {
+        "nombre": "Jean-Claude Yacoubian",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.01.1947"
+    },
+    {
+        "nombre": "Mapou Yanga-Mbiwa",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.05.1989"
+    },
+    {
+        "nombre": "Mohamed Yattara",
+        "pais": "Guinea",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.07.1993"
+    },
+    {
+        "nombre": "Amos Youga",
+        "pais": "República Centroafricana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.12.1992"
+    },
+    {
+        "nombre": "Frédéric Zago",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.08.1963"
+    },
+    {
+        "nombre": "Henri Zambelli",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.02.1957"
+    },
+    {
+        "nombre": "Mehdi Zeffane",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.05.1992"
+    },
+    {
+        "nombre": "Michel Zewulko",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.01.1945"
+    },
+    {
+        "nombre": "Xiuwei Zhang",
+        "pais": "China",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.03.1996"
+    },
+    {
+        "nombre": "Miodrag Živaljević",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.09.1951"
+    },
+    {
+        "nombre": "Jean Zuang",
+        "pais": "Luxemburgo",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.09.1952"
+    }
+]
