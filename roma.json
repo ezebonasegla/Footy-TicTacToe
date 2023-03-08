@@ -1,0 +1,3782 @@
+[
+    {
+        "nombre": "Abel Xavier",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.11.1972"
+    },
+    {
+        "nombre": "Tammy Abraham",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.10.1997"
+    },
+    {
+        "nombre": "Matteo Adamo",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.07.1996"
+    },
+    {
+        "nombre": "Adriano",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.02.1982"
+    },
+    {
+        "nombre": "Felix Afena-Gyan",
+        "pais": "Ghana",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.01.2003"
+    },
+    {
+        "nombre": "Massimo Agostini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.01.1964"
+    },
+    {
+        "nombre": "Akande Ajide",
+        "pais": "Nigeria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.12.1985"
+    },
+    {
+        "nombre": "Aldair",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.11.1965"
+    },
+    {
+        "nombre": "Dmitriy Alenichev",
+        "pais": "Rusia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.10.1972"
+    },
+    {
+        "nombre": "Alisson",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.10.1992"
+    },
+    {
+        "nombre": "Walter Allievi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1960"
+    },
+    {
+        "nombre": "Edgar Álvarez",
+        "pais": "Honduras",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.01.1980"
+    },
+    {
+        "nombre": "Amarildo",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.07.1940"
+    },
+    {
+        "nombre": "Marco Amelia",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.04.1982"
+    },
+    {
+        "nombre": "Mauro Amenta",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.11.1953"
+    },
+    {
+        "nombre": "Carlo Ancelotti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.06.1959"
+    },
+    {
+        "nombre": "Andrade",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.04.1957"
+    },
+    {
+        "nombre": "Marco Andreolli",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.06.1986"
+    },
+    {
+        "nombre": "Enrico Annoni",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.07.1966"
+    },
+    {
+        "nombre": "Silvio Anočić",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.09.1997"
+    },
+    {
+        "nombre": "Luca Antei",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.04.1992"
+    },
+    {
+        "nombre": "Roberto Antonelli",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.05.1953"
+    },
+    {
+        "nombre": "Antônio Carlos Zago",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.05.1969"
+    },
+    {
+        "nombre": "Francesco Antonioli",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.09.1969"
+    },
+    {
+        "nombre": "Mirko Antonucci",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.03.1999"
+    },
+    {
+        "nombre": "Antunes",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.04.1987"
+    },
+    {
+        "nombre": "Alberto Aquilani",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.07.1984"
+    },
+    {
+        "nombre": "Edoardo Artistico",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.06.1969"
+    },
+    {
+        "nombre": "Artur Moraes",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.01.1981"
+    },
+    {
+        "nombre": "Davide Astori",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.01.1987"
+    },
+    {
+        "nombre": "Guglielmo Bacci",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.04.1955"
+    },
+    {
+        "nombre": "Mihai Bălașa",
+        "pais": "Rumania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.01.1995"
+    },
+    {
+        "nombre": "Abel Balbo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.06.1966"
+    },
+    {
+        "nombre": "Paolo Baldieri",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.02.1965"
+    },
+    {
+        "nombre": "Federico Balzaretti",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.12.1981"
+    },
+    {
+        "nombre": "Mory Bamba",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.06.2002"
+    },
+    {
+        "nombre": "Ivo Banella",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.09.1953"
+    },
+    {
+        "nombre": "Marco Baroni",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.09.1963"
+    },
+    {
+        "nombre": "Gustavo Bartelt",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.09.1974"
+    },
+    {
+        "nombre": "Ahmed Barusso",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.12.1984"
+    },
+    {
+        "nombre": "Alberto Batistoni",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.12.1945"
+    },
+    {
+        "nombre": "Gabriel Batistuta",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.02.1969"
+    },
+    {
+        "nombre": "Simone Battaglia",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.03.1995"
+    },
+    {
+        "nombre": "Andrea Belotti",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.12.1993"
+    },
+    {
+        "nombre": "Medhi Benatia",
+        "pais": "Marruecos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.04.1987"
+    },
+    {
+        "nombre": "Silvano Benedetti",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.10.1965"
+    },
+    {
+        "nombre": "Romeo Benetti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.10.1945"
+    },
+    {
+        "nombre": "Klaus Berggreen",
+        "pais": "Dinamarca",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1958"
+    },
+    {
+        "nombre": "Valmir Berisha",
+        "pais": "Suecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.06.1996"
+    },
+    {
+        "nombre": "Antonino Bernardini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.06.1974"
+    },
+    {
+        "nombre": "Daniele Berretta",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.03.1972"
+    },
+    {
+        "nombre": "Thomas Berthold",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.11.1964"
+    },
+    {
+        "nombre": "Filippo Berti",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.01.2003"
+    },
+    {
+        "nombre": "Gianluca Berti",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.05.1967"
+    },
+    {
+        "nombre": "Giovanni Bertini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.01.1951"
+    },
+    {
+        "nombre": "Lucio Bertogna",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.02.1946"
+    },
+    {
+        "nombre": "Andrea Bertolacci",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.01.1991"
+    },
+    {
+        "nombre": "Aldo Bet",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.03.1949"
+    },
+    {
+        "nombre": "William Bianda",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.04.2000"
+    },
+    {
+        "nombre": "Luca Birigozzi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.04.1960"
+    },
+    {
+        "nombre": "Manuele Blasi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.08.1980"
+    },
+    {
+        "nombre": "Pietro Boer",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.05.2002"
+    },
+    {
+        "nombre": "Bojan",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.08.1990"
+    },
+    {
+        "nombre": "Deian Boldor",
+        "pais": "Rumania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.02.1995"
+    },
+    {
+        "nombre": "Davide Bombardini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.06.1974"
+    },
+    {
+        "nombre": "Valter Bonacina",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.07.1964"
+    },
+    {
+        "nombre": "Dario Bonetti",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.08.1961"
+    },
+    {
+        "nombre": "Loris Boni",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1953"
+    },
+    {
+        "nombre": "Zbigniew Boniek",
+        "pais": "Polonia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.03.1956"
+    },
+    {
+        "nombre": "Daniele Bordacconi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.04.1978"
+    },
+    {
+        "nombre": "Alessandro Bordin",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.08.1998"
+    },
+    {
+        "nombre": "Paolo Borelli",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.02.1958"
+    },
+    {
+        "nombre": "Fabio Borini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.03.1991"
+    },
+    {
+        "nombre": "Borja Mayoral",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.04.1997"
+    },
+    {
+        "nombre": "Marco Borriello",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.06.1982"
+    },
+    {
+        "nombre": "Andrea Borsa",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.01.1971"
+    },
+    {
+        "nombre": "Denis Boshnjaku",
+        "pais": "Albania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.02.1984"
+    },
+    {
+        "nombre": "Devid Eugene Bouah",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.08.2001"
+    },
+    {
+        "nombre": "Edoardo Bove",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.05.2002"
+    },
+    {
+        "nombre": "Cesare Bovo",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.01.1983"
+    },
+    {
+        "nombre": "Michael Bradley",
+        "pais": "Estados Unidos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.07.1987"
+    },
+    {
+        "nombre": "Giorgio Braglia",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.02.1947"
+    },
+    {
+        "nombre": "Marco Branca",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.01.1965"
+    },
+    {
+        "nombre": "Matteo Brighi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.02.1981"
+    },
+    {
+        "nombre": "Andrea Briotti",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.02.1986"
+    },
+    {
+        "nombre": "Bruno Peres",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.03.1990"
+    },
+    {
+        "nombre": "Guillermo Burdisso",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.09.1988"
+    },
+    {
+        "nombre": "Nicolás Burdisso",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.04.1981"
+    },
+    {
+        "nombre": "Ruben Buriani",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.03.1955"
+    },
+    {
+        "nombre": "Cafú",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.06.1970"
+    },
+    {
+        "nombre": "Arturo Calabresi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1996"
+    },
+    {
+        "nombre": "Riccardo Calafiori",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.05.2002"
+    },
+    {
+        "nombre": "Mady Camara",
+        "pais": "Guinea",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.02.1997"
+    },
+    {
+        "nombre": "Giorgio Campagna",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.02.1951"
+    },
+    {
+        "nombre": "Andrea Campagnolo",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.06.1978"
+    },
+    {
+        "nombre": "Vincent Candela",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.10.1973"
+    },
+    {
+        "nombre": "Ezio Candido",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.03.1949"
+    },
+    {
+        "nombre": "Gianmarco Cangiano",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.11.2001"
+    },
+    {
+        "nombre": "Claudio Caniggia",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.01.1967"
+    },
+    {
+        "nombre": "Fabio Capello",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.06.1946"
+    },
+    {
+        "nombre": "Leonardo Capezzuoli",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.05.1963"
+    },
+    {
+        "nombre": "Francesco Cappelli",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.09.1943"
+    },
+    {
+        "nombre": "Renato Cappellini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.10.1943"
+    },
+    {
+        "nombre": "Massimiliano Cappioli",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.01.1968"
+    },
+    {
+        "nombre": "Elio Capradossi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.03.1996"
+    },
+    {
+        "nombre": "Gianluca Caprari",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.07.1993"
+    },
+    {
+        "nombre": "Amedeo Carboni",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.04.1965"
+    },
+    {
+        "nombre": "Matteo Cardinali",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.06.2001"
+    },
+    {
+        "nombre": "John Carew",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.09.1979"
+    },
+    {
+        "nombre": "Riccardo Cargnelutti",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.02.1999"
+    },
+    {
+        "nombre": "Carles Pérez",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.02.1998"
+    },
+    {
+        "nombre": "Giancarlo Carloni",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.06.1947"
+    },
+    {
+        "nombre": "Andrea Carnevale",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.1961"
+    },
+    {
+        "nombre": "Francesco Carpenetti",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.10.1942"
+    },
+    {
+        "nombre": "Walter Casaroli",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.04.1957"
+    },
+    {
+        "nombre": "Antonio Cassano",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.07.1982"
+    },
+    {
+        "nombre": "Claudio Cassano",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.07.2003"
+    },
+    {
+        "nombre": "Marco Cassetti",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.05.1977"
+    },
+    {
+        "nombre": "Paolo Castellini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.03.1979"
+    },
+    {
+        "nombre": "Claudio Cavalieri",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.08.1954"
+    },
+    {
+        "nombre": "Gianni Cavezzi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.08.1969"
+    },
+    {
+        "nombre": "Sebastián Cejas",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.04.1975"
+    },
+    {
+        "nombre": "Žan Celar",
+        "pais": "Eslovenia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.03.1999"
+    },
+    {
+        "nombre": "Zeki Çelik",
+        "pais": "Turquía",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.02.1997"
+    },
+    {
+        "nombre": "Alessio Cerci",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.07.1987"
+    },
+    {
+        "nombre": "Giovanni Cervone",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.11.1962"
+    },
+    {
+        "nombre": "César Gómez",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.10.1967"
+    },
+    {
+        "nombre": "Mert Çetin",
+        "pais": "Turquía",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.01.1997"
+    },
+    {
+        "nombre": "Gianluca Cherubini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.02.1974"
+    },
+    {
+        "nombre": "Luigi Cherubini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.01.2004"
+    },
+    {
+        "nombre": "Odoacre Chierico",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.03.1959"
+    },
+    {
+        "nombre": "Antonio Chimenti",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.06.1970"
+    },
+    {
+        "nombre": "Giacomo Chinellato",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.06.1955"
+    },
+    {
+        "nombre": "Michele Chirico",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.08.1940"
+    },
+    {
+        "nombre": "Cristian Chivu",
+        "pais": "Rumania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.10.1980"
+    },
+    {
+        "nombre": "José Cholevas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.06.1984"
+    },
+    {
+        "nombre": "Lampros Choutos",
+        "pais": "Grecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.12.1979"
+    },
+    {
+        "nombre": "Luigi Ciarlantini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1960"
+    },
+    {
+        "nombre": "Stefano Ciavattini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1998"
+    },
+    {
+        "nombre": "Cicinho",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.06.1980"
+    },
+    {
+        "nombre": "Riccardo Ciervo",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.04.2002"
+    },
+    {
+        "nombre": "Armando Colafrancesco",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.10.1951"
+    },
+    {
+        "nombre": "Giordano Colausig",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.12.1940"
+    },
+    {
+        "nombre": "Ashley Cole",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.12.1980"
+    },
+    {
+        "nombre": "Fulvio Collovati",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.05.1957"
+    },
+    {
+        "nombre": "Francesco Colonnese",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.08.1971"
+    },
+    {
+        "nombre": "Giuseppe Colucci",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.08.1980"
+    },
+    {
+        "nombre": "Keba Coly",
+        "pais": "Senegal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.02.1998"
+    },
+    {
+        "nombre": "Antonio Comi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.07.1964"
+    },
+    {
+        "nombre": "Bruno Conti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.03.1955"
+    },
+    {
+        "nombre": "Daniele Conti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.01.1979"
+    },
+    {
+        "nombre": "Paolo Conti",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.04.1950"
+    },
+    {
+        "nombre": "Franco Cordova",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.06.1944"
+    },
+    {
+        "nombre": "Ante Ćorić",
+        "pais": "Croacia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.04.1997"
+    },
+    {
+        "nombre": "Rezan Çorlu",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.08.1997"
+    },
+    {
+        "nombre": "Daniele Corvia",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.11.1984"
+    },
+    {
+        "nombre": "Cote",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.09.1989"
+    },
+    {
+        "nombre": "Alessandro Crescenzi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.09.1991"
+    },
+    {
+        "nombre": "Lorenzo Crisanto",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.04.1998"
+    },
+    {
+        "nombre": "Antonino Criscimanni",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.11.1957"
+    },
+    {
+        "nombre": "Bryan Cristante",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.03.1995"
+    },
+    {
+        "nombre": "Alessandro Cucciari",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.09.1969"
+    },
+    {
+        "nombre": "Leandro Cufré",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.05.1978"
+    },
+    {
+        "nombre": "Andrea Cupi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.01.1976"
+    },
+    {
+        "nombre": "Gianluca Curci",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.07.1985"
+    },
+    {
+        "nombre": "Emanuele Curcio",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.05.1953"
+    },
+    {
+        "nombre": "Gaetano D'Agostino",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.06.1982"
+    },
+    {
+        "nombre": "Marco D'Alessandro",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.02.1991"
+    },
+    {
+        "nombre": "Vito D'Amato",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.07.1944"
+    },
+    {
+        "nombre": "Ludovico D'Orazio",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.02.2000"
+    },
+    {
+        "nombre": "Christian D'Urso",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.07.1997"
+    },
+    {
+        "nombre": "Olivier Dacourt",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.09.1974"
+    },
+    {
+        "nombre": "Martin Dahlin",
+        "pais": "Suecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.04.1968"
+    },
+    {
+        "nombre": "Filippo Dal Moro",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.08.1970"
+    },
+    {
+        "nombre": "Daniel Fuzato",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.07.1997"
+    },
+    {
+        "nombre": "Ebrima Darboe",
+        "pais": "Gambia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.06.2001"
+    },
+    {
+        "nombre": "Marco De Marchi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.09.1966"
+    },
+    {
+        "nombre": "Simone De Marco",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1994"
+    },
+    {
+        "nombre": "Raffaele De Martino",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.04.1986"
+    },
+    {
+        "nombre": "Giovanni De Min",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.05.1940"
+    },
+    {
+        "nombre": "Michele De Nadai",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.09.1954"
+    },
+    {
+        "nombre": "Daniele De Rossi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.07.1983"
+    },
+    {
+        "nombre": "Morgan De Sanctis",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.03.1977"
+    },
+    {
+        "nombre": "Eros De Santis",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.10.1997"
+    },
+    {
+        "nombre": "Giancarlo De Sisti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.03.1943"
+    },
+    {
+        "nombre": "Daniele de Vezze",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.01.1980"
+    },
+    {
+        "nombre": "Grégoire Defrel",
+        "pais": "Martinica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.06.1991"
+    },
+    {
+        "nombre": "Claudio Della Penna",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.05.1989"
+    },
+    {
+        "nombre": "Traianos Dellas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.01.1976"
+    },
+    {
+        "nombre": "Marco Delvecchio",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.04.1973"
+    },
+    {
+        "nombre": "Stefano Desideri",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.07.1965"
+    },
+    {
+        "nombre": "Mattia Destro",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.03.1991"
+    },
+    {
+        "nombre": "Agostino di Bartolomei",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.04.1955"
+    },
+    {
+        "nombre": "Luigi Di Biagio",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.06.1971"
+    },
+    {
+        "nombre": "Antonio Di Carlo",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.06.1962"
+    },
+    {
+        "nombre": "Alberto Di Chiara",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.03.1964"
+    },
+    {
+        "nombre": "Eusebio Di Francesco",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.09.1969"
+    },
+    {
+        "nombre": "Angelo Di Livio",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.07.1966"
+    },
+    {
+        "nombre": "Lorenzo Di Livio",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.01.1997"
+    },
+    {
+        "nombre": "Giampaolo Di Magno",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.04.1974"
+    },
+    {
+        "nombre": "Francesco Di Mariano",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.04.1996"
+    },
+    {
+        "nombre": "Giuseppe Di Masi",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.07.1981"
+    },
+    {
+        "nombre": "Fabrizio Di Mauro",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.06.1965"
+    },
+    {
+        "nombre": "Souleymane Diamoutèné",
+        "pais": "Malí",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.01.1983"
+    },
+    {
+        "nombre": "Amadou Diawara",
+        "pais": "Guinea",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.07.1997"
+    },
+    {
+        "nombre": "Lucas Digne",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.07.1993"
+    },
+    {
+        "nombre": "Dodô",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.02.1992"
+    },
+    {
+        "nombre": "Edoardo Domanico",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.05.1981"
+    },
+    {
+        "nombre": "Angelo Domenghini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.08.1941"
+    },
+    {
+        "nombre": "Sergio Domini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.03.1961"
+    },
+    {
+        "nombre": "Doni",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.10.1979"
+    },
+    {
+        "nombre": "Franco Dori",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.06.1943"
+    },
+    {
+        "nombre": "Seydou Doumbia",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.12.1987"
+    },
+    {
+        "nombre": "Paulo Dybala",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.11.1993"
+    },
+    {
+        "nombre": "Edin Džeko",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.03.1986"
+    },
+    {
+        "nombre": "Ednilson",
+        "pais": "Guinea-Bissau",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.09.1982"
+    },
+    {
+        "nombre": "Stephan El Shaarawy",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.10.1992"
+    },
+    {
+        "nombre": "Dimitrios Eleftheropoulos",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.08.1976"
+    },
+    {
+        "nombre": "Urby Emanuelson",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.06.1986"
+    },
+    {
+        "nombre": "Emerson",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.08.1994"
+    },
+    {
+        "nombre": "Emerson",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.04.1976"
+    },
+    {
+        "nombre": "Fabio Enzo",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.06.1946"
+    },
+    {
+        "nombre": "Mauro Esposito",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.06.1979"
+    },
+    {
+        "nombre": "Fábio Júnior",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.11.1977"
+    },
+    {
+        "nombre": "Fábio Simplício",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.09.1979"
+    },
+    {
+        "nombre": "Paolo Faccini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.01.1961"
+    },
+    {
+        "nombre": "Falcão",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.10.1953"
+    },
+    {
+        "nombre": "Giorgio Fanti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.04.1945"
+    },
+    {
+        "nombre": "Simone Farelli",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.02.1983"
+    },
+    {
+        "nombre": "Giacomo Faticanti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.07.2004"
+    },
+    {
+        "nombre": "Ricardo Faty",
+        "pais": "Senegal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.08.1986"
+    },
+    {
+        "nombre": "Federico Fazio",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1987"
+    },
+    {
+        "nombre": "Felipe Estrella",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.2001"
+    },
+    {
+        "nombre": "Amir Feratovič",
+        "pais": "Eslovenia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.06.2002"
+    },
+    {
+        "nombre": "Alexis Ferrante",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.06.1995"
+    },
+    {
+        "nombre": "Matteo Ferrari",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.12.1979"
+    },
+    {
+        "nombre": "Sergio Ferrari",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.09.1943"
+    },
+    {
+        "nombre": "Moreno Ferrario",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.03.1959"
+    },
+    {
+        "nombre": "Luca Ferri",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.03.1980"
+    },
+    {
+        "nombre": "Damiano Ferronetti",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.11.1984"
+    },
+    {
+        "nombre": "Gianluca Festa",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.03.1969"
+    },
+    {
+        "nombre": "Filipe",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.05.1987"
+    },
+    {
+        "nombre": "Patrizio Fimiani",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.01.1973"
+    },
+    {
+        "nombre": "Alessandro Florenzi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.03.1991"
+    },
+    {
+        "nombre": "Franco Florio",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.04.1976"
+    },
+    {
+        "nombre": "Daniel Fonseca",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.09.1969"
+    },
+    {
+        "nombre": "Fulvio Francesconi",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.11.1944"
+    },
+    {
+        "nombre": "Filippo Franchi",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.01.1998"
+    },
+    {
+        "nombre": "Francisco De Mecenas",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.01.1946"
+    },
+    {
+        "nombre": "Walter Franzot",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.11.1949"
+    },
+    {
+        "nombre": "Paolo Frascatore",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.01.1992"
+    },
+    {
+        "nombre": "Davide Frattesi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.09.1999"
+    },
+    {
+        "nombre": "Alessandro Frau",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.04.1977"
+    },
+    {
+        "nombre": "Gianluca Freddi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.03.1987"
+    },
+    {
+        "nombre": "Marco Frediani",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.03.1994"
+    },
+    {
+        "nombre": "Diego Fuser",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.11.1968"
+    },
+    {
+        "nombre": "Fernando Gago",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.04.1986"
+    },
+    {
+        "nombre": "Gianluca Galasso",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.01.1984"
+    },
+    {
+        "nombre": "Daniele Galloppa",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.05.1985"
+    },
+    {
+        "nombre": "Luigi Garzya",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.07.1969"
+    },
+    {
+        "nombre": "Carmine Gautieri",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.07.1970"
+    },
+    {
+        "nombre": "Augusto Gentilini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.07.1961"
+    },
+    {
+        "nombre": "Manuel Gerolin",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1961"
+    },
+    {
+        "nombre": "Gerson",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.05.1997"
+    },
+    {
+        "nombre": "Gervinho",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.05.1987"
+    },
+    {
+        "nombre": "Domenico Giacomarro",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.01.1963"
+    },
+    {
+        "nombre": "Andrea Giacomini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.04.1987"
+    },
+    {
+        "nombre": "Giuseppe Giannini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.08.1964"
+    },
+    {
+        "nombre": "Alberto Ginulfi",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.11.1941"
+    },
+    {
+        "nombre": "Paolo Giovannelli",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.10.1960"
+    },
+    {
+        "nombre": "Luciano Giudo",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.1949"
+    },
+    {
+        "nombre": "Ludovic Giuly",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.07.1976"
+    },
+    {
+        "nombre": "Mauro Goicoechea",
+        "pais": "Uruguay",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.03.1988"
+    },
+    {
+        "nombre": "Petar Golubović",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.07.1994"
+    },
+    {
+        "nombre": "Maxime Gonalons",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.03.1989"
+    },
+    {
+        "nombre": "Gonzalo Villar",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.03.1998"
+    },
+    {
+        "nombre": "Francesco Graziani",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.12.1952"
+    },
+    {
+        "nombre": "Leandro Greco",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.07.1986"
+    },
+    {
+        "nombre": "Stefano Greco",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.02.1999"
+    },
+    {
+        "nombre": "Attilio Gregori",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.10.1965"
+    },
+    {
+        "nombre": "Clément Grenier",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.01.1991"
+    },
+    {
+        "nombre": "Gabriele Grossi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.02.1972"
+    },
+    {
+        "nombre": "Lorenzo Grossi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.1998"
+    },
+    {
+        "nombre": "Stefano Guberti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.11.1984"
+    },
+    {
+        "nombre": "Gianni Guigou",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.02.1975"
+    },
+    {
+        "nombre": "Nesat Gülünoglu",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.01.1979"
+    },
+    {
+        "nombre": "Sergei Gurenko",
+        "pais": "Bielorrusia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.09.1972"
+    },
+    {
+        "nombre": "Norbert Gyömbér",
+        "pais": "Eslovaquia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.07.1992"
+    },
+    {
+        "nombre": "Ismail H'Maidat",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.06.1995"
+    },
+    {
+        "nombre": "Thomas Häßler",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.05.1966"
+    },
+    {
+        "nombre": "Gabriel Heinze",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.04.1978"
+    },
+    {
+        "nombre": "Iago Falqué",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.01.1990"
+    },
+    {
+        "nombre": "Ibañez",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.11.1998"
+    },
+    {
+        "nombre": "Víctor Ibarbo",
+        "pais": "Colombia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.05.1990"
+    },
+    {
+        "nombre": "Stefano Impallomeni",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.10.1967"
+    },
+    {
+        "nombre": "Giampiero Imperi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.06.1944"
+    },
+    {
+        "nombre": "Maurizio Iorio",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.06.1959"
+    },
+    {
+        "nombre": "Juan Iturbe",
+        "pais": "Paraguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.06.1993"
+    },
+    {
+        "nombre": "Iván Helguera",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.03.1975"
+    },
+    {
+        "nombre": "Jair da Costa",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.07.1940"
+    },
+    {
+        "nombre": "Jan Oliveras",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.07.2004"
+    },
+    {
+        "nombre": "Tin Jedvaj",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.11.1995"
+    },
+    {
+        "nombre": "Jonatan Lucca",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.06.1994"
+    },
+    {
+        "nombre": "Juan",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.02.1979"
+    },
+    {
+        "nombre": "Juan Jesus",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.06.1991"
+    },
+    {
+        "nombre": "Júlio Baptista",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.10.1981"
+    },
+    {
+        "nombre": "Júlio Sérgio",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.11.1978"
+    },
+    {
+        "nombre": "Nikola Kalinić",
+        "pais": "Croacia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.01.1988"
+    },
+    {
+        "nombre": "Rick Karsdorp",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.02.1995"
+    },
+    {
+        "nombre": "Seydou Keita",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.01.1980"
+    },
+    {
+        "nombre": "Dimitrios Keramitsis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.07.2004"
+    },
+    {
+        "nombre": "Houssine Kharja",
+        "pais": "Marruecos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.11.1982"
+    },
+    {
+        "nombre": "Simon Kjær",
+        "pais": "Dinamarca",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.03.1989"
+    },
+    {
+        "nombre": "Justin Kluivert",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.05.1999"
+    },
+    {
+        "nombre": "Jean Koffi",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.06.1986"
+    },
+    {
+        "nombre": "Aleksandar Kolarov",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.11.1985"
+    },
+    {
+        "nombre": "Michael Konsel",
+        "pais": "Austria",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.03.1962"
+    },
+    {
+        "nombre": "Samuel Kuffour",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1976"
+    },
+    {
+        "nombre": "Marash Kumbulla",
+        "pais": "Albania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.02.2000"
+    },
+    {
+        "nombre": "Giacomo La Rosa",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.08.1946"
+    },
+    {
+        "nombre": "Érik Lamela",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.03.1992"
+    },
+    {
+        "nombre": "Fausto Landini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.07.1951"
+    },
+    {
+        "nombre": "Marco Lanna",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.07.1968"
+    },
+    {
+        "nombre": "Maurizio Lanzaro",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.03.1983"
+    },
+    {
+        "nombre": "Walter Lapini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.04.1974"
+    },
+    {
+        "nombre": "Saliou Lassissi",
+        "pais": "Costa de Marfil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.08.1978"
+    },
+    {
+        "nombre": "Leandro Castán",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.11.1986"
+    },
+    {
+        "nombre": "Liborio Liguori",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.02.1950"
+    },
+    {
+        "nombre": "Francisco Lima",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.04.1971"
+    },
+    {
+        "nombre": "Adem Ljajić",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.09.1991"
+    },
+    {
+        "nombre": "Llorente",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.08.1993"
+    },
+    {
+        "nombre": "Bogdan Lobonţ",
+        "pais": "Rumania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.01.1978"
+    },
+    {
+        "nombre": "Nicolás López",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.10.1993"
+    },
+    {
+        "nombre": "Simone Loria",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.10.1976"
+    },
+    {
+        "nombre": "Fabrizio Lorieri",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.02.1964"
+    },
+    {
+        "nombre": "Settimio Lucci",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.09.1965"
+    },
+    {
+        "nombre": "Giorgio Lucenti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.09.1975"
+    },
+    {
+        "nombre": "Cristiano Lupatelli",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.06.1978"
+    },
+    {
+        "nombre": "Domenico Maggiora",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1955"
+    },
+    {
+        "nombre": "Maicon",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.07.1981"
+    },
+    {
+        "nombre": "Giampiero Maini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.09.1971"
+    },
+    {
+        "nombre": "Ainsley Maitland-Niles",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.08.1997"
+    },
+    {
+        "nombre": "Jordan Majchrzak",
+        "pais": "Polonia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.10.2004"
+    },
+    {
+        "nombre": "Aldo Maldera",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.10.1953"
+    },
+    {
+        "nombre": "Astutillo Malgioglio",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.05.1958"
+    },
+    {
+        "nombre": "Mancini",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.08.1980"
+    },
+    {
+        "nombre": "Gianluca Mancini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.04.1996"
+    },
+    {
+        "nombre": "Lionello Manfredonia",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.11.1956"
+    },
+    {
+        "nombre": "Amedeo Mangone",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.07.1968"
+    },
+    {
+        "nombre": "Kostas Manolas",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.06.1991"
+    },
+    {
+        "nombre": "Luciano Marangon",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.10.1956"
+    },
+    {
+        "nombre": "Massimo Marazzina",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.07.1974"
+    },
+    {
+        "nombre": "Marcano",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.06.1987"
+    },
+    {
+        "nombre": "Gabriele Marchegiani",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.06.1996"
+    },
+    {
+        "nombre": "Riccardo Marchizza",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.03.1998"
+    },
+    {
+        "nombre": "Marcos Assunção",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.07.1976"
+    },
+    {
+        "nombre": "Andrea Marcucci",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.02.1999"
+    },
+    {
+        "nombre": "Vlăduț Marin",
+        "pais": "Rumania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.05.1995"
+    },
+    {
+        "nombre": "Mário Rui",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.05.1991"
+    },
+    {
+        "nombre": "Marquinho",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.07.1986"
+    },
+    {
+        "nombre": "Marquinhos",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.05.1994"
+    },
+    {
+        "nombre": "Stefano Marra",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.11.1968"
+    },
+    {
+        "nombre": "Massimiliano Marsili",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.07.1987"
+    },
+    {
+        "nombre": "Daniele Martinetti",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.06.1981"
+    },
+    {
+        "nombre": "Gilberto Martínez",
+        "pais": "Costa Rica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.10.1979"
+    },
+    {
+        "nombre": "Daniele Massaro",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.05.1961"
+    },
+    {
+        "nombre": "Fabio Massimi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.01.1958"
+    },
+    {
+        "nombre": "Emiliano Massimo",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.10.1989"
+    },
+    {
+        "nombre": "Paolo Mastrantoni",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.07.1967"
+    },
+    {
+        "nombre": "Davide Mastrantonio",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.01.2004"
+    },
+    {
+        "nombre": "Nemanja Matić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.08.1988"
+    },
+    {
+        "nombre": "Luca Mazzitelli",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.11.1995"
+    },
+    {
+        "nombre": "Sandro Mazzoni",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1974"
+    },
+    {
+        "nombre": "Kevin Méndez",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.01.1996"
+    },
+    {
+        "nombre": "Jérémy Ménez",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.05.1987"
+    },
+    {
+        "nombre": "Leonardo Menichini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.12.1953"
+    },
+    {
+        "nombre": "Massimo Meola",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.12.1953"
+    },
+    {
+        "nombre": "Philippe Mexès",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1982"
+    },
+    {
+        "nombre": "Michel Bastos",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.08.1983"
+    },
+    {
+        "nombre": "Mido",
+        "pais": "Egipto",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.02.1983"
+    },
+    {
+        "nombre": "Siniša Mihajlović",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.02.1969"
+    },
+    {
+        "nombre": "Tommaso Milanese",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.07.2002"
+    },
+    {
+        "nombre": "Antonio Mirante",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.07.1983"
+    },
+    {
+        "nombre": "Filippo Missori",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.03.2004"
+    },
+    {
+        "nombre": "Henrikh Mkhitaryan",
+        "pais": "Armenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.01.1989"
+    },
+    {
+        "nombre": "Vincenzo Montella",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.06.1974"
+    },
+    {
+        "nombre": "Héctor Moreno",
+        "pais": "México",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.01.1988"
+    },
+    {
+        "nombre": "Raul Morichelli",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.07.2002"
+    },
+    {
+        "nombre": "Francesco Moriero",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.03.1969"
+    },
+    {
+        "nombre": "Giorgio Morini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.10.1947"
+    },
+    {
+        "nombre": "Marco Motta",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.05.1986"
+    },
+    {
+        "nombre": "Lucio Mujesan",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.01.1943"
+    },
+    {
+        "nombre": "Giuliano Musiello",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.1954"
+    },
+    {
+        "nombre": "Roberto Muzzi",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.09.1971"
+    },
+    {
+        "nombre": "Steven N'Zonzi",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.12.1988"
+    },
+    {
+        "nombre": "Radja Nainggolan",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.05.1988"
+    },
+    {
+        "nombre": "Hidetoshi Nakata",
+        "pais": "Japón",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.01.1977"
+    },
+    {
+        "nombre": "Michele Nappi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.08.1951"
+    },
+    {
+        "nombre": "Mauro Nardoni",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.02.1945"
+    },
+    {
+        "nombre": "Maissa Ndiaye",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.01.2002"
+    },
+    {
+        "nombre": "Loïc Négo",
+        "pais": "Hungría",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.01.1991"
+    },
+    {
+        "nombre": "Piergiorgio Negrisolo",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.07.1950"
+    },
+    {
+        "nombre": "Sebastiano Nela",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.03.1961"
+    },
+    {
+        "nombre": "Bruno Nicolè",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.02.1940"
+    },
+    {
+        "nombre": "Bruno Nobili",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.10.1949"
+    },
+    {
+        "nombre": "Shabani Nonda",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.03.1977"
+    },
+    {
+        "nombre": "Abdullahi Nura",
+        "pais": "Nigeria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.08.1997"
+    },
+    {
+        "nombre": "Francis Obeng",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.02.1986"
+    },
+    {
+        "nombre": "Emidio Oddi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.07.1956"
+    },
+    {
+        "nombre": "Stefano Okaka",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.08.1989"
+    },
+    {
+        "nombre": "Gennaro Olivieri",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.02.1942"
+    },
+    {
+        "nombre": "Robin Olsen",
+        "pais": "Suecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.01.1990"
+    },
+    {
+        "nombre": "Angelo Orazi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.09.1951"
+    },
+    {
+        "nombre": "Fernando Orsi",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.09.1959"
+    },
+    {
+        "nombre": "Joseph Oshadogan",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.06.1976"
+    },
+    {
+        "nombre": "Daniel Osvaldo",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.1986"
+    },
+    {
+        "nombre": "Francesco Pagliarini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.05.1994"
+    },
+    {
+        "nombre": "Christian Panucci",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.04.1973"
+    },
+    {
+        "nombre": "Angelo Paolanti",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.02.1959"
+    },
+    {
+        "nombre": "Marco Paoloni",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.02.1984"
+    },
+    {
+        "nombre": "Leandro Paredes",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.06.1994"
+    },
+    {
+        "nombre": "Javier Pastore",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.06.1989"
+    },
+    {
+        "nombre": "Pau López",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.12.1994"
+    },
+    {
+        "nombre": "Paulo Sérgio",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.06.1969"
+    },
+    {
+        "nombre": "Andrea Pazzagli",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.01.1960"
+    },
+    {
+        "nombre": "Franco Peccenini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.08.1953"
+    },
+    {
+        "nombre": "Elio Pecoraro",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.10.1967"
+    },
+    {
+        "nombre": "Pedro",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.07.1987"
+    },
+    {
+        "nombre": "Ambrogio Pelagalli",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.02.1940"
+    },
+    {
+        "nombre": "Ivan Pelizzoli",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.11.1980"
+    },
+    {
+        "nombre": "Lorenzo Pellegrini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.06.1996"
+    },
+    {
+        "nombre": "Luca Pellegrini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.03.1999"
+    },
+    {
+        "nombre": "Stefano Pellegrini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.07.1967"
+    },
+    {
+        "nombre": "Stefano Pellegrini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.08.1953"
+    },
+    {
+        "nombre": "Sergio Pellizzaro",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.03.1945"
+    },
+    {
+        "nombre": "Alexandru Pena",
+        "pais": "Rumania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.01.1990"
+    },
+    {
+        "nombre": "Domenico Penzo",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.10.1953"
+    },
+    {
+        "nombre": "Pep Guardiola",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.01.1971"
+    },
+    {
+        "nombre": "Simone Pepe",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.08.1983"
+    },
+    {
+        "nombre": "Pepín",
+        "pais": "Guinea Ecuatorial",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.08.1996"
+    },
+    {
+        "nombre": "Diego Perotti",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.07.1988"
+    },
+    {
+        "nombre": "Carlo Perrone",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.10.1960"
+    },
+    {
+        "nombre": "Simone Perrotta",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.09.1977"
+    },
+    {
+        "nombre": "Mauro Persiani",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.04.1956"
+    },
+    {
+        "nombre": "Angelo Peruzzi",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.02.1970"
+    },
+    {
+        "nombre": "Paolo Petitti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.11.1966"
+    },
+    {
+        "nombre": "Sergio Petrelli",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.07.1944"
+    },
+    {
+        "nombre": "Simone Petricciuolo",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.05.1995"
+    },
+    {
+        "nombre": "Carlo Petrini",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.03.1948"
+    },
+    {
+        "nombre": "Fabio Petruzzi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.10.1970"
+    },
+    {
+        "nombre": "Stefano Pettinari",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.01.1992"
+    },
+    {
+        "nombre": "Salvatore Pezzella",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.03.2000"
+    },
+    {
+        "nombre": "Gesualdo Piacenti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.07.1954"
+    },
+    {
+        "nombre": "Giovanni Piacentini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.04.1968"
+    },
+    {
+        "nombre": "Mirko Pigliacelli",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.06.1993"
+    },
+    {
+        "nombre": "Pietro Pipolo",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.02.1986"
+    },
+    {
+        "nombre": "Iván Piris",
+        "pais": "Paraguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.03.1989"
+    },
+    {
+        "nombre": "Giammario Piscitella",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.03.1993"
+    },
+    {
+        "nombre": "Adrian Piţ",
+        "pais": "Rumania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.07.1983"
+    },
+    {
+        "nombre": "Matteo Pivotto",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.09.1974"
+    },
+    {
+        "nombre": "David Pizarro",
+        "pais": "Chile",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.09.1979"
+    },
+    {
+        "nombre": "Miralem Pjanić",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.04.1990"
+    },
+    {
+        "nombre": "Suf Podgoreanu",
+        "pais": "Israel",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.01.2002"
+    },
+    {
+        "nombre": "Paolo Poggi",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.02.1971"
+    },
+    {
+        "nombre": "Roberto Policano",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.02.1964"
+    },
+    {
+        "nombre": "Dario Polverini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.04.1987"
+    },
+    {
+        "nombre": "Ezequiel Ponce",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.03.1997"
+    },
+    {
+        "nombre": "Ionuţ Pop",
+        "pais": "Rumania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.08.1997"
+    },
+    {
+        "nombre": "Pierino Prati",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.12.1946"
+    },
+    {
+        "nombre": "Herbert Prohaska",
+        "pais": "Austria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.08.1955"
+    },
+    {
+        "nombre": "Francesco Proietti Gaffi",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.05.1994"
+    },
+    {
+        "nombre": "Ruben Providence",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.07.2001"
+    },
+    {
+        "nombre": "Roberto Pruzzo",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.04.1955"
+    },
+    {
+        "nombre": "Marco Quadrini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.01.1979"
+    },
+    {
+        "nombre": "Francesco Quintini",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.05.1952"
+    },
+    {
+        "nombre": "Nemanja Radonjić",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.02.1996"
+    },
+    {
+        "nombre": "Maurizio Raggi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.05.1960"
+    },
+    {
+        "nombre": "Claudio Ranieri",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.10.1951"
+    },
+    {
+        "nombre": "Renato Gaúcho",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.09.1962"
+    },
+    {
+        "nombre": "Bryan Reynolds",
+        "pais": "Estados Unidos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.06.2001"
+    },
+    {
+        "nombre": "Alessio Riccardi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.04.2001"
+    },
+    {
+        "nombre": "Federico Ricci",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.05.1994"
+    },
+    {
+        "nombre": "Matteo Ricci",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.05.1994"
+    },
+    {
+        "nombre": "Ubaldo Righetti",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.03.1963"
+    },
+    {
+        "nombre": "John Arne Riise",
+        "pais": "Noruega",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.09.1980"
+    },
+    {
+        "nombre": "Alessandro Rinaldi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.11.1974"
+    },
+    {
+        "nombre": "Gastone Rizzato",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.05.1945"
+    },
+    {
+        "nombre": "Ruggiero Rizzitelli",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.09.1967"
+    },
+    {
+        "nombre": "Francesco Rocca",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.08.1954"
+    },
+    {
+        "nombre": "Rodrigo Defendi",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.06.1986"
+    },
+    {
+        "nombre": "Alessio Romagnoli",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.01.1995"
+    },
+    {
+        "nombre": "Andrea Romagnoli",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.07.1998"
+    },
+    {
+        "nombre": "Vincenzo Romano",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.03.1956"
+    },
+    {
+        "nombre": "Fabrizio Romondini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.04.1977"
+    },
+    {
+        "nombre": "Angelino Rosa",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.03.1948"
+    },
+    {
+        "nombre": "Giovanni Rosati",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.06.1952"
+    },
+    {
+        "nombre": "Mattia Rosato",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.02.1994"
+    },
+    {
+        "nombre": "Aleandro Rosi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.05.1987"
+    },
+    {
+        "nombre": "Dario Rossi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.11.1972"
+    },
+    {
+        "nombre": "Antonio Rüdiger",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.03.1993"
+    },
+    {
+        "nombre": "Rui Patrício",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.02.1988"
+    },
+    {
+        "nombre": "Mario Russo",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.01.1948"
+    },
+    {
+        "nombre": "Walter Sabatini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.05.1955"
+    },
+    {
+        "nombre": "Umar Sadiq",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.02.1997"
+    },
+    {
+        "nombre": "Mo Salah",
+        "pais": "Egipto",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.06.1992"
+    },
+    {
+        "nombre": "Fausto Salsano",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.12.1962"
+    },
+    {
+        "nombre": "Elvio Salvori",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.06.1944"
+    },
+    {
+        "nombre": "Massimo Sammartino",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.09.1995"
+    },
+    {
+        "nombre": "Walter Samuel",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.03.1978"
+    },
+    {
+        "nombre": "Antonio Sanabria",
+        "pais": "Paraguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.1996"
+    },
+    {
+        "nombre": "Mauro Sandreani",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.09.1954"
+    },
+    {
+        "nombre": "Sergio Santarini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.09.1947"
+    },
+    {
+        "nombre": "Davide Santon",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.01.1991"
+    },
+    {
+        "nombre": "Luigi Sartor",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.01.1975"
+    },
+    {
+        "nombre": "Marco Savorani",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.03.1965"
+    },
+    {
+        "nombre": "Pietro Sbaccanti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.01.1958"
+    },
+    {
+        "nombre": "Nevio Scala",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.11.1947"
+    },
+    {
+        "nombre": "Cristiano Scapolo",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1970"
+    },
+    {
+        "nombre": "Alessio Scarchilli",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.09.1972"
+    },
+    {
+        "nombre": "Filippo Scardina",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.02.1992"
+    },
+    {
+        "nombre": "Roberto Scarnecchia",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.06.1958"
+    },
+    {
+        "nombre": "Patrik Schick",
+        "pais": "República Checa",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.01.1996"
+    },
+    {
+        "nombre": "Giuseppe Scurto",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.01.1984"
+    },
+    {
+        "nombre": "Zakaria Sdaigui",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.08.2000"
+    },
+    {
+        "nombre": "Moustapha Seck",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.02.1996"
+    },
+    {
+        "nombre": "Franco Selvaggi",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.05.1953"
+    },
+    {
+        "nombre": "Francesco Semeraro",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.05.2001"
+    },
+    {
+        "nombre": "Aldo Sensibile",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.12.1947"
+    },
+    {
+        "nombre": "Sérgio Oliveira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.06.1992"
+    },
+    {
+        "nombre": "Cristian Servidei",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.12.1972"
+    },
+    {
+        "nombre": "Eldor Shomurodov",
+        "pais": "Uzbekistán",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.06.1995"
+    },
+    {
+        "nombre": "Gianluca Signorini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1960"
+    },
+    {
+        "nombre": "Brian Silva",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.06.2003"
+    },
+    {
+        "nombre": "Jonathan Silva",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.06.1994"
+    },
+    {
+        "nombre": "Alessandro Simonetta",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.03.1986"
+    },
+    {
+        "nombre": "Paolo Sirena",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.09.1945"
+    },
+    {
+        "nombre": "Sebastiano Siviglia",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.03.1973"
+    },
+    {
+        "nombre": "Łukasz Skorupski",
+        "pais": "Polonia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.05.1991"
+    },
+    {
+        "nombre": "Chris Smalling",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.11.1989"
+    },
+    {
+        "nombre": "Ola Solbakken",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.09.1998"
+    },
+    {
+        "nombre": "Edoardo Soleri",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.10.1997"
+    },
+    {
+        "nombre": "Michele Somma",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.03.1995"
+    },
+    {
+        "nombre": "Attilio Sorbi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.02.1959"
+    },
+    {
+        "nombre": "Valerio Spadoni",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.04.1950"
+    },
+    {
+        "nombre": "Giannantonio Sperotto",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.11.1950"
+    },
+    {
+        "nombre": "Leonardo Spinazzola",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.03.1993"
+    },
+    {
+        "nombre": "Luciano Spinosi",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.05.1950"
+    },
+    {
+        "nombre": "Emanuele Spinozzi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.07.1998"
+    },
+    {
+        "nombre": "Nicolás Spolli",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.02.1983"
+    },
+    {
+        "nombre": "Francesco Statuto",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.07.1971"
+    },
+    {
+        "nombre": "Maarten Stekelenburg",
+        "pais": "Países Bajos",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.09.1982"
+    },
+    {
+        "nombre": "Giorgio Sterchele",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.01.1970"
+    },
+    {
+        "nombre": "Adrian Stoian",
+        "pais": "Rumania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.02.1991"
+    },
+    {
+        "nombre": "Lorenzo Stovini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.11.1976"
+    },
+    {
+        "nombre": "Kevin Strootman",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.02.1990"
+    },
+    {
+        "nombre": "Michelangelo Sulfaro",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.11.1946"
+    },
+    {
+        "nombre": "Franco Superchi",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.09.1944"
+    },
+    {
+        "nombre": "Tomas Švedkauskas",
+        "pais": "Lituania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.06.1994"
+    },
+    {
+        "nombre": "Mile Svilar",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.08.1999"
+    },
+    {
+        "nombre": "Wojciech Szczęsny",
+        "pais": "Polonia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.04.1990"
+    },
+    {
+        "nombre": "Giuliano Taccola",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.06.1943"
+    },
+    {
+        "nombre": "Panagiotis Tachtsidis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.02.1991"
+    },
+    {
+        "nombre": "Taddei",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.03.1980"
+    },
+    {
+        "nombre": "Benjamin Tahirović",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.03.2003"
+    },
+    {
+        "nombre": "Lamine Tall",
+        "pais": "Senegal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.12.2001"
+    },
+    {
+        "nombre": "Junior Tallo",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.12.1992"
+    },
+    {
+        "nombre": "Giuseppe Tamborini",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.03.1943"
+    },
+    {
+        "nombre": "Franco Tancredi",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.01.1955"
+    },
+    {
+        "nombre": "Filippo Tasso",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.08.1940"
+    },
+    {
+        "nombre": "Francesco Tavano",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.03.1979"
+    },
+    {
+        "nombre": "Antonio Tempestilli",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.10.1959"
+    },
+    {
+        "nombre": "Omari Tetradze",
+        "pais": "Rusia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.10.1969"
+    },
+    {
+        "nombre": "Jonas Thern",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.03.1967"
+    },
+    {
+        "nombre": "Rafael Tolói",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.10.1990"
+    },
+    {
+        "nombre": "Ivan Tomić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.01.1976"
+    },
+    {
+        "nombre": "Damiano Tommasi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.05.1974"
+    },
+    {
+        "nombre": "Max Tonetto",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.11.1974"
+    },
+    {
+        "nombre": "Luca Toni",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.05.1977"
+    },
+    {
+        "nombre": "Toninho Cerezo",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.04.1955"
+    },
+    {
+        "nombre": "Ferro Tontini",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.08.1969"
+    },
+    {
+        "nombre": "Vasilios Torosidis",
+        "pais": "Grecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.06.1985"
+    },
+    {
+        "nombre": "Francesco Totti",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.09.1976"
+    },
+    {
+        "nombre": "Sandro Tovalieri",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.02.1965"
+    },
+    {
+        "nombre": "Simone Tovalieri",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.12.1990"
+    },
+    {
+        "nombre": "Filippo Tripi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.2002"
+    },
+    {
+        "nombre": "Roberto Trotta",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.01.1969"
+    },
+    {
+        "nombre": "Alessandro Tulli",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.04.1982"
+    },
+    {
+        "nombre": "Mark Tullio",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.06.1962"
+    },
+    {
+        "nombre": "Marco Tumminello",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.11.1998"
+    },
+    {
+        "nombre": "Maurizio Turone",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.10.1948"
+    },
+    {
+        "nombre": "Salih Uçan",
+        "pais": "Turquía",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.1994"
+    },
+    {
+        "nombre": "Guido Ugolotti",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.09.1958"
+    },
+    {
+        "nombre": "Daniel Unal",
+        "pais": "Suiza",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.01.1990"
+    },
+    {
+        "nombre": "Cengiz Ünder",
+        "pais": "Turquía",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.07.1997"
+    },
+    {
+        "nombre": "Vágner",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.03.1973"
+    },
+    {
+        "nombre": "William Vainqueur",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.11.1988"
+    },
+    {
+        "nombre": "Lorenzo Valeau",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.03.1999"
+    },
+    {
+        "nombre": "Claudio Valigi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1962"
+    },
+    {
+        "nombre": "Lorenzo Vasco",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.06.1997"
+    },
+    {
+        "nombre": "Daniele Verde",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.06.1996"
+    },
+    {
+        "nombre": "Jordan Veretout",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.03.1993"
+    },
+    {
+        "nombre": "Thomas Vermaelen",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.11.1985"
+    },
+    {
+        "nombre": "Valerio Verre",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.01.1994"
+    },
+    {
+        "nombre": "Tomáš Vestenický",
+        "pais": "Eslovaquia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.04.1996"
+    },
+    {
+        "nombre": "Pietro Vierchowod",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.04.1959"
+    },
+    {
+        "nombre": "Roberto Vieri",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.02.1946"
+    },
+    {
+        "nombre": "Paolo Viganò",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.02.1950"
+    },
+    {
+        "nombre": "Matías Viña",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.11.1997"
+    },
+    {
+        "nombre": "Francesco Vincenzi",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.09.1956"
+    },
+    {
+        "nombre": "Valerio Virga",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.06.1986"
+    },
+    {
+        "nombre": "Federico Viviani",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.03.1992"
+    },
+    {
+        "nombre": "Joel Voelkerling Persson",
+        "pais": "Suecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.01.2003"
+    },
+    {
+        "nombre": "Rudi Völler",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.04.1960"
+    },
+    {
+        "nombre": "Cristian Volpato",
+        "pais": "Australia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.11.2003"
+    },
+    {
+        "nombre": "Mirko Vučinić",
+        "pais": "Montenegro",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.10.1983"
+    },
+    {
+        "nombre": "Adewale Wahab",
+        "pais": "Nigeria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.10.1984"
+    },
+    {
+        "nombre": "Georginio Wijnaldum",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.11.1990"
+    },
+    {
+        "nombre": "Christian Wilhelmsson",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.12.1979"
+    },
+    {
+        "nombre": "Pierre Womé",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.03.1979"
+    },
+    {
+        "nombre": "Mapou Yanga-Mbiwa",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.05.1989"
+    },
+    {
+        "nombre": "Nicola Zalewski",
+        "pais": "Polonia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.01.2002"
+    },
+    {
+        "nombre": "Alessandro Zamperini",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.08.1982"
+    },
+    {
+        "nombre": "Cristiano Zanetti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.04.1977"
+    },
+    {
+        "nombre": "Nicolò Zaniolo",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.07.1999"
+    },
+    {
+        "nombre": "Davide Zappacosta",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.06.1992"
+    },
+    {
+        "nombre": "Jonathan Zebina",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.07.1978"
+    },
+    {
+        "nombre": "Gianfranco Zigoni",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.11.1944"
+    },
+    {
+        "nombre": "Giuseppe Zinetti",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.06.1958"
+    },
+    {
+        "nombre": "Carlo Zotti",
+        "pais": "Italia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.09.1982"
+    },
+    {
+        "nombre": "Ervin Zukanović",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.02.1987"
+    }
+]
