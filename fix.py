@@ -1,8 +1,8 @@
 import json
 
 # Nombre del archivo JSON de entrada y de salida
-input_file = 'elche.json'
-output_file = 'elche.json'
+input_file = 'villarreal.json'
+output_file = 'virrarreal.json'
 
 # Tabla de conversión de caracteres incorrectos a correctos
 conversion_table = {
@@ -66,8 +66,8 @@ conversion_table = {
     'Ä': 'č',
     'Å―': 'Ž',
     'ÃĐ': 'é',
-    'Ã': 'à',
-
+    'Ã': 'É',
+    'Ã ': 'á',
     # Agregar más caracteres incorrectos y sus correcciones aquí si es necesario
 }
 
