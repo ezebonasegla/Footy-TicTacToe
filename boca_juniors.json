@@ -1,0 +1,4010 @@
+[
+    {
+        "nombre": "Roberto Abbondanzieri",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.08.1972"
+    },
+    {
+        "nombre": "Luis Abdeneve",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.03.1962"
+    },
+    {
+        "nombre": "Ramón Ábila",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.10.1989"
+    },
+    {
+        "nombre": "Luis Abramovich",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.03.1962"
+    },
+    {
+        "nombre": "Rúben Acevedo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.04.1960"
+    },
+    {
+        "nombre": "David Achucarro",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.01.1991"
+    },
+    {
+        "nombre": "Alberto Acosta",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.08.1966"
+    },
+    {
+        "nombre": "Fernando Acosta",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.03.1987"
+    },
+    {
+        "nombre": "Joel Acosta",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.01.1991"
+    },
+    {
+        "nombre": "Lautaro Acosta",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.03.1988"
+    },
+    {
+        "nombre": "Luciano Acosta",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.05.1994"
+    },
+    {
+        "nombre": "Roberto Acuña",
+        "pais": "Paraguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.1972"
+    },
+    {
+        "nombre": "Ramón Adorno",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.04.1948"
+    },
+    {
+        "nombre": "Luis Advíncula",
+        "pais": "Perú",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.03.1990"
+    },
+    {
+        "nombre": "Alan Aguirre",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.08.1993"
+    },
+    {
+        "nombre": "Federico Aguirre",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.04.2002"
+    },
+    {
+        "nombre": "Leandro Aguirre",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.02.1989"
+    },
+    {
+        "nombre": "Reynaldo Aimonetti",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.02.1943"
+    },
+    {
+        "nombre": "Julio Alas",
+        "pais": "España",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.07.1943"
+    },
+    {
+        "nombre": "Emiliano Albín",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.01.1989"
+    },
+    {
+        "nombre": "Julio Alcorsé",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.09.1981"
+    },
+    {
+        "nombre": "Alex Da Silva",
+        "pais": "Suiza",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.06.1982"
+    },
+    {
+        "nombre": "Agustín Almendra",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.02.2000"
+    },
+    {
+        "nombre": "Ezequiel Almirón",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.08.2002"
+    },
+    {
+        "nombre": "Junior Alonso",
+        "pais": "Paraguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.02.1993"
+    },
+    {
+        "nombre": "Carlos Álvarez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.03.1952"
+    },
+    {
+        "nombre": "Cristian Álvarez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.09.1992"
+    },
+    {
+        "nombre": "Pablo Álvarez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.04.1984"
+    },
+    {
+        "nombre": "Iván Alvariño",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.02.2001"
+    },
+    {
+        "nombre": "Abel Alves",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.02.1958"
+    },
+    {
+        "nombre": "Hugo Alvez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.11.1959"
+    },
+    {
+        "nombre": "Gabriel Amato",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.09.1970"
+    },
+    {
+        "nombre": "Esteban Andrada",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.01.1991"
+    },
+    {
+        "nombre": "Martín Andrizzi",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.07.1976"
+    },
+    {
+        "nombre": "Julio Apariente",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.05.1949"
+    },
+    {
+        "nombre": "Antonio Apud",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.09.1967"
+    },
+    {
+        "nombre": "Gabriel Aranda",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.04.2001"
+    },
+    {
+        "nombre": "Sergio Araujo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.01.1992"
+    },
+    {
+        "nombre": "Matías Arce",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.01.1984"
+    },
+    {
+        "nombre": "Juan Aróstegui",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.02.1980"
+    },
+    {
+        "nombre": "Rodolfo Arruabarrena",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.07.1975"
+    },
+    {
+        "nombre": "Mauro Astrada",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.11.1980"
+    },
+    {
+        "nombre": "Gastón Ávila",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.09.2001"
+    },
+    {
+        "nombre": "Josué Ayala",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.05.1988"
+    },
+    {
+        "nombre": "Ayres Moraes",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.07.1941"
+    },
+    {
+        "nombre": "Marcelo Bachino",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.11.1960"
+    },
+    {
+        "nombre": "Guillermo Báez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.01.1980"
+    },
+    {
+        "nombre": "Baiano",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.06.1978"
+    },
+    {
+        "nombre": "Manuel Baigorria",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.12.1985"
+    },
+    {
+        "nombre": "Héctor Bailetti",
+        "pais": "Perú",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.11.1947"
+    },
+    {
+        "nombre": "Leonardo Baima",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1992"
+    },
+    {
+        "nombre": "Abel Balbo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.06.1966"
+    },
+    {
+        "nombre": "Leonardo Balerdi",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.01.1999"
+    },
+    {
+        "nombre": "Julio Balerio",
+        "pais": "Uruguay",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.04.1958"
+    },
+    {
+        "nombre": "Éver Banega",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.06.1988"
+    },
+    {
+        "nombre": "Alejandro Barberón",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.05.1959"
+    },
+    {
+        "nombre": "Joel Barbosa",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.01.1983"
+    },
+    {
+        "nombre": "Valentín Barco",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.07.2004"
+    },
+    {
+        "nombre": "Eduardo Bargas",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.05.1955"
+    },
+    {
+        "nombre": "Antonio Barijho",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.03.1977"
+    },
+    {
+        "nombre": "Guido Barreyro",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.06.1988"
+    },
+    {
+        "nombre": "Wilmar Barrios",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.10.1993"
+    },
+    {
+        "nombre": "Guillermo Barros Schelotto",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.05.1973"
+    },
+    {
+        "nombre": "Gustavo Barros Schelotto",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.05.1973"
+    },
+    {
+        "nombre": "Julio Barroso",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.01.1985"
+    },
+    {
+        "nombre": "Ivo Basay",
+        "pais": "Chile",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.04.1966"
+    },
+    {
+        "nombre": "José Basualdo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.06.1963"
+    },
+    {
+        "nombre": "Gabriel Batistuta",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.02.1969"
+    },
+    {
+        "nombre": "Sebastián Battaglia",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.06.1987"
+    },
+    {
+        "nombre": "Sebastián Battaglia",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.11.1980"
+    },
+    {
+        "nombre": "Elías Bazzi",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.05.1981"
+    },
+    {
+        "nombre": "Becerra",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.04.1945"
+    },
+    {
+        "nombre": "Gerardo Bedoya",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.11.1975"
+    },
+    {
+        "nombre": "Exequiel Benavídez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.03.1989"
+    },
+    {
+        "nombre": "Darío Benedetto",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.05.1990"
+    },
+    {
+        "nombre": "Nicolás Benegas",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.03.1996"
+    },
+    {
+        "nombre": "Jorge Benítez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.06.1950"
+    },
+    {
+        "nombre": "Mauricio Benítez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.2004"
+    },
+    {
+        "nombre": "Óscar Benítez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1993"
+    },
+    {
+        "nombre": "Rodrigo Bentancur",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.06.1997"
+    },
+    {
+        "nombre": "Jorge Bermúdez",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1971"
+    },
+    {
+        "nombre": "Héctor Bernabitti",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.1952"
+    },
+    {
+        "nombre": "Balthazar Bernardi",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.08.2001"
+    },
+    {
+        "nombre": "José Berta",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.04.1952"
+    },
+    {
+        "nombre": "Alfredo Berti",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1971"
+    },
+    {
+        "nombre": "Sergio Berti",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.02.1969"
+    },
+    {
+        "nombre": "Ricardo Bertolé",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.02.1953"
+    },
+    {
+        "nombre": "Nicolás Bertolo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.01.1986"
+    },
+    {
+        "nombre": "Carlos Biasutto",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.02.1946"
+    },
+    {
+        "nombre": "Daniel Bilos",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.09.1980"
+    },
+    {
+        "nombre": "Luis Manuel Blanco",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.12.1959"
+    },
+    {
+        "nombre": "Nicolás Blandi",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.01.1990"
+    },
+    {
+        "nombre": "Aldo Bobadilla",
+        "pais": "Paraguay",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.04.1976"
+    },
+    {
+        "nombre": "Erik Bodencer",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.03.2000"
+    },
+    {
+        "nombre": "Ariel Boldrini",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.07.1965"
+    },
+    {
+        "nombre": "Bréyner Bonilla",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.07.1986"
+    },
+    {
+        "nombre": "Pablo Bonvín",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.04.1981"
+    },
+    {
+        "nombre": "Omar Bordet",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.05.1963"
+    },
+    {
+        "nombre": "Miguel Bordón",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.10.1952"
+    },
+    {
+        "nombre": "Mauro Boselli",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.05.1985"
+    },
+    {
+        "nombre": "Walter Bou",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.08.1993"
+    },
+    {
+        "nombre": "Agustín Bouzat",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.03.1994"
+    },
+    {
+        "nombre": "Héctor Bracamonte",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.02.1978"
+    },
+    {
+        "nombre": "Federico Bravo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1993"
+    },
+    {
+        "nombre": "Leandro Brey",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.09.2002"
+    },
+    {
+        "nombre": "Norberto Briasco",
+        "pais": "Armenia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.02.1996"
+    },
+    {
+        "nombre": "Miguel Brindisi",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.10.1950"
+    },
+    {
+        "nombre": "César Brítez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.12.1949"
+    },
+    {
+        "nombre": "José Luis Brown",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.11.1956"
+    },
+    {
+        "nombre": "Carlos Bueno",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.05.1980"
+    },
+    {
+        "nombre": "Julio Buffarini",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.08.1988"
+    },
+    {
+        "nombre": "Guillermo Burdisso",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.09.1988"
+    },
+    {
+        "nombre": "Nicolás Burdisso",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.04.1981"
+    },
+    {
+        "nombre": "Javier Bustillos",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.03.1997"
+    },
+    {
+        "nombre": "Willy Caballero",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.09.1981"
+    },
+    {
+        "nombre": "Juan Pablo Cabaña",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.12.2001"
+    },
+    {
+        "nombre": "Roberto Cabañas",
+        "pais": "Paraguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.04.1961"
+    },
+    {
+        "nombre": "Antonio Cabrera",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.10.1943"
+    },
+    {
+        "nombre": "Claudio Cabrera",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.11.1963"
+    },
+    {
+        "nombre": "Gonzalo Cabrera",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.01.1989"
+    },
+    {
+        "nombre": "Fernando Cáceres",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.02.1969"
+    },
+    {
+        "nombre": "Franco Cáceres",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.2000"
+    },
+    {
+        "nombre": "Julio César Cáceres",
+        "pais": "Paraguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.10.1979"
+    },
+    {
+        "nombre": "Juan Caffa",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.09.1984"
+    },
+    {
+        "nombre": "Diego Cagna",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.04.1970"
+    },
+    {
+        "nombre": "Matías Cahais",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.12.1987"
+    },
+    {
+        "nombre": "Jonathan Calleri",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.09.1993"
+    },
+    {
+        "nombre": "José Calvo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.07.1981"
+    },
+    {
+        "nombre": "Luis Calvo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.10.1977"
+    },
+    {
+        "nombre": "Jorman Campuzano",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.04.1996"
+    },
+    {
+        "nombre": "Oscar Candia",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.04.1950"
+    },
+    {
+        "nombre": "Miguel Caneo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.03.1983"
+    },
+    {
+        "nombre": "Marcelo Cañete",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.04.1990"
+    },
+    {
+        "nombre": "Franco Cángele",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.07.1984"
+    },
+    {
+        "nombre": "Claudio Caniggia",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.01.1967"
+    },
+    {
+        "nombre": "Nicolás Capaldo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.09.1998"
+    },
+    {
+        "nombre": "Armando Capurro",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.07.1948"
+    },
+    {
+        "nombre": "Mauricio Caranta",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.07.1978"
+    },
+    {
+        "nombre": "Federico Carballo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.03.1980"
+    },
+    {
+        "nombre": "Mario Carballo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.1952"
+    },
+    {
+        "nombre": "Edwin Cardona",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.12.1992"
+    },
+    {
+        "nombre": "Rodolfo Cardoso",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.10.1968"
+    },
+    {
+        "nombre": "Neri Cardozo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.08.1986"
+    },
+    {
+        "nombre": "Andrés Carevic",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.12.1978"
+    },
+    {
+        "nombre": "Alberto Carranza",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.06.1972"
+    },
+    {
+        "nombre": "Silvio Carrario",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.08.1971"
+    },
+    {
+        "nombre": "Julián Carrasco",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.03.2002"
+    },
+    {
+        "nombre": "Ariel Carreño",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.1979"
+    },
+    {
+        "nombre": "Fabián Carrizo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.07.1966"
+    },
+    {
+        "nombre": "Federico Carrizo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.05.1991"
+    },
+    {
+        "nombre": "Matías Caruzzo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.08.1984"
+    },
+    {
+        "nombre": "Eduardo Casais",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.03.1985"
+    },
+    {
+        "nombre": "Alfredo Cascini",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.04.1971"
+    },
+    {
+        "nombre": "Dino Castagno",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.07.1993"
+    },
+    {
+        "nombre": "Gonzalo Castellani",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.08.1987"
+    },
+    {
+        "nombre": "Jonathan Castillo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.01.1993"
+    },
+    {
+        "nombre": "Sergio Castillo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.12.1968"
+    },
+    {
+        "nombre": "Lucas Castromán",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.10.1980"
+    },
+    {
+        "nombre": "Jorge Cecchi",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.05.1963"
+    },
+    {
+        "nombre": "Ruben Cecco",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1983"
+    },
+    {
+        "nombre": "Néstor Cedrés",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.03.1970"
+    },
+    {
+        "nombre": "Francesco Celeste",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.05.1994"
+    },
+    {
+        "nombre": "Christian Cellay",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.09.1981"
+    },
+    {
+        "nombre": "Carlos Cenci",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1970"
+    },
+    {
+        "nombre": "Ramón Centurión",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.01.1962"
+    },
+    {
+        "nombre": "Ricardo Centurión",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.01.1993"
+    },
+    {
+        "nombre": "Raúl César",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.05.1965"
+    },
+    {
+        "nombre": "Charles",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.04.1968"
+    },
+    {
+        "nombre": "Andrés Chávez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.03.1991"
+    },
+    {
+        "nombre": "Cristian Chávez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.06.1986"
+    },
+    {
+        "nombre": "Julián Chicco",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.01.1998"
+    },
+    {
+        "nombre": "Gabriel Christovao",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.02.1982"
+    },
+    {
+        "nombre": "Juan Cobian",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.09.1975"
+    },
+    {
+        "nombre": "Victorio Cocco",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.03.1946"
+    },
+    {
+        "nombre": "Jorge Coch",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.05.1947"
+    },
+    {
+        "nombre": "Roberto Colautti",
+        "pais": "Israel",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.05.1982"
+    },
+    {
+        "nombre": "Nicolás Colazo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.07.1990"
+    },
+    {
+        "nombre": "Fabricio Coloccini",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.01.1982"
+    },
+    {
+        "nombre": "Ariel Cólzera",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.04.1986"
+    },
+    {
+        "nombre": "Jorge Comas",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.06.1960"
+    },
+    {
+        "nombre": "Pablo Comelles",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.07.1954"
+    },
+    {
+        "nombre": "Carlos Córdoba",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.11.1958"
+    },
+    {
+        "nombre": "Óscar Córdoba",
+        "pais": "Colombia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.02.1970"
+    },
+    {
+        "nombre": "Gustavo Coronel",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.03.1968"
+    },
+    {
+        "nombre": "Sergio Coronel",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.01.1986"
+    },
+    {
+        "nombre": "Brandon Cortés",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.06.2001"
+    },
+    {
+        "nombre": "Hugo Coscia",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.10.1952"
+    },
+    {
+        "nombre": "Franco Cristaldo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.08.1996"
+    },
+    {
+        "nombre": "Diego Crosa",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.04.1976"
+    },
+    {
+        "nombre": "Andrés Cubas",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.05.1996"
+    },
+    {
+        "nombre": "José Cuciuffo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.02.1961"
+    },
+    {
+        "nombre": "Hugo Curioni",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.10.1946"
+    },
+    {
+        "nombre": "Darío Cvitanich",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.05.1984"
+    },
+    {
+        "nombre": "Norberto D'Angelo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.02.1955"
+    },
+    {
+        "nombre": "Sebastián D'Angelo",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.01.1989"
+    },
+    {
+        "nombre": "Rubén da Silva",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.04.1968"
+    },
+    {
+        "nombre": "Mauro Dalla Costa",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.09.1993"
+    },
+    {
+        "nombre": "Gustavo Dalsasso",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.09.1976"
+    },
+    {
+        "nombre": "Jesús Dátolo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.05.1984"
+    },
+    {
+        "nombre": "Daniele De Rossi",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.07.1983"
+    },
+    {
+        "nombre": "Walter Del Río",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.06.1976"
+    },
+    {
+        "nombre": "Marcelo Delgado",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.03.1973"
+    },
+    {
+        "nombre": "Francisco Di Franco",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.01.1995"
+    },
+    {
+        "nombre": "Lautaro Di Lollo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.03.2004"
+    },
+    {
+        "nombre": "Damián Díaz",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.05.1986"
+    },
+    {
+        "nombre": "Daniel Díaz",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.03.1979"
+    },
+    {
+        "nombre": "Leandro Díaz",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.06.1986"
+    },
+    {
+        "nombre": "Marcos Díaz",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.02.1986"
+    },
+    {
+        "nombre": "Tomás Diaz",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.05.2001"
+    },
+    {
+        "nombre": "Sebastián Díaz Robles",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.11.2003"
+    },
+    {
+        "nombre": "Arley Dinas",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.03.1972"
+    },
+    {
+        "nombre": "Christian Dollberg",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.11.1971"
+    },
+    {
+        "nombre": "Adrián Domenech",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.03.1959"
+    },
+    {
+        "nombre": "Hugo Domínguez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.05.1977"
+    },
+    {
+        "nombre": "Jorge Domínguez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.03.1959"
+    },
+    {
+        "nombre": "Matías Donnet",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.04.1980"
+    },
+    {
+        "nombre": "Marco dos Santos",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.07.1964"
+    },
+    {
+        "nombre": "David Drocco",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.01.1989"
+    },
+    {
+        "nombre": "Kevin Duarte",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.09.2001"
+    },
+    {
+        "nombre": "Carlos Duré",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.12.1970"
+    },
+    {
+        "nombre": "Claudio Dykstra",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.06.1961"
+    },
+    {
+        "nombre": "Gustavo Eberto",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.08.1983"
+    },
+    {
+        "nombre": "Mariano Echeverría",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.05.1981"
+    },
+    {
+        "nombre": "Edilio Cardoso",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.05.1983"
+    },
+    {
+        "nombre": "Cristian Erbes",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.1990"
+    },
+    {
+        "nombre": "Pablo Erbin",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.10.1965"
+    },
+    {
+        "nombre": "Walter Erviti",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.06.1980"
+    },
+    {
+        "nombre": "Luis Escalada",
+        "pais": "Ecuador",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.02.1986"
+    },
+    {
+        "nombre": "Gonzalo Escalante",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.03.1993"
+    },
+    {
+        "nombre": "Israel Escalante",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.01.1999"
+    },
+    {
+        "nombre": "Damián Escudero",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.04.1987"
+    },
+    {
+        "nombre": "Osvaldo Escudero",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.10.1960"
+    },
+    {
+        "nombre": "Fabián Espíndola",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.05.1985"
+    },
+    {
+        "nombre": "Cristian Espinoza",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.04.1995"
+    },
+    {
+        "nombre": "Raúl Estévez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.01.1978"
+    },
+    {
+        "nombre": "Fernando Evangelista",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.10.1991"
+    },
+    {
+        "nombre": "Néstor Fabbri",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.04.1968"
+    },
+    {
+        "nombre": "Jonathan Fabbro",
+        "pais": "Paraguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.01.1982"
+    },
+    {
+        "nombre": "Frank Fabra",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.02.1991"
+    },
+    {
+        "nombre": "Daniel Fagiani",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.01.1974"
+    },
+    {
+        "nombre": "Alejandro Farías",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.01.1970"
+    },
+    {
+        "nombre": "Darío Felman",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.10.1951"
+    },
+    {
+        "nombre": "Ezequiel Fernández",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.07.2002"
+    },
+    {
+        "nombre": "Jorge Fernández",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.02.1942"
+    },
+    {
+        "nombre": "Pol Fernández",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.10.1991"
+    },
+    {
+        "nombre": "Enzo Ferrero",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.01.1953"
+    },
+    {
+        "nombre": "Franco Ferreyra",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1994"
+    },
+    {
+        "nombre": "Nicolás Figal",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.04.1994"
+    },
+    {
+        "nombre": "Luciano Figueroa",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.05.1981"
+    },
+    {
+        "nombre": "Nahuel Fioretto",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.01.1981"
+    },
+    {
+        "nombre": "Juan Fischer",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.12.1985"
+    },
+    {
+        "nombre": "Hernán Florentin",
+        "pais": "Paraguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.07.1977"
+    },
+    {
+        "nombre": "Brian Flores",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.02.1990"
+    },
+    {
+        "nombre": "Carlos Fondacaro",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.05.1987"
+    },
+    {
+        "nombre": "Juan Forchetti",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.04.1981"
+    },
+    {
+        "nombre": "Franco Fragapane",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.06.1993"
+    },
+    {
+        "nombre": "Mario Franceschini",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.03.1955"
+    },
+    {
+        "nombre": "Andrés Franzoia",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.10.1985"
+    },
+    {
+        "nombre": "José Fuenzalida",
+        "pais": "Chile",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.02.1985"
+    },
+    {
+        "nombre": "Ivan Furios",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.05.1979"
+    },
+    {
+        "nombre": "Emiliano Fusco",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.03.1986"
+    },
+    {
+        "nombre": "Fernando Gago",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.04.1986"
+    },
+    {
+        "nombre": "Nicolás Gaitán",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.02.1988"
+    },
+    {
+        "nombre": "Walter Gaitán",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.03.1977"
+    },
+    {
+        "nombre": "Víctor Galarza",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.10.1984"
+    },
+    {
+        "nombre": "Horacio Galletti",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.09.1952"
+    },
+    {
+        "nombre": "Bruno Galván",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.05.1994"
+    },
+    {
+        "nombre": "José Galván",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.03.1981"
+    },
+    {
+        "nombre": "Sergio Galván",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.06.1973"
+    },
+    {
+        "nombre": "Fernando Gamboa",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.10.1970"
+    },
+    {
+        "nombre": "Julio Gaona",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.02.1964"
+    },
+    {
+        "nombre": "Orlando Gaona Lugo",
+        "pais": "Paraguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.07.1990"
+    },
+    {
+        "nombre": "Agustín García",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.03.1992"
+    },
+    {
+        "nombre": "Javier García",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.01.1987"
+    },
+    {
+        "nombre": "Ricardo Gareca",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.02.1958"
+    },
+    {
+        "nombre": "Pascual Garrido",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.09.1974"
+    },
+    {
+        "nombre": "Hugo Orlando Gatti",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.08.1944"
+    },
+    {
+        "nombre": "Lucas Gatti",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.02.1978"
+    },
+    {
+        "nombre": "Sergio Genaro",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.07.1962"
+    },
+    {
+        "nombre": "Nahuel Génez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.06.2003"
+    },
+    {
+        "nombre": "Gastón Gerzel",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.01.2000"
+    },
+    {
+        "nombre": "Renzo Giampaoli",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.01.2000"
+    },
+    {
+        "nombre": "Emmanuel Gigliotti",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.05.1987"
+    },
+    {
+        "nombre": "Christian Giménez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.02.1981"
+    },
+    {
+        "nombre": "Christian Giménez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.11.1974"
+    },
+    {
+        "nombre": "Matías Giménez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.12.1984"
+    },
+    {
+        "nombre": "Blas Giunta",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.09.1963"
+    },
+    {
+        "nombre": "Alejandro Giuntini",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.07.1967"
+    },
+    {
+        "nombre": "Paolo Goltz",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.05.1985"
+    },
+    {
+        "nombre": "Rúben Gómez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.03.1961"
+    },
+    {
+        "nombre": "Gonzalo Goñi",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.08.1998"
+    },
+    {
+        "nombre": "Alberto González",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.08.1941"
+    },
+    {
+        "nombre": "Álvaro González",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.10.1984"
+    },
+    {
+        "nombre": "César Gonzalez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.01.1982"
+    },
+    {
+        "nombre": "Cristian González",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.08.1974"
+    },
+    {
+        "nombre": "Diego González",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1988"
+    },
+    {
+        "nombre": "Esteban González",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.03.1982"
+    },
+    {
+        "nombre": "Ezequiel González",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.07.1980"
+    },
+    {
+        "nombre": "Miguel González",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.11.1952"
+    },
+    {
+        "nombre": "Pedro González",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.12.1970"
+    },
+    {
+        "nombre": "Leandro Gracián",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.08.1982"
+    },
+    {
+        "nombre": "Alfredo Graciani",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.01.1965"
+    },
+    {
+        "nombre": "Hernán Grana",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.04.1985"
+    },
+    {
+        "nombre": "Fredy Guarín",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.06.1986"
+    },
+    {
+        "nombre": "Carlos Guerini",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.03.1949"
+    },
+    {
+        "nombre": "Hugo Guerra",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.02.1968"
+    },
+    {
+        "nombre": "Andrés Guglielminpietro",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.04.1974"
+    },
+    {
+        "nombre": "Adrián Guillermo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.03.1980"
+    },
+    {
+        "nombre": "Adrián Gunino",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.02.1989"
+    },
+    {
+        "nombre": "Enzo Gutiérrez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.05.1986"
+    },
+    {
+        "nombre": "Humberto Gutiérrez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.05.1961"
+    },
+    {
+        "nombre": "Agustín Heredia",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.06.1997"
+    },
+    {
+        "nombre": "Esteban Herrera",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.03.1981"
+    },
+    {
+        "nombre": "Martín Herrera",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.09.1970"
+    },
+    {
+        "nombre": "Jorge Higuaín",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.06.1957"
+    },
+    {
+        "nombre": "Néstor Holweger",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.06.1973"
+    },
+    {
+        "nombre": "Guillermo Hoyos",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.06.1963"
+    },
+    {
+        "nombre": "Enrique Hrabina",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.11.1961"
+    },
+    {
+        "nombre": "Jan Hurtado",
+        "pais": "Venezuela",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.03.2000"
+    },
+    {
+        "nombre": "Mario Husillos",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.02.1959"
+    },
+    {
+        "nombre": "Iarley",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.03.1974"
+    },
+    {
+        "nombre": "Luis Ibáñez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.07.1988"
+    },
+    {
+        "nombre": "Hugo Ibarra",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.04.1974"
+    },
+    {
+        "nombre": "Juan Imbert",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.03.1990"
+    },
+    {
+        "nombre": "Facundo Imboden",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1980"
+    },
+    {
+        "nombre": "Juan Insaurralde",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.10.1984"
+    },
+    {
+        "nombre": "Emanuel Insúa",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.04.1991"
+    },
+    {
+        "nombre": "Emiliano Insúa",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.01.1989"
+    },
+    {
+        "nombre": "Federico Insúa",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.01.1980"
+    },
+    {
+        "nombre": "Pablo Islas",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.02.1979"
+    },
+    {
+        "nombre": "Carlos Izquierdoz",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.11.1988"
+    },
+    {
+        "nombre": "Leonardo Jara",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.05.1991"
+    },
+    {
+        "nombre": "Pablo Jerez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.07.1983"
+    },
+    {
+        "nombre": "Jorginho Paulista",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.02.1980"
+    },
+    {
+        "nombre": "Juan Forlín",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.01.1988"
+    },
+    {
+        "nombre": "Juan Komar",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.08.1996"
+    },
+    {
+        "nombre": "Ariel Krasouski",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.05.1958"
+    },
+    {
+        "nombre": "Juan Krupoviesa",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.04.1979"
+    },
+    {
+        "nombre": "César La Paglia",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.02.1979"
+    },
+    {
+        "nombre": "Gonzalo Lamardo",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.04.1997"
+    },
+    {
+        "nombre": "Carlos Lampe",
+        "pais": "Bolivia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.03.1987"
+    },
+    {
+        "nombre": "Alejandro Lanari",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.05.1960"
+    },
+    {
+        "nombre": "Luca Langoni",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.02.2003"
+    },
+    {
+        "nombre": "Héctor Larroque",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.11.1971"
+    },
+    {
+        "nombre": "Omar Larrosa",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.11.1947"
+    },
+    {
+        "nombre": "Agustín Lastra",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.01.2001"
+    },
+    {
+        "nombre": "Diego Latorre",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.08.1969"
+    },
+    {
+        "nombre": "Cristian Ledesma",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.09.1982"
+    },
+    {
+        "nombre": "Pablo Ledesma",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.02.1984"
+    },
+    {
+        "nombre": "Federico León",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.10.1984"
+    },
+    {
+        "nombre": "Jorge Lépez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.09.1970"
+    },
+    {
+        "nombre": "Alfredo Letanú",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.08.1952"
+    },
+    {
+        "nombre": "Miguel Loayza",
+        "pais": "Perú",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.06.1940"
+    },
+    {
+        "nombre": "Nicolás Lodeiro",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.03.1989"
+    },
+    {
+        "nombre": "Juan José López",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.10.1950"
+    },
+    {
+        "nombre": "Lisandro López",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.09.1989"
+    },
+    {
+        "nombre": "Oscar López",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.10.1955"
+    },
+    {
+        "nombre": "Néstor Lorenzo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.02.1966"
+    },
+    {
+        "nombre": "Cristian Lucchetti",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.06.1978"
+    },
+    {
+        "nombre": "Luiz Alberto",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.12.1977"
+    },
+    {
+        "nombre": "José Luis Luna",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.10.1940"
+    },
+    {
+        "nombre": "Leonardo Luppino",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.01.1975"
+    },
+    {
+        "nombre": "Luís Lúquez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.04.1961"
+    },
+    {
+        "nombre": "Alexis Mac Allister",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.12.1998"
+    },
+    {
+        "nombre": "Carlos Mac Allister",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.03.1968"
+    },
+    {
+        "nombre": "Kevin Mac Allister",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.11.1997"
+    },
+    {
+        "nombre": "Norberto Madurga",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.12.1944"
+    },
+    {
+        "nombre": "Lisandro Magallán",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.09.1993"
+    },
+    {
+        "nombre": "Rubén Magdalena",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1942"
+    },
+    {
+        "nombre": "Víctor Magnago",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.02.1983"
+    },
+    {
+        "nombre": "Jonatan Maidana",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.07.1985"
+    },
+    {
+        "nombre": "Matías Maidana",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.03.1987"
+    },
+    {
+        "nombre": "Oscar Malbernat",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1944"
+    },
+    {
+        "nombre": "Nicolás Maná",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.03.1994"
+    },
+    {
+        "nombre": "Alejandro Mancuso",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.09.1968"
+    },
+    {
+        "nombre": "Eros Mancuso",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.04.1999"
+    },
+    {
+        "nombre": "Diego Maradona",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.10.1960"
+    },
+    {
+        "nombre": "Raúl Maradona",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.11.1966"
+    },
+    {
+        "nombre": "Claudio Marangoni",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.11.1954"
+    },
+    {
+        "nombre": "Julio Marchant",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.01.1980"
+    },
+    {
+        "nombre": "Matias Marchesini",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.05.1979"
+    },
+    {
+        "nombre": "Víctor Marchesini",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.11.1960"
+    },
+    {
+        "nombre": "Alberto Márcico",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.05.1960"
+    },
+    {
+        "nombre": "Iván Marcone",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.06.1990"
+    },
+    {
+        "nombre": "Leandro Marín",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.01.1992"
+    },
+    {
+        "nombre": "Carlos Marinelli",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.03.1982"
+    },
+    {
+        "nombre": "Guillermo Marino",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.02.1981"
+    },
+    {
+        "nombre": "Bruno Marioni",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.06.1975"
+    },
+    {
+        "nombre": "Gonzalo Maroni",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.03.1999"
+    },
+    {
+        "nombre": "Jorge Martínez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.06.1973"
+    },
+    {
+        "nombre": "Juan Martínez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.10.1985"
+    },
+    {
+        "nombre": "Ramiro Martínez",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.04.1991"
+    },
+    {
+        "nombre": "Sergio Martínez",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.02.1969"
+    },
+    {
+        "nombre": "Silvio Marzolini",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.10.1940"
+    },
+    {
+        "nombre": "Emanuel Más",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.01.1989"
+    },
+    {
+        "nombre": "Ernesto Mastrángelo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.07.1948"
+    },
+    {
+        "nombre": "Aníbal Matellán",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.05.1977"
+    },
+    {
+        "nombre": "Horacio Matuszyczk",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.11.1961"
+    },
+    {
+        "nombre": "Jonathan Mazzola",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.04.1991"
+    },
+    {
+        "nombre": "Gary Medel",
+        "pais": "Chile",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.08.1987"
+    },
+    {
+        "nombre": "Luis Medero",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.01.1973"
+    },
+    {
+        "nombre": "Cristian Medina",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.06.2002"
+    },
+    {
+        "nombre": "Hernán Medina",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.09.1974"
+    },
+    {
+        "nombre": "Orlando Medina",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.10.1945"
+    },
+    {
+        "nombre": "Ezequiel Medrán",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.12.1980"
+    },
+    {
+        "nombre": "Julio Meléndez",
+        "pais": "Perú",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.04.1942"
+    },
+    {
+        "nombre": "José Melgar",
+        "pais": "Bolivia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.08.1959"
+    },
+    {
+        "nombre": "Marcelo Meli",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.06.1992"
+    },
+    {
+        "nombre": "Jesús Méndez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.08.1984"
+    },
+    {
+        "nombre": "Miguel Merentiel",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.02.1996"
+    },
+    {
+        "nombre": "Néstor Merlo",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.07.1960"
+    },
+    {
+        "nombre": "Alexis Messidoro",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.05.1997"
+    },
+    {
+        "nombre": "Pablo Migliore",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.01.1982"
+    },
+    {
+        "nombre": "Antonio Mohamed",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.04.1970"
+    },
+    {
+        "nombre": "Nahuel Molina",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.04.1998"
+    },
+    {
+        "nombre": "Aarón Molinas",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.08.2000"
+    },
+    {
+        "nombre": "Marcos Mondaini",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.02.1985"
+    },
+    {
+        "nombre": "Héctor Monroig",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.06.1961"
+    },
+    {
+        "nombre": "Rodrigo Montes",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.04.2000"
+    },
+    {
+        "nombre": "Luciano Monzón",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.04.1987"
+    },
+    {
+        "nombre": "Gonzalo Morales",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.2003"
+    },
+    {
+        "nombre": "Claudio Morel Rodríguez",
+        "pais": "Paraguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1978"
+    },
+    {
+        "nombre": "Fernando Morena",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.02.1952"
+    },
+    {
+        "nombre": "Alfredo Moreno",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.1980"
+    },
+    {
+        "nombre": "Christian Moreno",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.04.1996"
+    },
+    {
+        "nombre": "Aldo Mores",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.01.1982"
+    },
+    {
+        "nombre": "Carlos Morete",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.01.1952"
+    },
+    {
+        "nombre": "Pablo Mouche",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.10.1987"
+    },
+    {
+        "nombre": "Roberto Mouzo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.01.1953"
+    },
+    {
+        "nombre": "Carlos Moya",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.05.1969"
+    },
+    {
+        "nombre": "Cristian Muñoz",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.07.1977"
+    },
+    {
+        "nombre": "Ezequiel Muñoz",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.10.1990"
+    },
+    {
+        "nombre": "Nahitan Nández",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.12.1995"
+    },
+    {
+        "nombre": "Carlos Navarro Montoya",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.02.1966"
+    },
+    {
+        "nombre": "Fernando Navas",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.01.1977"
+    },
+    {
+        "nombre": "Beto Naveda",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.05.1972"
+    },
+    {
+        "nombre": "Sebastián Nayar",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.05.1988"
+    },
+    {
+        "nombre": "Gustavo Neffa",
+        "pais": "Paraguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.11.1971"
+    },
+    {
+        "nombre": "Miguel Nicolau",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.06.1946"
+    },
+    {
+        "nombre": "Ricardo Noir",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.02.1987"
+    },
+    {
+        "nombre": "Raul Noriega",
+        "pais": "Ecuador",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.01.1970"
+    },
+    {
+        "nombre": "Nicolás Novello",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.05.1946"
+    },
+    {
+        "nombre": "Agustín Obando",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.03.2000"
+    },
+    {
+        "nombre": "Julio Olarticoechea",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.10.1958"
+    },
+    {
+        "nombre": "Lucas Olaza",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.07.1994"
+    },
+    {
+        "nombre": "Matías Olguin",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.03.2001"
+    },
+    {
+        "nombre": "Esteban Orfano",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.01.1992"
+    },
+    {
+        "nombre": "Agustín Orión",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.07.1981"
+    },
+    {
+        "nombre": "Víctor Ormazábal",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.04.1985"
+    },
+    {
+        "nombre": "Nicolás Orsini",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.09.1994"
+    },
+    {
+        "nombre": "Sergio Órteman",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.09.1978"
+    },
+    {
+        "nombre": "Carlos Ortíz",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.08.1952"
+    },
+    {
+        "nombre": "Fernando Ortiz",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.12.1977"
+    },
+    {
+        "nombre": "Raul Osella",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.06.1984"
+    },
+    {
+        "nombre": "Daniel Osvaldo",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.1986"
+    },
+    {
+        "nombre": "Norberto Outes",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.10.1953"
+    },
+    {
+        "nombre": "Armando Ovide",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1947"
+    },
+    {
+        "nombre": "Eduardo Oviedo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.08.1954"
+    },
+    {
+        "nombre": "Carlos Pachamé",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.02.1944"
+    },
+    {
+        "nombre": "Maximiliano Padilla",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.08.1994"
+    },
+    {
+        "nombre": "Ricardo Páez",
+        "pais": "Venezuela",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1979"
+    },
+    {
+        "nombre": "Rodrigo Palacio",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.02.1982"
+    },
+    {
+        "nombre": "José Palacios",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.02.1955"
+    },
+    {
+        "nombre": "Rubén Palacios",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.02.1950"
+    },
+    {
+        "nombre": "Sebastián Palacios",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.01.1992"
+    },
+    {
+        "nombre": "Martín Palermo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.11.1973"
+    },
+    {
+        "nombre": "Gabriel Paletta",
+        "pais": "Italia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.02.1986"
+    },
+    {
+        "nombre": "Lucas Palma",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.05.2003"
+    },
+    {
+        "nombre": "Fernando Pandolfi",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.05.1974"
+    },
+    {
+        "nombre": "Mario Pardo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.06.1943"
+    },
+    {
+        "nombre": "Aldo Paredes",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.02.1972"
+    },
+    {
+        "nombre": "Leandro Paredes",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.06.1994"
+    },
+    {
+        "nombre": "Fernando Pasquinelli",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.03.1980"
+    },
+    {
+        "nombre": "Roberto Pasucci",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.10.1956"
+    },
+    {
+        "nombre": "Diego Pave",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.04.1985"
+    },
+    {
+        "nombre": "Cristian Pavón",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.01.1996"
+    },
+    {
+        "nombre": "Daniel Pavón",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.02.1955"
+    },
+    {
+        "nombre": "Martín Payero",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.09.1998"
+    },
+    {
+        "nombre": "Ignacio Peña",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.07.1949"
+    },
+    {
+        "nombre": "Raúl Peralta",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.08.1969"
+    },
+    {
+        "nombre": "Walter Perazzo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.08.1962"
+    },
+    {
+        "nombre": "Luis Perea",
+        "pais": "Colombia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.01.1979"
+    },
+    {
+        "nombre": "José Pereda",
+        "pais": "Perú",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.09.1973"
+    },
+    {
+        "nombre": "Ruben Pereira",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.01.1968"
+    },
+    {
+        "nombre": "Abel Pérez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.07.1945"
+    },
+    {
+        "nombre": "Claudio Pérez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.12.1985"
+    },
+    {
+        "nombre": "Omar Pérez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.03.1981"
+    },
+    {
+        "nombre": "Pablo Pérez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.08.1985"
+    },
+    {
+        "nombre": "Santiago Pérez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.08.2002"
+    },
+    {
+        "nombre": "Sebastián Pérez",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.03.1993"
+    },
+    {
+        "nombre": "Juan Perillo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.04.1985"
+    },
+    {
+        "nombre": "Vicente Pernía",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.04.1949"
+    },
+    {
+        "nombre": "Diego Perotti",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.07.1988"
+    },
+    {
+        "nombre": "Hugo Perotti",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.03.1959"
+    },
+    {
+        "nombre": "Gino Peruzzi",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.06.1992"
+    },
+    {
+        "nombre": "Jonatan Philippe",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.01.1988"
+    },
+    {
+        "nombre": "Oscar Pianetti",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.10.1942"
+    },
+    {
+        "nombre": "Walter Pico",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.03.1969"
+    },
+    {
+        "nombre": "Mauricio Pineda",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.07.1975"
+    },
+    {
+        "nombre": "Gustavo Pinto",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.05.1979"
+    },
+    {
+        "nombre": "Tomás Pochettino",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.02.1996"
+    },
+    {
+        "nombre": "Esteban Pogany",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.10.1954"
+    },
+    {
+        "nombre": "Roberto Pompei",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.03.1970"
+    },
+    {
+        "nombre": "Ramón Ponce",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.07.1948"
+    },
+    {
+        "nombre": "Miguel Portillo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.09.1982"
+    },
+    {
+        "nombre": "Osvaldo Potente",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.11.1954"
+    },
+    {
+        "nombre": "Lucas Pratto",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.06.1988"
+    },
+    {
+        "nombre": "Sebastián Prediger",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.09.1986"
+    },
+    {
+        "nombre": "Carlos Quiñones",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.03.1980"
+    },
+    {
+        "nombre": "Sebastián Rambert",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.01.1974"
+    },
+    {
+        "nombre": "Juan Ramírez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.05.1993"
+    },
+    {
+        "nombre": "Santiago Ramos Mingo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.11.2001"
+    },
+    {
+        "nombre": "David Reano",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.03.1984"
+    },
+    {
+        "nombre": "Gerardo Reinoso",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.05.1965"
+    },
+    {
+        "nombre": "Ricardo Rentera",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.01.1966"
+    },
+    {
+        "nombre": "Mateo Retegui",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.04.1999"
+    },
+    {
+        "nombre": "Emiliano Rey",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.01.1975"
+    },
+    {
+        "nombre": "Emanuel Reynoso",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.11.1995"
+    },
+    {
+        "nombre": "Claudio Riaño",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.08.1988"
+    },
+    {
+        "nombre": "Jorge Ribolzi",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.01.1953"
+    },
+    {
+        "nombre": "Jorge Rinaldi",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.03.1963"
+    },
+    {
+        "nombre": "Cristian Ríos",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.07.1980"
+    },
+    {
+        "nombre": "Juan Román Riquelme",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.06.1978"
+    },
+    {
+        "nombre": "Diego Rivero",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.08.1981"
+    },
+    {
+        "nombre": "Simón Rivero",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.04.2003"
+    },
+    {
+        "nombre": "Juan Rocha",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.03.1954"
+    },
+    {
+        "nombre": "Rodrigues Neto",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.12.1949"
+    },
+    {
+        "nombre": "Carlos Rodríguez",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.03.1952"
+    },
+    {
+        "nombre": "Claudio Rodriguez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1960"
+    },
+    {
+        "nombre": "Clemente Rodríguez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.07.1981"
+    },
+    {
+        "nombre": "Gabriel Rodríguez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.02.1989"
+    },
+    {
+        "nombre": "Ribair Rodríguez",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.10.1987"
+    },
+    {
+        "nombre": "Manuel Roffo",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.04.2000"
+    },
+    {
+        "nombre": "Roberto Rogel",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.07.1944"
+    },
+    {
+        "nombre": "Ángel Rojas",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.08.1944"
+    },
+    {
+        "nombre": "Marcos Rojo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.03.1990"
+    },
+    {
+        "nombre": "Enzo Roldán",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.12.2000"
+    },
+    {
+        "nombre": "Alexis Rolín",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.02.1989"
+    },
+    {
+        "nombre": "Esteban Rolón",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.1995"
+    },
+    {
+        "nombre": "Óscar Romero",
+        "pais": "Paraguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.07.1992"
+    },
+    {
+        "nombre": "Sergio Romero",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.02.1987"
+    },
+    {
+        "nombre": "Yamil Romero",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.07.1995"
+    },
+    {
+        "nombre": "Facundo Roncaglia",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.02.1987"
+    },
+    {
+        "nombre": "Javier Rosada",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.04.1978"
+    },
+    {
+        "nombre": "Agustín Rossi",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.08.1995"
+    },
+    {
+        "nombre": "Gastón Rossi",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.01.1990"
+    },
+    {
+        "nombre": "Silvio Rudman",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.05.1969"
+    },
+    {
+        "nombre": "Óscar Ruggeri",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.01.1962"
+    },
+    {
+        "nombre": "Emmanuel Ruiz",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.07.1978"
+    },
+    {
+        "nombre": "Enzo Ruiz",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.06.1989"
+    },
+    {
+        "nombre": "Sebastián Rusculleda",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.04.1985"
+    },
+    {
+        "nombre": "Pedro Sá",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.10.1945"
+    },
+    {
+        "nombre": "Julio Saldaña",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.11.1967"
+    },
+    {
+        "nombre": "José Saldaño",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.10.1948"
+    },
+    {
+        "nombre": "Carlos Salguero",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.06.1955"
+    },
+    {
+        "nombre": "Carlos Salinas",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.09.1955"
+    },
+    {
+        "nombre": "Eduardo Salvio",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.07.1990"
+    },
+    {
+        "nombre": "Walter Samuel",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.03.1978"
+    },
+    {
+        "nombre": "Adrián Sánchez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.05.1999"
+    },
+    {
+        "nombre": "Juan Amador Sánchez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.01.1961"
+    },
+    {
+        "nombre": "Rubén Sánchez",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.07.1945"
+    },
+    {
+        "nombre": "Sergio Sánchez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.02.1973"
+    },
+    {
+        "nombre": "Sergio Sánchez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.01.1961"
+    },
+    {
+        "nombre": "Juan Sánchez Miño",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.01.1990"
+    },
+    {
+        "nombre": "Agustín Sández",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.01.2001"
+    },
+    {
+        "nombre": "Gastón Sangoy",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.10.1984"
+    },
+    {
+        "nombre": "Osvaldo Santos",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.06.1953"
+    },
+    {
+        "nombre": "Guillermo Sara",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.09.1987"
+    },
+    {
+        "nombre": "Jabes Saralegui",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.01.2003"
+    },
+    {
+        "nombre": "Sergio Saturno",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.09.1960"
+    },
+    {
+        "nombre": "Gastón Sauro",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.02.1990"
+    },
+    {
+        "nombre": "Facundo Sava",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.07.1974"
+    },
+    {
+        "nombre": "Raúl Savoy",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.11.1940"
+    },
+    {
+        "nombre": "Claudio Scalise",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.11.1962"
+    },
+    {
+        "nombre": "Maximiliano Scapparoni",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.01.1989"
+    },
+    {
+        "nombre": "Óscar Scarione",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.07.1985"
+    },
+    {
+        "nombre": "Rolando Schiavi",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.01.1973"
+    },
+    {
+        "nombre": "Federico Scoppa",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.07.1987"
+    },
+    {
+        "nombre": "Héctor Scotta",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.09.1950"
+    },
+    {
+        "nombre": "Darío Scotto",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.09.1969"
+    },
+    {
+        "nombre": "Mauricio Serna",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.01.1968"
+    },
+    {
+        "nombre": "Jonathan Silva",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.06.1994"
+    },
+    {
+        "nombre": "Santiago Silva",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.12.1980"
+    },
+    {
+        "nombre": "Pedro Silva Torrejón",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.01.1997"
+    },
+    {
+        "nombre": "Matías Silvestre",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.09.1984"
+    },
+    {
+        "nombre": "Juan Simón",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.03.1960"
+    },
+    {
+        "nombre": "Jorge Sofraniciuk",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.01.1943"
+    },
+    {
+        "nombre": "Nolberto Solano",
+        "pais": "Perú",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.12.1974"
+    },
+    {
+        "nombre": "Franco Soldano",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.09.1994"
+    },
+    {
+        "nombre": "Nazareno Solís",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.04.1994"
+    },
+    {
+        "nombre": "Leandro Somoza",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.01.1981"
+    },
+    {
+        "nombre": "Diego Soñora",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.07.1969"
+    },
+    {
+        "nombre": "Franco Sosa",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.04.1981"
+    },
+    {
+        "nombre": "Roberto Sosa",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.01.1975"
+    },
+    {
+        "nombre": "Sebastián Sosa",
+        "pais": "Uruguay",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.08.1986"
+    },
+    {
+        "nombre": "Juan Sotelo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.03.1956"
+    },
+    {
+        "nombre": "Carlos Squeo",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.06.1948"
+    },
+    {
+        "nombre": "Ivar Stafuza",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.11.1961"
+    },
+    {
+        "nombre": "José Suárez",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.05.1951"
+    },
+    {
+        "nombre": "Leonardo Suárez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.03.1996"
+    },
+    {
+        "nombre": "Rubén Suñé",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.03.1947"
+    },
+    {
+        "nombre": "Vicente Taborda",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.06.2001"
+    },
+    {
+        "nombre": "Naohiro Takahara",
+        "pais": "Japón",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.06.1979"
+    },
+    {
+        "nombre": "Carlos Tapia",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.08.1962"
+    },
+    {
+        "nombre": "Aníbal Tarabini",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.08.1941"
+    },
+    {
+        "nombre": "Alberto Tarantini",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.12.1955"
+    },
+    {
+        "nombre": "Richard Tavares",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.05.1964"
+    },
+    {
+        "nombre": "Alphonse Tchami",
+        "pais": "Camerún",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.09.1971"
+    },
+    {
+        "nombre": "Marcelo Tejera",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.08.1973"
+    },
+    {
+        "nombre": "José Tesare",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.06.1954"
+    },
+    {
+        "nombre": "Carlos Tévez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.02.1984"
+    },
+    {
+        "nombre": "Daniel Tilger",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.08.1970"
+    },
+    {
+        "nombre": "Omar Tobio",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.10.1989"
+    },
+    {
+        "nombre": "Julio Toresani",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.12.1967"
+    },
+    {
+        "nombre": "Gustavo Torres",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.02.1965"
+    },
+    {
+        "nombre": "Mariano Torres",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.05.1987"
+    },
+    {
+        "nombre": "Marco Torsiglieri",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.01.1988"
+    },
+    {
+        "nombre": "Cristian Traverso",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.04.1972"
+    },
+    {
+        "nombre": "Óscar Trejo",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.04.1988"
+    },
+    {
+        "nombre": "John Tréllez",
+        "pais": "Colombia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.04.1968"
+    },
+    {
+        "nombre": "Emanuel Trípodi",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.08.1981"
+    },
+    {
+        "nombre": "Mariano Tripodi",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.07.1987"
+    },
+    {
+        "nombre": "Marcelo Trobbiani",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.02.1955"
+    },
+    {
+        "nombre": "Pablo Trobbiani",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.12.1976"
+    },
+    {
+        "nombre": "Oscar Trossero",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.09.1953"
+    },
+    {
+        "nombre": "Bruno Urribarri",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.11.1986"
+    },
+    {
+        "nombre": "Óscar Ustari",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.07.1986"
+    },
+    {
+        "nombre": "Guido Vadalá",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.02.1997"
+    },
+    {
+        "nombre": "Bruno Valdez",
+        "pais": "Paraguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.10.1992"
+    },
+    {
+        "nombre": "Nicolás Valentini",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.04.2001"
+    },
+    {
+        "nombre": "Alan Varela",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.07.2001"
+    },
+    {
+        "nombre": "Fabián Vargas",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.04.1980"
+    },
+    {
+        "nombre": "Jorge Vázquez",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.02.1956"
+    },
+    {
+        "nombre": "Luis Vázquez",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.04.2001"
+    },
+    {
+        "nombre": "Gabriel Vega",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.04.2002"
+    },
+    {
+        "nombre": "Carlos Veglio",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.08.1946"
+    },
+    {
+        "nombre": "Pedro Velurtas",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.08.2001"
+    },
+    {
+        "nombre": "Santiago Vergini",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.08.1988"
+    },
+    {
+        "nombre": "Juan Sebastián Verón",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1975"
+    },
+    {
+        "nombre": "Leonardo Verón",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.01.1982"
+    },
+    {
+        "nombre": "Lucas Viatri",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.03.1987"
+    },
+    {
+        "nombre": "Manuel Vicentini",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.08.1990"
+    },
+    {
+        "nombre": "Sebastián Vidal",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.04.1989"
+    },
+    {
+        "nombre": "Enrique Vidallé",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.05.1952"
+    },
+    {
+        "nombre": "Milton Viera",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.05.1946"
+    },
+    {
+        "nombre": "Hernán Vigna",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.04.1977"
+    },
+    {
+        "nombre": "Oscar Vijande",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.02.1958"
+    },
+    {
+        "nombre": "Federico Vilar",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.05.1977"
+    },
+    {
+        "nombre": "Sebastián Villa",
+        "pais": "Colombia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.05.1996"
+    },
+    {
+        "nombre": "Santiago Villafañe",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.05.1988"
+    },
+    {
+        "nombre": "Aldo Villagra",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.11.1944"
+    },
+    {
+        "nombre": "Javier Villarreal",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.03.1979"
+    },
+    {
+        "nombre": "José Luis Villarreal",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.03.1966"
+    },
+    {
+        "nombre": "Nelson Vivas",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.10.1969"
+    },
+    {
+        "nombre": "Róbert Waltner",
+        "pais": "Hungría",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.09.1977"
+    },
+    {
+        "nombre": "Marcelo Weigandt",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.01.2000"
+    },
+    {
+        "nombre": "Axel Werner",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.02.1996"
+    },
+    {
+        "nombre": "Mikael Yourassowsky",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.02.1983"
+    },
+    {
+        "nombre": "Claudio Zacarías",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.07.1964"
+    },
+    {
+        "nombre": "Maximiliano Zalazar",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.03.2001"
+    },
+    {
+        "nombre": "Carlos Zambrano",
+        "pais": "Perú",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.07.1989"
+    },
+    {
+        "nombre": "Mario Zanabria",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.10.1948"
+    },
+    {
+        "nombre": "Matías Zaragoza",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.09.1995"
+    },
+    {
+        "nombre": "Mauro Zárate",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.03.1987"
+    },
+    {
+        "nombre": "Nahuel Zárate",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.01.1993"
+    },
+    {
+        "nombre": "Hugo Zarich",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.03.1940"
+    },
+    {
+        "nombre": "Exequiel Zeballos",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.04.2002"
+    },
+    {
+        "nombre": "Fernando Zuqui",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.11.1991"
+    }
+]

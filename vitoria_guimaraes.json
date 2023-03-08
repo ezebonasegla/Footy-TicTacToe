@@ -1,0 +1,3806 @@
+[
+    {
+        "nombre": "Faouzi Abdelghani",
+        "pais": "Marruecos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.07.1985"
+    },
+    {
+        "nombre": "Abel Ferreira",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.12.1978"
+    },
+    {
+        "nombre": "Abel Miglietti",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.1946"
+    },
+    {
+        "nombre": "Elias Abouchabaka",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.03.2000"
+    },
+    {
+        "nombre": "Abreu",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.11.1954"
+    },
+    {
+        "nombre": "Adão",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.04.1960"
+    },
+    {
+        "nombre": "David Addy",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.02.1990"
+    },
+    {
+        "nombre": "Adelino",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.01.1973"
+    },
+    {
+        "nombre": "Ademir",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.02.1946"
+    },
+    {
+        "nombre": "Ademir Alcântara",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.12.1966"
+    },
+    {
+        "nombre": "Afonso Freitas",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.04.2000"
+    },
+    {
+        "nombre": "Afonso Martins",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.04.1973"
+    },
+    {
+        "nombre": "Agostinho",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.09.1975"
+    },
+    {
+        "nombre": "Mikel Agu",
+        "pais": "Nigeria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.05.1993"
+    },
+    {
+        "nombre": "Ali Al Musrati",
+        "pais": "Libia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.04.1996"
+    },
+    {
+        "nombre": "Alan",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.09.1979"
+    },
+    {
+        "nombre": "Alberto",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.06.1967"
+    },
+    {
+        "nombre": "Alberto Baio",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.09.2003"
+    },
+    {
+        "nombre": "Alex",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.08.1991"
+    },
+    {
+        "nombre": "Alex",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.09.1979"
+    },
+    {
+        "nombre": "Alexandre",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1975"
+    },
+    {
+        "nombre": "Alexandre Guedes",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.02.1994"
+    },
+    {
+        "nombre": "Alexandre Rotweiller",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.02.1979"
+    },
+    {
+        "nombre": "Alexandre Vitorino",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.12.1976"
+    },
+    {
+        "nombre": "Alexandro",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.10.1968"
+    },
+    {
+        "nombre": "Alfa Semedo",
+        "pais": "Guinea-Bissau",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.08.1997"
+    },
+    {
+        "nombre": "Alfredo Murça",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.01.1948"
+    },
+    {
+        "nombre": "Alisson Safira",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.03.1995"
+    },
+    {
+        "nombre": "Jonatan Álvez",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.05.1988"
+    },
+    {
+        "nombre": "Amândio Barreiras",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.02.1952"
+    },
+    {
+        "nombre": "Joseph Amoah",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.06.1994"
+    },
+    {
+        "nombre": "Amorim",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.07.1992"
+    },
+    {
+        "nombre": "Anderson Costa",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.03.1984"
+    },
+    {
+        "nombre": "Anderson Mineiro",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.04.1986"
+    },
+    {
+        "nombre": "Anderson Silva",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.11.1997"
+    },
+    {
+        "nombre": "André Almeida",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.05.2000"
+    },
+    {
+        "nombre": "André Amaro",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.08.2002"
+    },
+    {
+        "nombre": "André André",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.08.1989"
+    },
+    {
+        "nombre": "André Macanga",
+        "pais": "Angola",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.05.1978"
+    },
+    {
+        "nombre": "André Pereira",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.05.1995"
+    },
+    {
+        "nombre": "André Santos",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.03.1989"
+    },
+    {
+        "nombre": "André Silva",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.06.1997"
+    },
+    {
+        "nombre": "Andrezinho",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.10.1981"
+    },
+    {
+        "nombre": "Henry Antchouet",
+        "pais": "Gabón",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.08.1979"
+    },
+    {
+        "nombre": "Antoñín",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.04.2000"
+    },
+    {
+        "nombre": "António Carvalho",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.12.1960"
+    },
+    {
+        "nombre": "Areias",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.11.1993"
+    },
+    {
+        "nombre": "Arley Álvares",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.06.1972"
+    },
+    {
+        "nombre": "Armando Silva",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.04.1975"
+    },
+    {
+        "nombre": "Gregory Arnolin",
+        "pais": "Martinica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.11.1980"
+    },
+    {
+        "nombre": "Alvin Arrondel",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.11.1993"
+    },
+    {
+        "nombre": "Artur",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.10.1943"
+    },
+    {
+        "nombre": "Artur Jorge",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.12.1970"
+    },
+    {
+        "nombre": "Patrick Asselman",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.10.1968"
+    },
+    {
+        "nombre": "Assis",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.10.1989"
+    },
+    {
+        "nombre": "Auri",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.11.1973"
+    },
+    {
+        "nombre": "Abdoulaye Ba",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.01.1991"
+    },
+    {
+        "nombre": "Bacari",
+        "pais": "Guinea-Bissau",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.08.1983"
+    },
+    {
+        "nombre": "Jason Bahamboula",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.06.2001"
+    },
+    {
+        "nombre": "Benjámin Balázs",
+        "pais": "Hungría",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.04.1990"
+    },
+    {
+        "nombre": "Amido Baldé",
+        "pais": "Guinea-Bissau",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.05.1991"
+    },
+    {
+        "nombre": "Ibrahima Bamba",
+        "pais": "Costa de Marfil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.04.2002"
+    },
+    {
+        "nombre": "Siaka Bamba",
+        "pais": "Costa de Marfil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.08.1989"
+    },
+    {
+        "nombre": "Jean Pierre Barrientos",
+        "pais": "Uruguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.09.1990"
+    },
+    {
+        "nombre": "Barrinha",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.04.1956"
+    },
+    {
+        "nombre": "Basílio",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.05.1966"
+    },
+    {
+        "nombre": "Basílio Almeida",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.08.1971"
+    },
+    {
+        "nombre": "Bebé",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.07.1990"
+    },
+    {
+        "nombre": "Selim Benachour",
+        "pais": "Túnez",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.09.1981"
+    },
+    {
+        "nombre": "Antal Bencze",
+        "pais": "Hungría",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.02.2002"
+    },
+    {
+        "nombre": "Bené",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.11.1962"
+    },
+    {
+        "nombre": "Bernardo da Velha",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.01.1942"
+    },
+    {
+        "nombre": "Bertinho",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.11.1977"
+    },
+    {
+        "nombre": "Bessa",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.12.1976"
+    },
+    {
+        "nombre": "Best",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "24.12.1968"
+    },
+    {
+        "nombre": "Yann Bisseck",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.11.2000"
+    },
+    {
+        "nombre": "Ton Blanker",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.09.1960"
+    },
+    {
+        "nombre": "Bobó",
+        "pais": "Guinea-Bissau",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1963"
+    },
+    {
+        "nombre": "Valeriy Bondarenko",
+        "pais": "Ucrania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.02.1994"
+    },
+    {
+        "nombre": "Toni Borevković",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1997"
+    },
+    {
+        "nombre": "Tyler Boyd",
+        "pais": "Estados Unidos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.12.1994"
+    },
+    {
+        "nombre": "Brandão",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.05.1970"
+    },
+    {
+        "nombre": "Brassard",
+        "pais": "Mozambique",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.04.1972"
+    },
+    {
+        "nombre": "Breno",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.03.1995"
+    },
+    {
+        "nombre": "Brito",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.01.1952"
+    },
+    {
+        "nombre": "Bruno Alves",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.06.1990"
+    },
+    {
+        "nombre": "Bruno Alves",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.11.1981"
+    },
+    {
+        "nombre": "Bruno Duarte",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.03.1996"
+    },
+    {
+        "nombre": "Bruno Gaspar",
+        "pais": "Angola",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.04.1993"
+    },
+    {
+        "nombre": "Bruno Mendes",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.08.1994"
+    },
+    {
+        "nombre": "Bruno Pereirinha",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.03.1988"
+    },
+    {
+        "nombre": "Bruno Sousa",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.02.1982"
+    },
+    {
+        "nombre": "Bruno Teles",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.05.1986"
+    },
+    {
+        "nombre": "Bruno Varela",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "04.11.1994"
+    },
+    {
+        "nombre": "Caetano",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.07.1966"
+    },
+    {
+        "nombre": "Cafú",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.02.1993"
+    },
+    {
+        "nombre": "Caio Júnior",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.03.1965"
+    },
+    {
+        "nombre": "Camilo",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.02.1965"
+    },
+    {
+        "nombre": "Cãndido",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.02.1971"
+    },
+    {
+        "nombre": "Capucho",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.02.1972"
+    },
+    {
+        "nombre": "Carlitos",
+        "pais": "Angola",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.01.1969"
+    },
+    {
+        "nombre": "Carlitos",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.03.1977"
+    },
+    {
+        "nombre": "Carlos",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.11.1966"
+    },
+    {
+        "nombre": "Carlos André",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.11.1971"
+    },
+    {
+        "nombre": "Carlos Carneiro",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.12.1974"
+    },
+    {
+        "nombre": "Carlos Manuel",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.05.1940"
+    },
+    {
+        "nombre": "Carlos Pérez",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.11.1971"
+    },
+    {
+        "nombre": "Jonas Carls",
+        "pais": "Alemania",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.03.1997"
+    },
+    {
+        "nombre": "Geny Catamo",
+        "pais": "Mozambique",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.01.2001"
+    },
+    {
+        "nombre": "Guillermo Celis",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.05.1993"
+    },
+    {
+        "nombre": "Celton Biai",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.08.2000"
+    },
+    {
+        "nombre": "Cerqueira",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.01.1961"
+    },
+    {
+        "nombre": "César Peixoto",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.05.1980"
+    },
+    {
+        "nombre": "César Vaz",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.07.1968"
+    },
+    {
+        "nombre": "Crislain Chauray",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.05.1972"
+    },
+    {
+        "nombre": "Khalil Chemmam",
+        "pais": "Túnez",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.07.1987"
+    },
+    {
+        "nombre": "Chico Ramos",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.04.1995"
+    },
+    {
+        "nombre": "Chiquinho",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.04.1963"
+    },
+    {
+        "nombre": "Marco Ciardi",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.07.1969"
+    },
+    {
+        "nombre": "Cícero",
+        "pais": "Guinea-Bissau",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.05.1986"
+    },
+    {
+        "nombre": "Isaac Cissé",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.02.1994"
+    },
+    {
+        "nombre": "Cláudio Ramos",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.11.1991"
+    },
+    {
+        "nombre": "Clayton",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.07.1975"
+    },
+    {
+        "nombre": "Cléber",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.04.1974"
+    },
+    {
+        "nombre": "Cléber Monteiro",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.05.1980"
+    },
+    {
+        "nombre": "Edwin Congo",
+        "pais": "Colombia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.10.1976"
+    },
+    {
+        "nombre": "Costa",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.11.1973"
+    },
+    {
+        "nombre": "Costeado",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.01.1959"
+    },
+    {
+        "nombre": "Costeado",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.05.1941"
+    },
+    {
+        "nombre": "Custódio",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.05.1983"
+    },
+    {
+        "nombre": "Custódio Pinto",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1942"
+    },
+    {
+        "nombre": "Da Silva",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.10.1955"
+    },
+    {
+        "nombre": "Dalbert",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.09.1993"
+    },
+    {
+        "nombre": "Dani Silva",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.04.2000"
+    },
+    {
+        "nombre": "Daniel",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1972"
+    },
+    {
+        "nombre": "Danilo Rocha",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.02.1981"
+    },
+    {
+        "nombre": "Dário",
+        "pais": "Mozambique",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.02.1977"
+    },
+    {
+        "nombre": "David Caiado",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.05.1987"
+    },
+    {
+        "nombre": "David Luis",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.06.1995"
+    },
+    {
+        "nombre": "David Nascimento",
+        "pais": "Cabo Verde",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.03.1966"
+    },
+    {
+        "nombre": "Davidson",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.03.1991"
+    },
+    {
+        "nombre": "Décio Antônio",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.06.1961"
+    },
+    {
+        "nombre": "Matej Delač",
+        "pais": "Croacia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.08.1992"
+    },
+    {
+        "nombre": "Dénis Duarte",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.05.1994"
+    },
+    {
+        "nombre": "Yves Desmarets",
+        "pais": "Haití",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.07.1979"
+    },
+    {
+        "nombre": "Didi",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.02.1994"
+    },
+    {
+        "nombre": "Dimas",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.02.1969"
+    },
+    {
+        "nombre": "Dinis",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.01.1990"
+    },
+    {
+        "nombre": "Dinis",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.12.1966"
+    },
+    {
+        "nombre": "Diogo Ferreira",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.09.2001"
+    },
+    {
+        "nombre": "Diogo Lamelas",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.1990"
+    },
+    {
+        "nombre": "Dodô",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.11.1998"
+    },
+    {
+        "nombre": "Haashim Domingo",
+        "pais": "Sudáfrica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.08.1995"
+    },
+    {
+        "nombre": "Douglas",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.01.1986"
+    },
+    {
+        "nombre": "Douglas Jesus",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "09.03.1983"
+    },
+    {
+        "nombre": "Attila Dragóner",
+        "pais": "Hungría",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.11.1974"
+    },
+    {
+        "nombre": "Duda",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.06.1980"
+    },
+    {
+        "nombre": "Ivan Đurđjević",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.02.1977"
+    },
+    {
+        "nombre": "Božidar Đurković",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.01.1972"
+    },
+    {
+        "nombre": "Érnest Ebongué",
+        "pais": "Camerún",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.05.1962"
+    },
+    {
+        "nombre": "Edgar",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.01.1987"
+    },
+    {
+        "nombre": "Edgar Marcelino",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.09.1984"
+    },
+    {
+        "nombre": "Edinho",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.02.1967"
+    },
+    {
+        "nombre": "Edmilson",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.05.1968"
+    },
+    {
+        "nombre": "Ednilson",
+        "pais": "Guinea-Bissau",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.09.1982"
+    },
+    {
+        "nombre": "Edson",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.06.1983"
+    },
+    {
+        "nombre": "Marcus Edwards",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.12.1998"
+    },
+    {
+        "nombre": "Issam El Adoua",
+        "pais": "Marruecos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.12.1986"
+    },
+    {
+        "nombre": "Eldon",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.03.1958"
+    },
+    {
+        "nombre": "Elpidio Silva",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.07.1975"
+    },
+    {
+        "nombre": "Emerson Almeida",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.09.1972"
+    },
+    {
+        "nombre": "Ernesto",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.09.1946"
+    },
+    {
+        "nombre": "Oscar Estupiñán",
+        "pais": "Colombia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.09.1996"
+    },
+    {
+        "nombre": "Evaldo",
+        "pais": "Guinea-Bissau",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.07.1972"
+    },
+    {
+        "nombre": "Evando",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.03.1977"
+    },
+    {
+        "nombre": "Fábio",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.10.1980"
+    },
+    {
+        "nombre": "Fábio Felício",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.05.1982"
+    },
+    {
+        "nombre": "Fábio Fortes",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.03.1992"
+    },
+    {
+        "nombre": "Fábio Júnior",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.11.1977"
+    },
+    {
+        "nombre": "Fábio Sturgeon",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.02.1994"
+    },
+    {
+        "nombre": "Fabricio Ceará",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.05.1978"
+    },
+    {
+        "nombre": "Fajardo",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.10.1978"
+    },
+    {
+        "nombre": "Fangueiro",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.12.1976"
+    },
+    {
+        "nombre": "Felipe Conceição",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.07.1979"
+    },
+    {
+        "nombre": "Fernando Festas",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.06.1956"
+    },
+    {
+        "nombre": "Fernando Meira",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.06.1978"
+    },
+    {
+        "nombre": "Fernando Russi",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.04.1989"
+    },
+    {
+        "nombre": "Ferreira",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.02.1979"
+    },
+    {
+        "nombre": "Ferreira da Costa",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.11.1953"
+    },
+    {
+        "nombre": "Filipe Ramos",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.04.1970"
+    },
+    {
+        "nombre": "Flamarion",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.10.1976"
+    },
+    {
+        "nombre": "Flávio",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.05.1958"
+    },
+    {
+        "nombre": "Flávio Meireles",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.10.1976"
+    },
+    {
+        "nombre": "Fonseca",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.01.1965"
+    },
+    {
+        "nombre": "Fonseca",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.09.1956"
+    },
+    {
+        "nombre": "Lyle Foster",
+        "pais": "Sudáfrica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.09.2000"
+    },
+    {
+        "nombre": "Francis",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.04.1990"
+    },
+    {
+        "nombre": "Francisco Rodrigues",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.01.1948"
+    },
+    {
+        "nombre": "Franco",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.04.1974"
+    },
+    {
+        "nombre": "Frederico",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.04.1957"
+    },
+    {
+        "nombre": "Frederico Venâncio",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.02.1993"
+    },
+    {
+        "nombre": "Freire",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.08.1989"
+    },
+    {
+        "nombre": "Gallardo",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.01.1980"
+    },
+    {
+        "nombre": "Víctor García",
+        "pais": "Venezuela",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.06.1994"
+    },
+    {
+        "nombre": "Geani",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.02.1973"
+    },
+    {
+        "nombre": "Georgemy",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.08.1995"
+    },
+    {
+        "nombre": "Geraldo",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.02.1974"
+    },
+    {
+        "nombre": "Germano",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.11.1965"
+    },
+    {
+        "nombre": "Geromel",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.09.1985"
+    },
+    {
+        "nombre": "Kamel Ghilas",
+        "pais": "Argelia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1984"
+    },
+    {
+        "nombre": "Gilmar",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.04.1967"
+    },
+    {
+        "nombre": "Gomes",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.1971"
+    },
+    {
+        "nombre": "Gomes",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.09.1941"
+    },
+    {
+        "nombre": "Gonçalo",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.12.1990"
+    },
+    {
+        "nombre": "Gonçalo Nogueira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.12.2003"
+    },
+    {
+        "nombre": "Gonçalo Pinto",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.04.2003"
+    },
+    {
+        "nombre": "Prince Gouano",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.12.1993"
+    },
+    {
+        "nombre": "Gregório Freixo",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.09.1952"
+    },
+    {
+        "nombre": "Guga",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.03.1977"
+    },
+    {
+        "nombre": "Gui",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.05.2006"
+    },
+    {
+        "nombre": "Gui",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.08.1992"
+    },
+    {
+        "nombre": "Guilherme Guedes",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.04.2002"
+    },
+    {
+        "nombre": "Gustavo Araújo",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.03.1984"
+    },
+    {
+        "nombre": "Florent Hanin",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.02.1990"
+    },
+    {
+        "nombre": "Heitor",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.02.1964"
+    },
+    {
+        "nombre": "Hélder Cabral",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.05.1984"
+    },
+    {
+        "nombre": "Hélder Ernesto",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.06.1951"
+    },
+    {
+        "nombre": "Hélder Ferreira",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.04.1997"
+    },
+    {
+        "nombre": "Hélder Sá",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.11.2002"
+    },
+    {
+        "nombre": "Héldon",
+        "pais": "Cabo Verde",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.11.1988"
+    },
+    {
+        "nombre": "Helinho",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.07.1995"
+    },
+    {
+        "nombre": "Henrique",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.03.1980"
+    },
+    {
+        "nombre": "Henrique Dourado",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.09.1989"
+    },
+    {
+        "nombre": "Herculano",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.09.1941"
+    },
+    {
+        "nombre": "Herculano Nabian",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.01.2004"
+    },
+    {
+        "nombre": "Hernâni",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.08.1991"
+    },
+    {
+        "nombre": "Taoufik Hicheri",
+        "pais": "Túnez",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.01.1965"
+    },
+    {
+        "nombre": "Hilário",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.10.1957"
+    },
+    {
+        "nombre": "Kamani Hill",
+        "pais": "Estados Unidos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.12.1985"
+    },
+    {
+        "nombre": "Noah Holm",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.05.2001"
+    },
+    {
+        "nombre": "Horácio Gonçalves",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.12.1962"
+    },
+    {
+        "nombre": "Hugo Cunha",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.02.1977"
+    },
+    {
+        "nombre": "Paolo Hurtado",
+        "pais": "Perú",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.07.1990"
+    },
+    {
+        "nombre": "Índio",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.12.1990"
+    },
+    {
+        "nombre": "Iuri Tavares",
+        "pais": "Cabo Verde",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.03.2001"
+    },
+    {
+        "nombre": "Ivo Rodrigues",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.03.1995"
+    },
+    {
+        "nombre": "Jaílton",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.04.1982"
+    },
+    {
+        "nombre": "Jaime Alves",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.03.1965"
+    },
+    {
+        "nombre": "Jaime Júnior",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.04.1979"
+    },
+    {
+        "nombre": "Jairson",
+        "pais": "Santo Tomé y Príncipe",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.02.1977"
+    },
+    {
+        "nombre": "Nicolas Janvier",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.08.1998"
+    },
+    {
+        "nombre": "Jean Coral",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.01.1988"
+    },
+    {
+        "nombre": "Jefferson Encada",
+        "pais": "Guinea-Bissau",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.04.1998"
+    },
+    {
+        "nombre": "Jéfferson Feijão",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.08.1978"
+    },
+    {
+        "nombre": "Jesus",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.02.1955"
+    },
+    {
+        "nombre": "Jhonatan",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.05.1991"
+    },
+    {
+        "nombre": "João Afonso",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.05.1990"
+    },
+    {
+        "nombre": "João Alves",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.08.1980"
+    },
+    {
+        "nombre": "João Aurélio",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.08.1988"
+    },
+    {
+        "nombre": "João Baptista",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.12.1962"
+    },
+    {
+        "nombre": "João Carlos Teixeira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.01.1993"
+    },
+    {
+        "nombre": "João Correia",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.09.1996"
+    },
+    {
+        "nombre": "João de Deus",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.01.1967"
+    },
+    {
+        "nombre": "João Ferreira",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.03.2001"
+    },
+    {
+        "nombre": "João Gonçalves",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.01.1988"
+    },
+    {
+        "nombre": "João Gouveia",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.11.1959"
+    },
+    {
+        "nombre": "João Leite",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.10.1955"
+    },
+    {
+        "nombre": "João Oliveira Pinto",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.08.1971"
+    },
+    {
+        "nombre": "João Paulo",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.06.1981"
+    },
+    {
+        "nombre": "João Pedro",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.03.1992"
+    },
+    {
+        "nombre": "João Pedro",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.04.1993"
+    },
+    {
+        "nombre": "João Pedro",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.11.1996"
+    },
+    {
+        "nombre": "João Pimenta",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.03.1976"
+    },
+    {
+        "nombre": "João Ribeiro",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.08.1987"
+    },
+    {
+        "nombre": "João Ricciulli",
+        "pais": "Guinea-Bissau",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.10.1999"
+    },
+    {
+        "nombre": "João Teixeira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.02.1994"
+    },
+    {
+        "nombre": "João Tomás",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.05.1975"
+    },
+    {
+        "nombre": "João Vigário",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.11.1995"
+    },
+    {
+        "nombre": "Joaquim Murça",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.10.1954"
+    },
+    {
+        "nombre": "Joaquim Rocha",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.03.1951"
+    },
+    {
+        "nombre": "Ola John",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.05.1992"
+    },
+    {
+        "nombre": "Mikey Johnston",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.04.1999"
+    },
+    {
+        "nombre": "Jorge Duarte",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.12.1974"
+    },
+    {
+        "nombre": "Jorge Fernandes",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.04.1997"
+    },
+    {
+        "nombre": "Jorge Gonçalves",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.09.1948"
+    },
+    {
+        "nombre": "Jorge Gonçalves",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.10.1983"
+    },
+    {
+        "nombre": "Jorge Pinto",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.03.1959"
+    },
+    {
+        "nombre": "Jorge Ribeiro",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.11.1981"
+    },
+    {
+        "nombre": "Jorge Sampaio",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.05.1998"
+    },
+    {
+        "nombre": "José Alberto Costa",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.10.1953"
+    },
+    {
+        "nombre": "José Augusto",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.10.1960"
+    },
+    {
+        "nombre": "José Carlos",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.08.1966"
+    },
+    {
+        "nombre": "José Lima",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.10.1977"
+    },
+    {
+        "nombre": "José Miguel",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.01.1971"
+    },
+    {
+        "nombre": "José Morais",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.02.1942"
+    },
+    {
+        "nombre": "José Rego",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.08.1978"
+    },
+    {
+        "nombre": "José Ribeiro",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.11.1957"
+    },
+    {
+        "nombre": "José Romão",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.04.1954"
+    },
+    {
+        "nombre": "José Soeiro",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.04.1966"
+    },
+    {
+        "nombre": "Josué Sá",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.06.1992"
+    },
+    {
+        "nombre": "Jota",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.07.2002"
+    },
+    {
+        "nombre": "Jota Silva",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.08.1999"
+    },
+    {
+        "nombre": "Jubal Júnior",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.08.1993"
+    },
+    {
+        "nombre": "Júlio",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.03.1953"
+    },
+    {
+        "nombre": "Káká",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.10.1992"
+    },
+    {
+        "nombre": "Kanú",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.03.1992"
+    },
+    {
+        "nombre": "Kanu",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.05.1984"
+    },
+    {
+        "nombre": "Kabué Kasongo",
+        "pais": "R.D. Congo",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.07.1970"
+    },
+    {
+        "nombre": "Kiki",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.10.1961"
+    },
+    {
+        "nombre": "Kiko Rodrigues",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.02.1997"
+    },
+    {
+        "nombre": "Jung-min Kim",
+        "pais": "Corea del Sur",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.11.1999"
+    },
+    {
+        "nombre": "Kipulu Kioma",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.05.1965"
+    },
+    {
+        "nombre": "Kipulo",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.10.1981"
+    },
+    {
+        "nombre": "Filip Knežević",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.11.1991"
+    },
+    {
+        "nombre": "Ghislain Konan",
+        "pais": "Costa de Marfil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.12.1995"
+    },
+    {
+        "nombre": "Dane Kuprešanin",
+        "pais": "Bosnia y Herzegovina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.11.1966"
+    },
+    {
+        "nombre": "Laelson",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.10.1975"
+    },
+    {
+        "nombre": "Milan Lalkovič",
+        "pais": "Eslovaquia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.12.1992"
+    },
+    {
+        "nombre": "Lama",
+        "pais": "Guinea-Bissau",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.12.1977"
+    },
+    {
+        "nombre": "Laureta",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.12.1961"
+    },
+    {
+        "nombre": "Lázaro",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.08.1947"
+    },
+    {
+        "nombre": "Braulio Leal",
+        "pais": "Chile",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.11.1981"
+    },
+    {
+        "nombre": "Leandro",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.01.1989"
+    },
+    {
+        "nombre": "Basaúla Lemba",
+        "pais": "R.D. Congo",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.03.1965"
+    },
+    {
+        "nombre": "Léo Bonatini",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.03.1994"
+    },
+    {
+        "nombre": "Leonel Olímpio",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.07.1982"
+    },
+    {
+        "nombre": "Leopoldo",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.11.1948"
+    },
+    {
+        "nombre": "Licá",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.09.1988"
+    },
+    {
+        "nombre": "Lima",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.10.1966"
+    },
+    {
+        "nombre": "Lionn",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.01.1989"
+    },
+    {
+        "nombre": "Lixa",
+        "pais": "Cabo Verde",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.01.1977"
+    },
+    {
+        "nombre": "Lopes",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.03.1966"
+    },
+    {
+        "nombre": "Lucas",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.06.1990"
+    },
+    {
+        "nombre": "Lucas Evangelista",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.02.1995"
+    },
+    {
+        "nombre": "Lucas Soares",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.05.1998"
+    },
+    {
+        "nombre": "Luciano Amaral",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.10.1982"
+    },
+    {
+        "nombre": "Luís Castro",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1961"
+    },
+    {
+        "nombre": "Luís Esteves",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.04.1998"
+    },
+    {
+        "nombre": "Luís Filipe",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.06.1979"
+    },
+    {
+        "nombre": "Luís Mário",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.11.1976"
+    },
+    {
+        "nombre": "Luís Rocha",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.06.1993"
+    },
+    {
+        "nombre": "Luizão",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.03.1971"
+    },
+    {
+        "nombre": "Nélson Luz",
+        "pais": "Angola",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.02.1998"
+    },
+    {
+        "nombre": "Emile M'Bouh",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.05.1966"
+    },
+    {
+        "nombre": "Moussa Maâzou",
+        "pais": "Níger",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.08.1988"
+    },
+    {
+        "nombre": "Darwin Machís",
+        "pais": "Venezuela",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.02.1993"
+    },
+    {
+        "nombre": "Jacob Maddox",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.11.1998"
+    },
+    {
+        "nombre": "Madureira",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.02.1965"
+    },
+    {
+        "nombre": "Maga",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.04.1999"
+    },
+    {
+        "nombre": "Phakamani Mahlambi",
+        "pais": "Sudáfrica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.09.1997"
+    },
+    {
+        "nombre": "Ariza Makukula",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.03.1981"
+    },
+    {
+        "nombre": "Chris Malonga",
+        "pais": "Congo",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.07.1987"
+    },
+    {
+        "nombre": "Manaca",
+        "pais": "Mozambique",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.09.1946"
+    },
+    {
+        "nombre": "Mané",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.05.1947"
+    },
+    {
+        "nombre": "Manoel",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.02.1978"
+    },
+    {
+        "nombre": "Manuel",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.10.1943"
+    },
+    {
+        "nombre": "Manuel José",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.02.1981"
+    },
+    {
+        "nombre": "Manuel Silva",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.06.2001"
+    },
+    {
+        "nombre": "Maranhão",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.01.1985"
+    },
+    {
+        "nombre": "Marcelo Toscano",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.05.1985"
+    },
+    {
+        "nombre": "Marcinho",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.11.1980"
+    },
+    {
+        "nombre": "Márcio Martins",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.04.1980"
+    },
+    {
+        "nombre": "Márcio Theodoro",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.02.1968"
+    },
+    {
+        "nombre": "Marco",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.08.1974"
+    },
+    {
+        "nombre": "Marco Ferreira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.03.1978"
+    },
+    {
+        "nombre": "Marco Freitas",
+        "pais": "Angola",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.08.1972"
+    },
+    {
+        "nombre": "Marco Matias",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.05.1989"
+    },
+    {
+        "nombre": "Marcos Valente",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.02.1994"
+    },
+    {
+        "nombre": "Moussa Marega",
+        "pais": "Malí",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.04.1991"
+    },
+    {
+        "nombre": "Mário Évora",
+        "pais": "Cabo Verde",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.01.1999"
+    },
+    {
+        "nombre": "Mário Sérgio",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.07.1981"
+    },
+    {
+        "nombre": "Marquinho",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.08.1986"
+    },
+    {
+        "nombre": "Mascarenhas",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.07.1998"
+    },
+    {
+        "nombre": "Mateus Gonçalves",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.09.1994"
+    },
+    {
+        "nombre": "Matheus Índio",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.08.1999"
+    },
+    {
+        "nombre": "Matias",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.03.1964"
+    },
+    {
+        "nombre": "Mattheus Oliveira",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.07.1994"
+    },
+    {
+        "nombre": "Maurílio",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.12.1969"
+    },
+    {
+        "nombre": "Nolan Mbemba",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.02.1995"
+    },
+    {
+        "nombre": "Medeiros",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.04.1977"
+    },
+    {
+        "nombre": "Jonathan Mejía",
+        "pais": "Honduras",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.01.1989"
+    },
+    {
+        "nombre": "Melo",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.09.1949"
+    },
+    {
+        "nombre": "David Mendieta Alfonso",
+        "pais": "Paraguay",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.05.1988"
+    },
+    {
+        "nombre": "Bernard Mensah",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.10.1994"
+    },
+    {
+        "nombre": "Gideon Mensah",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.07.1998"
+    },
+    {
+        "nombre": "Miguel",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.03.1974"
+    },
+    {
+        "nombre": "Miguel Luís",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.02.1999"
+    },
+    {
+        "nombre": "Miguel Magalhães",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.11.2002"
+    },
+    {
+        "nombre": "Miguel Marques",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.06.1963"
+    },
+    {
+        "nombre": "Miguel Oliveira",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.05.1994"
+    },
+    {
+        "nombre": "Miguel Silva",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.04.1995"
+    },
+    {
+        "nombre": "Milhazes",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1981"
+    },
+    {
+        "nombre": "Branko Milovanovic",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.01.1973"
+    },
+    {
+        "nombre": "Mirandinha",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.04.1974"
+    },
+    {
+        "nombre": "Emanuel Molina",
+        "pais": "Argentina",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.03.1987"
+    },
+    {
+        "nombre": "Jacques Momha",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.08.1982"
+    },
+    {
+        "nombre": "Santiago Montoya",
+        "pais": "Colombia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.09.1991"
+    },
+    {
+        "nombre": "Moreira de Sá",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.02.1966"
+    },
+    {
+        "nombre": "Moreno",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.08.1981"
+    },
+    {
+        "nombre": "Milan Mrdaković",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.05.1982"
+    },
+    {
+        "nombre": "Abdul Mumin",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.06.1998"
+    },
+    {
+        "nombre": "Jonathan Mutombo Mawesi",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.08.2002"
+    },
+    {
+        "nombre": "Mahamadou N'Diaye",
+        "pais": "Malí",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.07.1990"
+    },
+    {
+        "nombre": "Amily N'dinga",
+        "pais": "R.D. Congo",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.09.1966"
+    },
+    {
+        "nombre": "Monduone N'Kama",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.07.1960"
+    },
+    {
+        "nombre": "Éttienne N'Tsunda Mvumbi",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.11.1974"
+    },
+    {
+        "nombre": "Nandinho",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.03.1973"
+    },
+    {
+        "nombre": "Nando",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1963"
+    },
+    {
+        "nombre": "Nascimento",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.03.1960"
+    },
+    {
+        "nombre": "Neca",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.12.1979"
+    },
+    {
+        "nombre": "Jean-Renaud Nemouthé",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.06.1981"
+    },
+    {
+        "nombre": "Nenê",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.07.1956"
+    },
+    {
+        "nombre": "Neno",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.01.1962"
+    },
+    {
+        "nombre": "Nilson",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.12.1975"
+    },
+    {
+        "nombre": "Nivaldo",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.03.1960"
+    },
+    {
+        "nombre": "Nivaldo",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.08.1958"
+    },
+    {
+        "nombre": "Nuninho",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.02.1998"
+    },
+    {
+        "nombre": "Nuno Assis",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.11.1977"
+    },
+    {
+        "nombre": "Nuno Espírito Santo",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.01.1974"
+    },
+    {
+        "nombre": "Nuno Manuel",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.07.1972"
+    },
+    {
+        "nombre": "Nuno Mendes",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.04.1978"
+    },
+    {
+        "nombre": "Nuno Santos",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "09.07.1978"
+    },
+    {
+        "nombre": "Jose Obama",
+        "pais": "Camerún",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.09.1990"
+    },
+    {
+        "nombre": "Ryoya Ogawa",
+        "pais": "Japón",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.11.1996"
+    },
+    {
+        "nombre": "Sanibal Orahovac",
+        "pais": "Montenegro",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.12.1978"
+    },
+    {
+        "nombre": "Yordan Osorio",
+        "pais": "Venezuela",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.05.1994"
+    },
+    {
+        "nombre": "Alexander Östlund",
+        "pais": "Suecia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.11.1978"
+    },
+    {
+        "nombre": "Santiago Ostolaza",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.09.1987"
+    },
+    {
+        "nombre": "Osvaldinho",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.09.1945"
+    },
+    {
+        "nombre": "Otacílio",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.11.1972"
+    },
+    {
+        "nombre": "Otávio",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.02.1995"
+    },
+    {
+        "nombre": "Abou Ouattara",
+        "pais": "Burkina Faso",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.12.1999"
+    },
+    {
+        "nombre": "Zié Ouattara",
+        "pais": "Costa de Marfil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.01.2000"
+    },
+    {
+        "nombre": "David Paas",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.02.1971"
+    },
+    {
+        "nombre": "Paíto",
+        "pais": "Mozambique",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.07.1982"
+    },
+    {
+        "nombre": "Paiva",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.07.1980"
+    },
+    {
+        "nombre": "Paiva",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.02.1973"
+    },
+    {
+        "nombre": "Jerome Palatsi",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.12.1969"
+    },
+    {
+        "nombre": "Palecas",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.09.1966"
+    },
+    {
+        "nombre": "Paquito",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.09.1960"
+    },
+    {
+        "nombre": "Paulão",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.12.1973"
+    },
+    {
+        "nombre": "Paulinho Cascavel",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.09.1959"
+    },
+    {
+        "nombre": "Paulino Silva",
+        "pais": "Angola",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.09.1957"
+    },
+    {
+        "nombre": "Paulo Adriano",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.03.1977"
+    },
+    {
+        "nombre": "Paulo Bento",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.06.1969"
+    },
+    {
+        "nombre": "Paulo César",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.01.1980"
+    },
+    {
+        "nombre": "Paulo Fonseca",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.03.1973"
+    },
+    {
+        "nombre": "Paulo Gomes",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.03.1975"
+    },
+    {
+        "nombre": "Paulo Henrique",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.04.1987"
+    },
+    {
+        "nombre": "Paulo Jorge",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.02.1963"
+    },
+    {
+        "nombre": "Paulo Jorge",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.03.1964"
+    },
+    {
+        "nombre": "Paulo Oliveira",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.01.1992"
+    },
+    {
+        "nombre": "Paulo Pereira",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.08.1965"
+    },
+    {
+        "nombre": "Paulo Ricardo",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.05.1960"
+    },
+    {
+        "nombre": "Paulo Sérgio",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.01.1984"
+    },
+    {
+        "nombre": "Paulo Sérgio",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.03.1976"
+    },
+    {
+        "nombre": "Paulo Turra",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.11.1973"
+    },
+    {
+        "nombre": "Pedras",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.10.1941"
+    },
+    {
+        "nombre": "Pedro Barbosa",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.08.1970"
+    },
+    {
+        "nombre": "Pedro Correia",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.03.1987"
+    },
+    {
+        "nombre": "Pedro Espinha",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.09.1965"
+    },
+    {
+        "nombre": "Pedro Freitas",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "31.08.1986"
+    },
+    {
+        "nombre": "Pedro Henrique",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.12.1992"
+    },
+    {
+        "nombre": "Pedro Lemos",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1993"
+    },
+    {
+        "nombre": "Pedro Martins",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.07.1970"
+    },
+    {
+        "nombre": "Pedro Mendes",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.02.1979"
+    },
+    {
+        "nombre": "Pedro Oliveira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.09.1970"
+    },
+    {
+        "nombre": "Peixoto",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.12.1970"
+    },
+    {
+        "nombre": "Pelé",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.09.1987"
+    },
+    {
+        "nombre": "Pêpê",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.05.1997"
+    },
+    {
+        "nombre": "Pepelu",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.08.1998"
+    },
+    {
+        "nombre": "Peres",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.06.1956"
+    },
+    {
+        "nombre": "Thibang Phete",
+        "pais": "Sudáfrica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.04.1994"
+    },
+    {
+        "nombre": "Pintassilgo",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.06.1985"
+    },
+    {
+        "nombre": "Pinto",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.04.1986"
+    },
+    {
+        "nombre": "Alex Pinto",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.07.1998"
+    },
+    {
+        "nombre": "Nii Plange",
+        "pais": "Burkina Faso",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.06.1989"
+    },
+    {
+        "nombre": "Denis Poha",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.05.1997"
+    },
+    {
+        "nombre": "Preto",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.04.1993"
+    },
+    {
+        "nombre": "Preto Casagrande",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.05.1975"
+    },
+    {
+        "nombre": "Primo",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.08.1976"
+    },
+    {
+        "nombre": "Quim Berto",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.10.1971"
+    },
+    {
+        "nombre": "Quim Machado",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.10.1966"
+    },
+    {
+        "nombre": "Franck Rabarivony",
+        "pais": "Madagascar",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.11.1970"
+    },
+    {
+        "nombre": "Rabiola",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.07.1989"
+    },
+    {
+        "nombre": "Siniša Radanović",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.11.1979"
+    },
+    {
+        "nombre": "Rafa",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.01.1991"
+    },
+    {
+        "nombre": "Rafa Soares",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.05.1995"
+    },
+    {
+        "nombre": "Rafael",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.03.1989"
+    },
+    {
+        "nombre": "Rafael",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.06.1974"
+    },
+    {
+        "nombre": "Rafael Crivellaro",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.02.1989"
+    },
+    {
+        "nombre": "Rafael Miranda",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.08.1984"
+    },
+    {
+        "nombre": "Rafael Oliveira",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.09.2003"
+    },
+    {
+        "nombre": "Ramires",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.03.1976"
+    },
+    {
+        "nombre": "Raphinha",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.12.1996"
+    },
+    {
+        "nombre": "Reguila",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "22.04.1969"
+    },
+    {
+        "nombre": "Renan",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.06.1986"
+    },
+    {
+        "nombre": "Renan",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.03.1985"
+    },
+    {
+        "nombre": "Renê Weber",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.07.1961"
+    },
+    {
+        "nombre": "Ricardo",
+        "pais": "Cabo Verde",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.08.1980"
+    },
+    {
+        "nombre": "Ricardo Gomes",
+        "pais": "Cabo Verde",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.12.1991"
+    },
+    {
+        "nombre": "Ricardo Jorge",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.08.1969"
+    },
+    {
+        "nombre": "Ricardo Lopes",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.12.1968"
+    },
+    {
+        "nombre": "Ricardo Pereira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.10.1993"
+    },
+    {
+        "nombre": "Ricardo Quaresma",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.09.1983"
+    },
+    {
+        "nombre": "Ricardo Silva",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.09.1975"
+    },
+    {
+        "nombre": "Ricardo Valente",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.04.1991"
+    },
+    {
+        "nombre": "Sebastián Rincón",
+        "pais": "Colombia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.01.1994"
+    },
+    {
+        "nombre": "Rissutt",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.01.1977"
+    },
+    {
+        "nombre": "Riva",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.09.1970"
+    },
+    {
+        "nombre": "Emanuel Rivas",
+        "pais": "Argentina",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.03.1983"
+    },
+    {
+        "nombre": "Roberto",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.07.1978"
+    },
+    {
+        "nombre": "Rochinha",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.05.1995"
+    },
+    {
+        "nombre": "Rodrigo Defendi",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.06.1986"
+    },
+    {
+        "nombre": "Rogério Matias",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.10.1974"
+    },
+    {
+        "nombre": "Roldão",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.10.1959"
+    },
+    {
+        "nombre": "Romeu",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.10.1974"
+    },
+    {
+        "nombre": "Romeu",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.09.1975"
+    },
+    {
+        "nombre": "Romeu Silva",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.03.1954"
+    },
+    {
+        "nombre": "Rômulo",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.06.1992"
+    },
+    {
+        "nombre": "Rúben",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.02.1990"
+    },
+    {
+        "nombre": "Rúben Lameiras",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.12.1994"
+    },
+    {
+        "nombre": "Rúben Oliveira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.12.1994"
+    },
+    {
+        "nombre": "Rubens Júnior",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.01.1975"
+    },
+    {
+        "nombre": "Rui Correia",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.02.2002"
+    },
+    {
+        "nombre": "Rui Ferreira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.03.1973"
+    },
+    {
+        "nombre": "Rui Lopes",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.03.1953"
+    },
+    {
+        "nombre": "Rui Miguel",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.11.1983"
+    },
+    {
+        "nombre": "Rui Rodrigues",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.05.1943"
+    },
+    {
+        "nombre": "Rui Vieira",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.05.1962"
+    },
+    {
+        "nombre": "Ruivo",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.04.1977"
+    },
+    {
+        "nombre": "Russiano",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.09.1959"
+    },
+    {
+        "nombre": "Falaye Sacko",
+        "pais": "Malí",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.05.1995"
+    },
+    {
+        "nombre": "Marek Saganowski",
+        "pais": "Polonia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.10.1978"
+    },
+    {
+        "nombre": "Sami",
+        "pais": "Guinea-Bissau",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.12.1988"
+    },
+    {
+        "nombre": "Samuel",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.08.1966"
+    },
+    {
+        "nombre": "Santana",
+        "pais": "Angola",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.06.1983"
+    },
+    {
+        "nombre": "Santos",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.03.1957"
+    },
+    {
+        "nombre": "Bakary Saré",
+        "pais": "Burkina Faso",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.04.1990"
+    },
+    {
+        "nombre": "Mauricio Saucedo",
+        "pais": "Bolivia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.08.1985"
+    },
+    {
+        "nombre": "Selmir",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.08.1979"
+    },
+    {
+        "nombre": "Sereno",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.05.1985"
+    },
+    {
+        "nombre": "Serginho",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.10.1993"
+    },
+    {
+        "nombre": "Serginho",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "06.12.1982"
+    },
+    {
+        "nombre": "Sérgio",
+        "pais": "Angola",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.02.1968"
+    },
+    {
+        "nombre": "Sérgio Júnior",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.02.1979"
+    },
+    {
+        "nombre": "Sérgio Lomba",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.08.1973"
+    },
+    {
+        "nombre": "Silva",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.02.1942"
+    },
+    {
+        "nombre": "Silvinho",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.11.1958"
+    },
+    {
+        "nombre": "Silvino",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.03.1959"
+    },
+    {
+        "nombre": "Sílvio",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.09.1987"
+    },
+    {
+        "nombre": "Romano Sion",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.06.1971"
+    },
+    {
+        "nombre": "Frederik Söderström",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.01.1973"
+    },
+    {
+        "nombre": "Hillal Soudani",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.11.1987"
+    },
+    {
+        "nombre": "Sousa",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.08.1947"
+    },
+    {
+        "nombre": "Suéliton",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.06.1991"
+    },
+    {
+        "nombre": "Easah Suliman",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.01.1998"
+    },
+    {
+        "nombre": "Sebastian Svärd",
+        "pais": "Dinamarca",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.01.1983"
+    },
+    {
+        "nombre": "Junior Tallo",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.12.1992"
+    },
+    {
+        "nombre": "Tanta",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.12.1964"
+    },
+    {
+        "nombre": "Edmond Tapsoba",
+        "pais": "Burkina Faso",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1999"
+    },
+    {
+        "nombre": "Oumar Tchomogo",
+        "pais": "Benin",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.01.1978"
+    },
+    {
+        "nombre": "Teixeirinha",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.06.1957"
+    },
+    {
+        "nombre": "David Texeira",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.02.1991"
+    },
+    {
+        "nombre": "Tiago Alencar",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.07.1986"
+    },
+    {
+        "nombre": "Tiago Almeida",
+        "pais": "Cabo Verde",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.09.1990"
+    },
+    {
+        "nombre": "Tiago Martins",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.09.1998"
+    },
+    {
+        "nombre": "Tiago Rodrigues",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.01.1992"
+    },
+    {
+        "nombre": "Tiago Ronaldo",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.12.1988"
+    },
+    {
+        "nombre": "Tiago Silva",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.06.1993"
+    },
+    {
+        "nombre": "Tiago Targino",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.06.1986"
+    },
+    {
+        "nombre": "Nicolas Tié",
+        "pais": "Costa de Marfil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.02.2001"
+    },
+    {
+        "nombre": "William Tiero",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.12.1980"
+    },
+    {
+        "nombre": "Tiquinho Soares",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.01.1991"
+    },
+    {
+        "nombre": "Tito",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.05.1972"
+    },
+    {
+        "nombre": "Ziad Tlemcani",
+        "pais": "Túnez",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.05.1963"
+    },
+    {
+        "nombre": "Tomané",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.10.1992"
+    },
+    {
+        "nombre": "Tomás Händel",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.11.2000"
+    },
+    {
+        "nombre": "Tomas Tomic",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.01.1977"
+    },
+    {
+        "nombre": "Toniño",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.08.1971"
+    },
+    {
+        "nombre": "Tony",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.12.1980"
+    },
+    {
+        "nombre": "Mamadou Tounkara",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.12.2001"
+    },
+    {
+        "nombre": "Blati Touré",
+        "pais": "Burkina Faso",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.08.1994"
+    },
+    {
+        "nombre": "Lassina Touré",
+        "pais": "Burkina Faso",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.02.1992"
+    },
+    {
+        "nombre": "Tozé",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.01.1955"
+    },
+    {
+        "nombre": "Tózé",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1993"
+    },
+    {
+        "nombre": "Tozé",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.09.1965"
+    },
+    {
+        "nombre": "Adama Traoré",
+        "pais": "Costa de Marfil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.02.1990"
+    },
+    {
+        "nombre": "Matouš Trmal",
+        "pais": "República Checa",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.10.1998"
+    },
+    {
+        "nombre": "Uri Rosell",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.07.1992"
+    },
+    {
+        "nombre": "Jonathan Urretaviscaya",
+        "pais": "Uruguay",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.03.1990"
+    },
+    {
+        "nombre": "Valdomiro",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.02.1979"
+    },
+    {
+        "nombre": "Valério",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.08.1962"
+    },
+    {
+        "nombre": "Patrick Vervoort",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.01.1965"
+    },
+    {
+        "nombre": "Vicente Belmondo",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.02.1951"
+    },
+    {
+        "nombre": "Victor Andrade",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.09.1995"
+    },
+    {
+        "nombre": "Vieira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.06.1991"
+    },
+    {
+        "nombre": "Mikel Villanueva",
+        "pais": "Venezuela",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.04.1993"
+    },
+    {
+        "nombre": "Vinha",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.03.1965"
+    },
+    {
+        "nombre": "Vinícius",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.12.1973"
+    },
+    {
+        "nombre": "Vítor Bastos",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.05.1990"
+    },
+    {
+        "nombre": "Vítor Damas",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.10.1947"
+    },
+    {
+        "nombre": "Vítor Manuel",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.05.1951"
+    },
+    {
+        "nombre": "Vítor Moreno",
+        "pais": "Cabo Verde",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.11.1980"
+    },
+    {
+        "nombre": "Vítor Nóvoa",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.08.1962"
+    },
+    {
+        "nombre": "Vítor Nuno",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.04.1975"
+    },
+    {
+        "nombre": "Vítor Paneira",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.02.1966"
+    },
+    {
+        "nombre": "Vítor Pontes",
+        "pais": "Portugal",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.08.1962"
+    },
+    {
+        "nombre": "Vítor Santos",
+        "pais": "Portugal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.09.1965"
+    },
+    {
+        "nombre": "Vitor Silva",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.10.1968"
+    },
+    {
+        "nombre": "Ljubomir Vorkapić",
+        "pais": "Serbia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.02.1967"
+    },
+    {
+        "nombre": "Alhassan Wakaso",
+        "pais": "Ghana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.01.1992"
+    },
+    {
+        "nombre": "Walter",
+        "pais": "Angola",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.11.1967"
+    },
+    {
+        "nombre": "Wellington",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.08.1985"
+    },
+    {
+        "nombre": "Welthon",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.06.1992"
+    },
+    {
+        "nombre": "Wênio",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.09.1979"
+    },
+    {
+        "nombre": "Wesley",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.11.1980"
+    },
+    {
+        "nombre": "William",
+        "pais": "Brasil",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.12.1967"
+    },
+    {
+        "nombre": "Willian",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.07.1982"
+    },
+    {
+        "nombre": "Maxwell Woledzi",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.07.2001"
+    },
+    {
+        "nombre": "Julius Woobay",
+        "pais": "Sierra Leona",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.05.1984"
+    },
+    {
+        "nombre": "Xande Silva",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.03.1997"
+    },
+    {
+        "nombre": "Aziz Yakubu",
+        "pais": "Ghana",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.11.1998"
+    },
+    {
+        "nombre": "Zlatko Zahovič",
+        "pais": "Eslovenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.02.1971"
+    },
+    {
+        "nombre": "Zé Carlos",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.10.2001"
+    },
+    {
+        "nombre": "Zé Carlos",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.02.1962"
+    },
+    {
+        "nombre": "Zé Nando",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.04.1975"
+    },
+    {
+        "nombre": "Zezé Gomes",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.03.1960"
+    },
+    {
+        "nombre": "Zézinho",
+        "pais": "Brasil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.02.1948"
+    },
+    {
+        "nombre": "Zézinho",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.03.1983"
+    },
+    {
+        "nombre": "Kirill Zinovich",
+        "pais": "Bielorrusia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.03.2003"
+    },
+    {
+        "nombre": "Zito",
+        "pais": "Angola",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.07.1971"
+    },
+    {
+        "nombre": "Nassim Zitouni",
+        "pais": "Argelia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.03.1994"
+    },
+    {
+        "nombre": "Bongani Zungu",
+        "pais": "Sudáfrica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.10.1992"
+    }
+]

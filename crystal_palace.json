@@ -1,0 +1,3800 @@
+[
+    {
+        "nombre": "Tayo Adaramola",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.11.2003"
+    },
+    {
+        "nombre": "Emmanuel Adebayor",
+        "pais": "Togo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.02.1984"
+    },
+    {
+        "nombre": "Dele Adebola",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.06.1975"
+    },
+    {
+        "nombre": "Adler Nascimento",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.11.2004"
+    },
+    {
+        "nombre": "Kemy Agustien",
+        "pais": "Curazao",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.08.1986"
+    },
+    {
+        "nombre": "Naouirou Ahamada",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.03.2002"
+    },
+    {
+        "nombre": "Ade Akinbiyi",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.10.1974"
+    },
+    {
+        "nombre": "Neil Alexander",
+        "pais": "Escocia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.03.1978"
+    },
+    {
+        "nombre": "Clive Allen",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.05.1961"
+    },
+    {
+        "nombre": "Darren Ambrose",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.02.1984"
+    },
+    {
+        "nombre": "Shola Ameobi",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.10.1981"
+    },
+    {
+        "nombre": "David Amsalem",
+        "pais": "Israel",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.09.1971"
+    },
+    {
+        "nombre": "Joachim Andersen",
+        "pais": "Dinamarca",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.05.1996"
+    },
+    {
+        "nombre": "Leif Andersen",
+        "pais": "Noruega",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.04.1971"
+    },
+    {
+        "nombre": "Keshi Anderson",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.04.1995"
+    },
+    {
+        "nombre": "André Moritz",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.08.1986"
+    },
+    {
+        "nombre": "Calvin Andrew",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.12.1986"
+    },
+    {
+        "nombre": "George Andrew",
+        "pais": "Escocia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.11.1945"
+    },
+    {
+        "nombre": "Wayne Andrews",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.11.1977"
+    },
+    {
+        "nombre": "Will Antwi",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.10.1982"
+    },
+    {
+        "nombre": "Kwesi Appiah",
+        "pais": "Ghana",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.08.1990"
+    },
+    {
+        "nombre": "Chris Armstrong",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.06.1971"
+    },
+    {
+        "nombre": "Nathan Ashton",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.01.1987"
+    },
+    {
+        "nombre": "Dean Austin",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.04.1970"
+    },
+    {
+        "nombre": "Terry Austin",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.02.1954"
+    },
+    {
+        "nombre": "Jordan Ayew",
+        "pais": "Ghana",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.09.1991"
+    },
+    {
+        "nombre": "Trevor Aylott",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.11.1957"
+    },
+    {
+        "nombre": "Kofi Balmer",
+        "pais": "Irlanda del Norte",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.09.2000"
+    },
+    {
+        "nombre": "Patrick Bamford",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.09.1993"
+    },
+    {
+        "nombre": "Neil Banfield",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.01.1962"
+    },
+    {
+        "nombre": "Rikki Banks",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.05.1988"
+    },
+    {
+        "nombre": "Scott Banks",
+        "pais": "Escocia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.09.2001"
+    },
+    {
+        "nombre": "Barry Bannan",
+        "pais": "Escocia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.12.1989"
+    },
+    {
+        "nombre": "Jack Bannister",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.01.1942"
+    },
+    {
+        "nombre": "Jason Banton",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.12.1992"
+    },
+    {
+        "nombre": "Phil Barber",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.06.1965"
+    },
+    {
+        "nombre": "Andrew Barnes",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.03.1967"
+    },
+    {
+        "nombre": "Adam Barrett",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.11.1979"
+    },
+    {
+        "nombre": "Paul Barron",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.09.1953"
+    },
+    {
+        "nombre": "Roy Barry",
+        "pais": "Escocia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.09.1942"
+    },
+    {
+        "nombre": "Per Bartram",
+        "pais": "Dinamarca",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.01.1944"
+    },
+    {
+        "nombre": "Brian Bason",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.09.1955"
+    },
+    {
+        "nombre": "Michy Batshuayi",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.10.1993"
+    },
+    {
+        "nombre": "Laurence Batty",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.02.1964"
+    },
+    {
+        "nombre": "Craig Beattie",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.01.1984"
+    },
+    {
+        "nombre": "Robert Bell",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.10.1950"
+    },
+    {
+        "nombre": "Trevor Benjamin",
+        "pais": "Jamaica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.02.1979"
+    },
+    {
+        "nombre": "Julian Bennett",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.12.1984"
+    },
+    {
+        "nombre": "Marcus Bent",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.05.1978"
+    },
+    {
+        "nombre": "Christian Benteke",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.12.1990"
+    },
+    {
+        "nombre": "Jonathan Benteke",
+        "pais": "Bélgica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.04.1995"
+    },
+    {
+        "nombre": "Gregg Berhalter",
+        "pais": "Estados Unidos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.08.1973"
+    },
+    {
+        "nombre": "Tyrone Berry",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.03.1987"
+    },
+    {
+        "nombre": "Cédric Berthelin",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.12.1976"
+    },
+    {
+        "nombre": "Patrizio Billio",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.04.1974"
+    },
+    {
+        "nombre": "Jerome Binnom-Williams",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.03.1995"
+    },
+    {
+        "nombre": "Billy Birch",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.10.1944"
+    },
+    {
+        "nombre": "Alan Birchenall",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.08.1945"
+    },
+    {
+        "nombre": "Tommy Black",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.11.1979"
+    },
+    {
+        "nombre": "Darcy Blake",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.12.1988"
+    },
+    {
+        "nombre": "Melvyn Blyth",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.07.1944"
+    },
+    {
+        "nombre": "David Boateng",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.05.2001"
+    },
+    {
+        "nombre": "Hiram Boateng",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.01.1996"
+    },
+    {
+        "nombre": "Paul Bodin",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.09.1964"
+    },
+    {
+        "nombre": "Jeroen Boere",
+        "pais": "Países Bajos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.11.1967"
+    },
+    {
+        "nombre": "Yannick Bolasie",
+        "pais": "R.D. Congo",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.05.1989"
+    },
+    {
+        "nombre": "Ivano Bonetti",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.08.1964"
+    },
+    {
+        "nombre": "Gary Borrowdale",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.07.1985"
+    },
+    {
+        "nombre": "John Bostock",
+        "pais": "Trinidad y Tobago",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.01.1992"
+    },
+    {
+        "nombre": "Jeff Bourne",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.06.1948"
+    },
+    {
+        "nombre": "Bobby Bowry",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.05.1971"
+    },
+    {
+        "nombre": "Daniel Boxall",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.08.1977"
+    },
+    {
+        "nombre": "Emmerson Boyce",
+        "pais": "Barbados",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.09.1979"
+    },
+    {
+        "nombre": "Terence Boyle",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.10.1958"
+    },
+    {
+        "nombre": "Lee Bradbury",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.07.1975"
+    },
+    {
+        "nombre": "Mark Bright",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.06.1962"
+    },
+    {
+        "nombre": "Tomas Brolin",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.11.1969"
+    },
+    {
+        "nombre": "Shaun Brooks",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.10.1962"
+    },
+    {
+        "nombre": "Hugh Brophy",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.09.1948"
+    },
+    {
+        "nombre": "Alistair Brown",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.04.1951"
+    },
+    {
+        "nombre": "Kenny Brown",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.07.1967"
+    },
+    {
+        "nombre": "Paul Brush",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.02.1958"
+    },
+    {
+        "nombre": "David Burke",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.08.1960"
+    },
+    {
+        "nombre": "Tony Burns",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.03.1944"
+    },
+    {
+        "nombre": "John Burridge",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.12.1951"
+    },
+    {
+        "nombre": "Sagi Burton",
+        "pais": "San Cristóbal y Nieves",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.11.1977"
+    },
+    {
+        "nombre": "Jack Butland",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.03.1993"
+    },
+    {
+        "nombre": "Danny Butterfield",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.11.1979"
+    },
+    {
+        "nombre": "Jacob Butterfield",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.06.1990"
+    },
+    {
+        "nombre": "Yohan Cabaye",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.01.1986"
+    },
+    {
+        "nombre": "Kieron Cadogan",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.08.1990"
+    },
+    {
+        "nombre": "Gary Cahill",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.12.1985"
+    },
+    {
+        "nombre": "Fraizer Campbell",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.09.1987"
+    },
+    {
+        "nombre": "James Cannon",
+        "pais": "Escocia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.10.1953"
+    },
+    {
+        "nombre": "Jake Caprice",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.11.1992"
+    },
+    {
+        "nombre": "Nick Carle",
+        "pais": "Australia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.11.1981"
+    },
+    {
+        "nombre": "Wayne Carlisle",
+        "pais": "Irlanda del Norte",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.09.1979"
+    },
+    {
+        "nombre": "Cédric Carrasso",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.12.1981"
+    },
+    {
+        "nombre": "Jimmy Carter",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.11.1965"
+    },
+    {
+        "nombre": "Leslie Carter",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.10.1960"
+    },
+    {
+        "nombre": "John Cartwright",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.11.1940"
+    },
+    {
+        "nombre": "Marouane Chamakh",
+        "pais": "Marruecos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.01.1984"
+    },
+    {
+        "nombre": "Michael Chambers",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.06.1994"
+    },
+    {
+        "nombre": "Steve Claridge",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.04.1966"
+    },
+    {
+        "nombre": "Matt Clarke",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.11.1973"
+    },
+    {
+        "nombre": "Nathaniel Clyne",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.04.1991"
+    },
+    {
+        "nombre": "Ashley Cole",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.12.1980"
+    },
+    {
+        "nombre": "Chris Coleman",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.06.1970"
+    },
+    {
+        "nombre": "Stan Collymore",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "22.01.1971"
+    },
+    {
+        "nombre": "James Comley",
+        "pais": "Montserrat",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.01.1991"
+    },
+    {
+        "nombre": "Charlie Cooke",
+        "pais": "Escocia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.10.1942"
+    },
+    {
+        "nombre": "Leon Cort",
+        "pais": "Guyana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.09.1979"
+    },
+    {
+        "nombre": "Couñago",
+        "pais": "España",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.08.1979"
+    },
+    {
+        "nombre": "Ian Cox",
+        "pais": "Trinidad y Tobago",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.03.1971"
+    },
+    {
+        "nombre": "Tony Craig",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.04.1985"
+    },
+    {
+        "nombre": "John Craven",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.05.1947"
+    },
+    {
+        "nombre": "Luke Croll",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.01.1995"
+    },
+    {
+        "nombre": "Lance Cronin",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.09.1985"
+    },
+    {
+        "nombre": "Jason Crowe",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.09.1978"
+    },
+    {
+        "nombre": "Reece Crowther",
+        "pais": "Australia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.11.1988"
+    },
+    {
+        "nombre": "Stan Cummins",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.12.1958"
+    },
+    {
+        "nombre": "Jason Cundy",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.11.1969"
+    },
+    {
+        "nombre": "Sasa Ćurčić",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.02.1972"
+    },
+    {
+        "nombre": "Andrew Cyrus",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.09.1976"
+    },
+    {
+        "nombre": "James Daly",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.2000"
+    },
+    {
+        "nombre": "Kadell Daniel",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.06.1994"
+    },
+    {
+        "nombre": "Scott Dann",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.02.1987"
+    },
+    {
+        "nombre": "Neil Danns",
+        "pais": "Guyana",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.11.1982"
+    },
+    {
+        "nombre": "Anthony Danze",
+        "pais": "Australia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.03.1984"
+    },
+    {
+        "nombre": "Kevin Dare",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.11.1959"
+    },
+    {
+        "nombre": "Edgar Davids",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.03.1973"
+    },
+    {
+        "nombre": "Andrew Davies",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.12.1984"
+    },
+    {
+        "nombre": "Gareth Davies",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.12.1973"
+    },
+    {
+        "nombre": "Wyn Davies",
+        "pais": "Gales",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.03.1942"
+    },
+    {
+        "nombre": "Claude Davis",
+        "pais": "Jamaica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.03.1979"
+    },
+    {
+        "nombre": "Trevor Dawkins",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.10.1945"
+    },
+    {
+        "nombre": "Chris Day",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.07.1975"
+    },
+    {
+        "nombre": "James Dayton",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.12.1988"
+    },
+    {
+        "nombre": "Fernando De Ornelas",
+        "pais": "Venezuela",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "29.07.1976"
+    },
+    {
+        "nombre": "Kyle De Silva",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.11.1993"
+    },
+    {
+        "nombre": "Walter Del Río",
+        "pais": "Argentina",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.06.1976"
+    },
+    {
+        "nombre": "Damien Delaney",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.07.1981"
+    },
+    {
+        "nombre": "Mark Dennis",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.05.1961"
+    },
+    {
+        "nombre": "Shaun Derry",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.12.1977"
+    },
+    {
+        "nombre": "Paul Dickov",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.11.1972"
+    },
+    {
+        "nombre": "Diego Cavalieri",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.12.1982"
+    },
+    {
+        "nombre": "Fraser Digby",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "23.01.1967"
+    },
+    {
+        "nombre": "Kagisho Dikgacoi",
+        "pais": "Sudáfrica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "24.11.1984"
+    },
+    {
+        "nombre": "Aruna Dindane",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.11.1980"
+    },
+    {
+        "nombre": "Kieran Djilali",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.01.1991"
+    },
+    {
+        "nombre": "Stephen Dobbie",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.12.1982"
+    },
+    {
+        "nombre": "Andy Dorman",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.05.1982"
+    },
+    {
+        "nombre": "Cheick Doucouré",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.01.2000"
+    },
+    {
+        "nombre": "Iain Dowie",
+        "pais": "Irlanda del Norte",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.01.1965"
+    },
+    {
+        "nombre": "Kevin Doyle",
+        "pais": "Irlanda",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.09.1983"
+    },
+    {
+        "nombre": "Luke Dreher",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.11.1998"
+    },
+    {
+        "nombre": "Micky Droy",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.05.1951"
+    },
+    {
+        "nombre": "Mustapha Dumbuya",
+        "pais": "Sierra Leona",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.08.1987"
+    },
+    {
+        "nombre": "Alex Dyer",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.11.1965"
+    },
+    {
+        "nombre": "Bruce Dyer",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.04.1975"
+    },
+    {
+        "nombre": "Connor Dymond",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.09.1994"
+    },
+    {
+        "nombre": "Jermaine Easter",
+        "pais": "Gales",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.01.1982"
+    },
+    {
+        "nombre": "Malcolm Ebiowei",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.09.2003"
+    },
+    {
+        "nombre": "Odsonne Édouard",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.01.1998"
+    },
+    {
+        "nombre": "Christian Edwards",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.11.1975"
+    },
+    {
+        "nombre": "Rob Edwards",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.12.1982"
+    },
+    {
+        "nombre": "Robert Edwards",
+        "pais": "Gales",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.01.1955"
+    },
+    {
+        "nombre": "Marc Edworthy",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.12.1972"
+    },
+    {
+        "nombre": "John Egan",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.10.1992"
+    },
+    {
+        "nombre": "Mandela Egbo",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.08.1997"
+    },
+    {
+        "nombre": "Neil Emblen",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.06.1971"
+    },
+    {
+        "nombre": "Björn Enqvist",
+        "pais": "Suecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.10.1977"
+    },
+    {
+        "nombre": "Johannes Ertl",
+        "pais": "Austria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.11.1982"
+    },
+    {
+        "nombre": "Ian Evans",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.01.1952"
+    },
+    {
+        "nombre": "Steve Evans",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.09.1980"
+    },
+    {
+        "nombre": "Tony Evans",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.01.1954"
+    },
+    {
+        "nombre": "Eberechi Eze",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.06.1998"
+    },
+    {
+        "nombre": "Zhiyi Fan",
+        "pais": "China",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.01.1970"
+    },
+    {
+        "nombre": "John Fashanu",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.09.1962"
+    },
+    {
+        "nombre": "Terry Fenwick",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.11.1959"
+    },
+    {
+        "nombre": "Nathan Ferguson",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.10.2000"
+    },
+    {
+        "nombre": "Tony Finnigan",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.10.1962"
+    },
+    {
+        "nombre": "Ross Fitzsimons",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.05.1994"
+    },
+    {
+        "nombre": "Darryl Flahavan",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.11.1978"
+    },
+    {
+        "nombre": "Mathieu Flamini",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.03.1984"
+    },
+    {
+        "nombre": "Mike Flanagan",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.11.1952"
+    },
+    {
+        "nombre": "Curtis Fleming",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.10.1968"
+    },
+    {
+        "nombre": "Carl Fletcher",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.04.1980"
+    },
+    {
+        "nombre": "Scott Flinders",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.06.1986"
+    },
+    {
+        "nombre": "Wes Foderingham",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "14.01.1991"
+    },
+    {
+        "nombre": "Anthony Folan",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.09.1978"
+    },
+    {
+        "nombre": "Mikael Forssell",
+        "pais": "Finlandia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.03.1981"
+    },
+    {
+        "nombre": "Craig Foster",
+        "pais": "Australia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.04.1969"
+    },
+    {
+        "nombre": "Timothy Fosu-Mensah",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.01.1998"
+    },
+    {
+        "nombre": "Andy Frampton",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1979"
+    },
+    {
+        "nombre": "Gerry Francis",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.12.1951"
+    },
+    {
+        "nombre": "Enzo Frangiamore",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.08.1966"
+    },
+    {
+        "nombre": "Arron Fray",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.05.1987"
+    },
+    {
+        "nombre": "Dougie Freedman",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.05.1974"
+    },
+    {
+        "nombre": "David Fry",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.01.1960"
+    },
+    {
+        "nombre": "Ezekiel Fryers",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.09.1992"
+    },
+    {
+        "nombre": "James Fullarton",
+        "pais": "Escocia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.07.1974"
+    },
+    {
+        "nombre": "Ricardo Fuller",
+        "pais": "Jamaica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.10.1979"
+    },
+    {
+        "nombre": "Fumaca",
+        "pais": "Brasil",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.05.1973"
+    },
+    {
+        "nombre": "Marco Gabbiadini",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.01.1968"
+    },
+    {
+        "nombre": "Daniel Gabbidon",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.08.1979"
+    },
+    {
+        "nombre": "Tony Gale",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.11.1959"
+    },
+    {
+        "nombre": "Conor Gallagher",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.02.2000"
+    },
+    {
+        "nombre": "Steve Galliers",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.08.1957"
+    },
+    {
+        "nombre": "Steve Galloway",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.02.1963"
+    },
+    {
+        "nombre": "Anthony Gardner",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.09.1980"
+    },
+    {
+        "nombre": "Owen Garvan",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.01.1988"
+    },
+    {
+        "nombre": "Dwight Gayle",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.10.1989"
+    },
+    {
+        "nombre": "Terry Gennoe",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.03.1953"
+    },
+    {
+        "nombre": "Billy Gilbert",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.11.1959"
+    },
+    {
+        "nombre": "David Giles",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.09.1954"
+    },
+    {
+        "nombre": "Rory Ginty",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.01.1977"
+    },
+    {
+        "nombre": "Jimmy Glass",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.08.1973"
+    },
+    {
+        "nombre": "Bill Glazier",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.08.1943"
+    },
+    {
+        "nombre": "Robert Goldthorpe",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.12.1950"
+    },
+    {
+        "nombre": "Gary Goodchild",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.01.1958"
+    },
+    {
+        "nombre": "Scott Gooding",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.01.1982"
+    },
+    {
+        "nombre": "Owen Goodman",
+        "pais": "Canadá",
+        "posicion": "Portero",
+        "fecha_nacimiento": "27.11.2003"
+    },
+    {
+        "nombre": "David Goodwillie",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.03.1989"
+    },
+    {
+        "nombre": "Samuel Goodwin",
+        "pais": "Escocia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.03.1943"
+    },
+    {
+        "nombre": "Dean Gordon",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.02.1973"
+    },
+    {
+        "nombre": "John-Kymani Gordon",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.02.2003"
+    },
+    {
+        "nombre": "Lewis Grabban",
+        "pais": "Jamaica",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.01.1988"
+    },
+    {
+        "nombre": "Gareth Graham",
+        "pais": "Irlanda del Norte",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.12.1978"
+    },
+    {
+        "nombre": "George Graham",
+        "pais": "Escocia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.11.1944"
+    },
+    {
+        "nombre": "Elliot Grandin",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.10.1987"
+    },
+    {
+        "nombre": "Danny Granville",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.01.1975"
+    },
+    {
+        "nombre": "Andy Gray",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.02.1964"
+    },
+    {
+        "nombre": "Jake Gray",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.12.1995"
+    },
+    {
+        "nombre": "Julian Gray",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.09.1979"
+    },
+    {
+        "nombre": "Stuart Green",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.06.1981"
+    },
+    {
+        "nombre": "Matt Gregg",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "30.11.1978"
+    },
+    {
+        "nombre": "Dean Greygoose",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.12.1964"
+    },
+    {
+        "nombre": "Léandre Griffit",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.05.1984"
+    },
+    {
+        "nombre": "Guaita",
+        "pais": "España",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.01.1987"
+    },
+    {
+        "nombre": "Adlène Guédioura",
+        "pais": "Argelia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.11.1985"
+    },
+    {
+        "nombre": "Marc Guéhi",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.07.2000"
+    },
+    {
+        "nombre": "Gareth Gwillim",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.01.1983"
+    },
+    {
+        "nombre": "Fitz Hall",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.12.1980"
+    },
+    {
+        "nombre": "Ryan Hall",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.01.1988"
+    },
+    {
+        "nombre": "John Halls",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.02.1982"
+    },
+    {
+        "nombre": "Paul Hammond",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.07.1953"
+    },
+    {
+        "nombre": "Brede Hangeland",
+        "pais": "Noruega",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "20.06.1981"
+    },
+    {
+        "nombre": "Sean Hankin",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.02.1981"
+    },
+    {
+        "nombre": "Reece Hannam",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.09.2000"
+    },
+    {
+        "nombre": "Rachid Harkouk",
+        "pais": "Argelia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.05.1956"
+    },
+    {
+        "nombre": "Paul Harries",
+        "pais": "Australia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "19.11.1977"
+    },
+    {
+        "nombre": "Jason Harris",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.11.1976"
+    },
+    {
+        "nombre": "Mark Harris",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.07.1963"
+    },
+    {
+        "nombre": "Richard Harris",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.10.1980"
+    },
+    {
+        "nombre": "Craig Harrison",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.11.1977"
+    },
+    {
+        "nombre": "Gary Hateley",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.12.1982"
+    },
+    {
+        "nombre": "Tony Hazell",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.09.1947"
+    },
+    {
+        "nombre": "Paul Heald",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.09.1968"
+    },
+    {
+        "nombre": "Rudi Hedman",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.11.1964"
+    },
+    {
+        "nombre": "Gavin Heeroo",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.09.1984"
+    },
+    {
+        "nombre": "Stephen Henderson",
+        "pais": "Irlanda",
+        "posicion": "Portero",
+        "fecha_nacimiento": "02.05.1988"
+    },
+    {
+        "nombre": "Wayne Hennessey",
+        "pais": "Gales",
+        "posicion": "Portero",
+        "fecha_nacimiento": "24.01.1987"
+    },
+    {
+        "nombre": "Dion Henry",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.09.1997"
+    },
+    {
+        "nombre": "James Hibburt",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.10.1979"
+    },
+    {
+        "nombre": "Vincent Hilaire",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.10.1959"
+    },
+    {
+        "nombre": "Clint Hill",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.10.1978"
+    },
+    {
+        "nombre": "Mick Hill",
+        "pais": "Gales",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.12.1947"
+    },
+    {
+        "nombre": "Lee Hills",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.04.1990"
+    },
+    {
+        "nombre": "Martin Hinshelwood",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.06.1953"
+    },
+    {
+        "nombre": "Paul Hinshelwood",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.08.1956"
+    },
+    {
+        "nombre": "Phil Hoadley",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.01.1952"
+    },
+    {
+        "nombre": "Glyn Hodges",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.04.1963"
+    },
+    {
+        "nombre": "Roy Hodgson",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.08.1947"
+    },
+    {
+        "nombre": "Phil Holder",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.01.1952"
+    },
+    {
+        "nombre": "Jack Holland",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.03.1992"
+    },
+    {
+        "nombre": "Charlie Holness",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.02.1992"
+    },
+    {
+        "nombre": "John Holsgrove",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.09.1945"
+    },
+    {
+        "nombre": "David Hopkin",
+        "pais": "Escocia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.08.1970"
+    },
+    {
+        "nombre": "Jeff Hopkins",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.04.1964"
+    },
+    {
+        "nombre": "Steve Horvat",
+        "pais": "Australia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.03.1971"
+    },
+    {
+        "nombre": "Ray Houghton",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.01.1962"
+    },
+    {
+        "nombre": "Terry Howard",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.02.1966"
+    },
+    {
+        "nombre": "Richard Howell",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.08.1982"
+    },
+    {
+        "nombre": "Roger Hoy",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.12.1946"
+    },
+    {
+        "nombre": "Hermann Hreiðarsson",
+        "pais": "Islandia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.07.1974"
+    },
+    {
+        "nombre": "Mark Hudson",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1982"
+    },
+    {
+        "nombre": "Billy Hughes",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.07.1960"
+    },
+    {
+        "nombre": "Jeff Hughes",
+        "pais": "Irlanda del Norte",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.05.1985"
+    },
+    {
+        "nombre": "Michael Hughes",
+        "pais": "Irlanda del Norte",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.08.1971"
+    },
+    {
+        "nombre": "Will Hughes",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.04.1995"
+    },
+    {
+        "nombre": "Yogi Hughes",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.04.1943"
+    },
+    {
+        "nombre": "John Humphrey",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.01.1961"
+    },
+    {
+        "nombre": "Gerald Humphreys",
+        "pais": "Gales",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.01.1946"
+    },
+    {
+        "nombre": "David Hunt",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.09.1982"
+    },
+    {
+        "nombre": "Jack Hunt",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.12.1990"
+    },
+    {
+        "nombre": "Stephen Hunt",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.08.1981"
+    },
+    {
+        "nombre": "Noor Husin",
+        "pais": "Afganistán",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.03.1997"
+    },
+    {
+        "nombre": "Roger Hynd",
+        "pais": "Escocia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.02.1942"
+    },
+    {
+        "nombre": "Besian Idrizaj",
+        "pais": "Austria",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.10.1987"
+    },
+    {
+        "nombre": "Paul Ifill",
+        "pais": "Barbados",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.10.1979"
+    },
+    {
+        "nombre": "Tom Ince",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.01.1992"
+    },
+    {
+        "nombre": "Ryan Inniss",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.06.1995"
+    },
+    {
+        "nombre": "Alan Irvine",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.07.1958"
+    },
+    {
+        "nombre": "Valérien Ismaël",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.09.1975"
+    },
+    {
+        "nombre": "Steffen Iversen",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.11.1976"
+    },
+    {
+        "nombre": "Jarosław Jach",
+        "pais": "Polonia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.02.1994"
+    },
+    {
+        "nombre": "Cliff Jackson",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.09.1941"
+    },
+    {
+        "nombre": "John Jackson",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.09.1942"
+    },
+    {
+        "nombre": "Matt Jansen",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.10.1977"
+    },
+    {
+        "nombre": "Mile Jedinak",
+        "pais": "Australia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.08.1984"
+    },
+    {
+        "nombre": "Derek Jeffries",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.03.1951"
+    },
+    {
+        "nombre": "Ross Jenkins",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.11.1951"
+    },
+    {
+        "nombre": "Cameron Jerome",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.08.1986"
+    },
+    {
+        "nombre": "Stern John",
+        "pais": "Santa Lucía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.10.1976"
+    },
+    {
+        "nombre": "Andy Johnson",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.02.1981"
+    },
+    {
+        "nombre": "Jeff Johnson",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.11.1953"
+    },
+    {
+        "nombre": "Sam Johnstone",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.03.1993"
+    },
+    {
+        "nombre": "Chris Jones",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.04.1956"
+    },
+    {
+        "nombre": "José Campaña",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.05.1993"
+    },
+    {
+        "nombre": "José Fonte",
+        "pais": "Portugal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.12.1983"
+    },
+    {
+        "nombre": "Stewart Jump",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "21.01.1952"
+    },
+    {
+        "nombre": "Steve Kabba",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.03.1981"
+    },
+    {
+        "nombre": "Sullay Kaikai",
+        "pais": "Sierra Leona",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.08.1995"
+    },
+    {
+        "nombre": "Amir Karič",
+        "pais": "Eslovenia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.12.1973"
+    },
+    {
+        "nombre": "Iván Kaviedes",
+        "pais": "Ecuador",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.10.1977"
+    },
+    {
+        "nombre": "Jimmy Kébé",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.01.1984"
+    },
+    {
+        "nombre": "Dekel Keinan",
+        "pais": "Israel",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.09.1984"
+    },
+    {
+        "nombre": "Bobby Kellard",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.03.1943"
+    },
+    {
+        "nombre": "Martin Kelly",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.04.1990"
+    },
+    {
+        "nombre": "Robert Kember",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.08.1981"
+    },
+    {
+        "nombre": "Stephen Kember",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.12.1948"
+    },
+    {
+        "nombre": "Mark Kennedy",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.05.1976"
+    },
+    {
+        "nombre": "Chris Kettings",
+        "pais": "Escocia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "25.10.1992"
+    },
+    {
+        "nombre": "Gábor Király",
+        "pais": "Hungría",
+        "posicion": "Portero",
+        "fecha_nacimiento": "01.04.1976"
+    },
+    {
+        "nombre": "Nya Kirby",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.01.2000"
+    },
+    {
+        "nombre": "Jovan Kirovski",
+        "pais": "Estados Unidos",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.03.1976"
+    },
+    {
+        "nombre": "Paul Kitson",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.01.1971"
+    },
+    {
+        "nombre": "Aleksandrs Koļinko",
+        "pais": "Letonia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.06.1975"
+    },
+    {
+        "nombre": "Joonas Kolkka",
+        "pais": "Finlandia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.09.1974"
+    },
+    {
+        "nombre": "Omar Kossoko",
+        "pais": "Benin",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.03.1988"
+    },
+    {
+        "nombre": "Cheikhou Kouyaté",
+        "pais": "Senegal",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.12.1989"
+    },
+    {
+        "nombre": "Ben Kudjodji",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.04.1989"
+    },
+    {
+        "nombre": "Shefki Kuqi",
+        "pais": "Finlandia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.11.1976"
+    },
+    {
+        "nombre": "John Lacy",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.08.1951"
+    },
+    {
+        "nombre": "Freddie Ladapo",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.02.1993"
+    },
+    {
+        "nombre": "Vassilios Lakis",
+        "pais": "Grecia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.09.1976"
+    },
+    {
+        "nombre": "Tommy Langley",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "08.02.1958"
+    },
+    {
+        "nombre": "Brian Launders",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.06.1976"
+    },
+    {
+        "nombre": "Matthew Lawrence",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.06.1974"
+    },
+    {
+        "nombre": "Stephen Leahy",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.09.1959"
+    },
+    {
+        "nombre": "Joe Ledley",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.01.1987"
+    },
+    {
+        "nombre": "Alan Lee",
+        "pais": "Irlanda",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.08.1978"
+    },
+    {
+        "nombre": "Chung-yong Lee",
+        "pais": "Corea del Sur",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.07.1988"
+    },
+    {
+        "nombre": "David Lee",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.11.1969"
+    },
+    {
+        "nombre": "Mikele Leigertwood",
+        "pais": "Antigua y Barbuda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.11.1982"
+    },
+    {
+        "nombre": "Brian Lewis",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.01.1943"
+    },
+    {
+        "nombre": "Andy Linighan",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1962"
+    },
+    {
+        "nombre": "Glen Little",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "15.10.1975"
+    },
+    {
+        "nombre": "Gary Locke",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.07.1954"
+    },
+    {
+        "nombre": "Ruben Loftus-Cheek",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.01.1996"
+    },
+    {
+        "nombre": "Jason Lokilo",
+        "pais": "R.D. Congo",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.09.1998"
+    },
+    {
+        "nombre": "Albert Lokonga",
+        "pais": "Bélgica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.10.1999"
+    },
+    {
+        "nombre": "Attilio Lombardo",
+        "pais": "Italia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.1966"
+    },
+    {
+        "nombre": "John Loughlan",
+        "pais": "Escocia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.06.1943"
+    },
+    {
+        "nombre": "Steve Lovell",
+        "pais": "Gales",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.07.1960"
+    },
+    {
+        "nombre": "Lucas Perri",
+        "pais": "Brasil",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.12.1997"
+    },
+    {
+        "nombre": "Levi Lumeka",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.09.1998"
+    },
+    {
+        "nombre": "Kevin Mabbutt",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.12.1958"
+    },
+    {
+        "nombre": "Jon Macken",
+        "pais": "Irlanda",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.09.1977"
+    },
+    {
+        "nombre": "David Madden",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.1963"
+    },
+    {
+        "nombre": "Samuel Magri",
+        "pais": "Malta",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1994"
+    },
+    {
+        "nombre": "Gavin Mahon",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.01.1977"
+    },
+    {
+        "nombre": "Steve Mandanda",
+        "pais": "Francia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.03.1985"
+    },
+    {
+        "nombre": "Charlie Mann",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "1991"
+    },
+    {
+        "nombre": "Florian Marange",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.03.1986"
+    },
+    {
+        "nombre": "Adrian Mariappa",
+        "pais": "Jamaica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.10.1986"
+    },
+    {
+        "nombre": "Alex Marrow",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.01.1990"
+    },
+    {
+        "nombre": "Aaron Martin",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.09.1989"
+    },
+    {
+        "nombre": "Andrew Martin",
+        "pais": "Gales",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.02.1980"
+    },
+    {
+        "nombre": "Chris Martin",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.11.1988"
+    },
+    {
+        "nombre": "Dave Martin",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.06.1985"
+    },
+    {
+        "nombre": "Neil Martin",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.10.1940"
+    },
+    {
+        "nombre": "Nigel Martyn",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.08.1966"
+    },
+    {
+        "nombre": "Stuart Massey",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.11.1964"
+    },
+    {
+        "nombre": "Jean-Philippe Mateta",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.06.1997"
+    },
+    {
+        "nombre": "Damian Matthew",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.09.1970"
+    },
+    {
+        "nombre": "Remi Matthews",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.02.1994"
+    },
+    {
+        "nombre": "Steve Mautone",
+        "pais": "Australia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "10.08.1970"
+    },
+    {
+        "nombre": "Jobi McAnuff",
+        "pais": "Jamaica",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.11.1981"
+    },
+    {
+        "nombre": "James McArthur",
+        "pais": "Escocia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.10.1987"
+    },
+    {
+        "nombre": "Alex McCarthy",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "03.12.1989"
+    },
+    {
+        "nombre": "James McCarthy",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.11.1990"
+    },
+    {
+        "nombre": "Paddy McCarthy",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "31.05.1983"
+    },
+    {
+        "nombre": "Andy McCulloch",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.01.1950"
+    },
+    {
+        "nombre": "Ryan McGivern",
+        "pais": "Irlanda del Norte",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.01.1990"
+    },
+    {
+        "nombre": "Eddie McGoldrick",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.04.1965"
+    },
+    {
+        "nombre": "Gio McGregor",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.01.1999"
+    },
+    {
+        "nombre": "Derek McKay",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "13.12.1948"
+    },
+    {
+        "nombre": "Leon McKenzie",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.05.1978"
+    },
+    {
+        "nombre": "Paul McShane",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.01.1986"
+    },
+    {
+        "nombre": "Max Meyer",
+        "pais": "Alemania",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.09.1995"
+    },
+    {
+        "nombre": "Nikolaos Michopoulos",
+        "pais": "Grecia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "20.02.1970"
+    },
+    {
+        "nombre": "Luka Milivojević",
+        "pais": "Serbia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.04.1991"
+    },
+    {
+        "nombre": "Kevin Miller",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.03.1969"
+    },
+    {
+        "nombre": "Tony Millington",
+        "pais": "Gales",
+        "posicion": "Portero",
+        "fecha_nacimiento": "05.06.1943"
+    },
+    {
+        "nombre": "Bobby Mimms",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.10.1963"
+    },
+    {
+        "nombre": "Tyrick Mitchell",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.09.1999"
+    },
+    {
+        "nombre": "Jacob Montes",
+        "pais": "Estados Unidos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.10.1998"
+    },
+    {
+        "nombre": "Craig Moore",
+        "pais": "Australia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.12.1975"
+    },
+    {
+        "nombre": "Jamie Moralee",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.12.1971"
+    },
+    {
+        "nombre": "Andy Morrison",
+        "pais": "Escocia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.07.1970"
+    },
+    {
+        "nombre": "Clinton Morrison",
+        "pais": "Irlanda",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.05.1979"
+    },
+    {
+        "nombre": "Paul Mortimer",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.05.1968"
+    },
+    {
+        "nombre": "Victor Moses",
+        "pais": "Nigeria",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.12.1990"
+    },
+    {
+        "nombre": "Dean Moxey",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.01.1986"
+    },
+    {
+        "nombre": "Paddy Mulligan",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.03.1945"
+    },
+    {
+        "nombre": "Hayden Mullins",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "27.03.1979"
+    },
+    {
+        "nombre": "Jerry Murphy",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.09.1959"
+    },
+    {
+        "nombre": "Shaun Murphy",
+        "pais": "Australia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.11.1970"
+    },
+    {
+        "nombre": "Glenn Murray",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.09.1983"
+    },
+    {
+        "nombre": "Kevin Muscat",
+        "pais": "Australia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "07.08.1973"
+    },
+    {
+        "nombre": "Jordon Mutch",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "02.12.1991"
+    },
+    {
+        "nombre": "Thomas Myhre",
+        "pais": "Noruega",
+        "posicion": "Portero",
+        "fecha_nacimiento": "16.10.1973"
+    },
+    {
+        "nombre": "Alassane N'Diaye",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.02.1990"
+    },
+    {
+        "nombre": "Tariq Nabil",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.03.1985"
+    },
+    {
+        "nombre": "Carlo Nash",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "13.09.1973"
+    },
+    {
+        "nombre": "George Ndah",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.12.1974"
+    },
+    {
+        "nombre": "Gavin Nebbeling",
+        "pais": "Sudáfrica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.05.1963"
+    },
+    {
+        "nombre": "Ricky Newman",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "05.08.1970"
+    },
+    {
+        "nombre": "Peter Nicholas",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.11.1959"
+    },
+    {
+        "nombre": "Alex Nimely-Tchuimeni",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "11.05.1991"
+    },
+    {
+        "nombre": "Jerry Nnamani",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.10.1991"
+    },
+    {
+        "nombre": "Martin O'Connor",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.12.1967"
+    },
+    {
+        "nombre": "Ken O'Doherty",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.03.1963"
+    },
+    {
+        "nombre": "Stuart O'Keefe",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "04.03.1991"
+    },
+    {
+        "nombre": "Gary O'Reilly",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.03.1961"
+    },
+    {
+        "nombre": "Jonathan Obika",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "12.09.1990"
+    },
+    {
+        "nombre": "Michael Olise",
+        "pais": "Francia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.12.2001"
+    },
+    {
+        "nombre": "James Oliver",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.08.1949"
+    },
+    {
+        "nombre": "Gareth Ormshaw",
+        "pais": "Sudáfrica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.07.1979"
+    },
+    {
+        "nombre": "Simon Osborn",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.01.1972"
+    },
+    {
+        "nombre": "John Oster",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.12.1978"
+    },
+    {
+        "nombre": "David Ozoh",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "01.06.2005"
+    },
+    {
+        "nombre": "Michele Padovano",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "28.08.1966"
+    },
+    {
+        "nombre": "Alan Pardew",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.07.1961"
+    },
+    {
+        "nombre": "Brian Parkin",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.10.1965"
+    },
+    {
+        "nombre": "Jonathan Parr",
+        "pais": "Noruega",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "21.10.1988"
+    },
+    {
+        "nombre": "Frank Parsons",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.10.1947"
+    },
+    {
+        "nombre": "Matt Parsons",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.12.1991"
+    },
+    {
+        "nombre": "Darren Patterson",
+        "pais": "Irlanda del Norte",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.10.1969"
+    },
+    {
+        "nombre": "Anthony Paul",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.04.1961"
+    },
+    {
+        "nombre": "David Payne",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.04.1947"
+    },
+    {
+        "nombre": "Antonio Pedroza",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.02.1991"
+    },
+    {
+        "nombre": "John Pemberton",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.11.1964"
+    },
+    {
+        "nombre": "Glenn Pennyfather",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.02.1963"
+    },
+    {
+        "nombre": "Kleton Perntreou",
+        "pais": "Albania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "08.01.1995"
+    },
+    {
+        "nombre": "Gordan Petrić",
+        "pais": "Serbia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.07.1969"
+    },
+    {
+        "nombre": "Terry Phelan",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.03.1967"
+    },
+    {
+        "nombre": "Iain Phillip",
+        "pais": "Escocia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.02.1951"
+    },
+    {
+        "nombre": "John Phillips",
+        "pais": "Gales",
+        "posicion": "Portero",
+        "fecha_nacimiento": "07.07.1951"
+    },
+    {
+        "nombre": "Kevin Phillips",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.07.1973"
+    },
+    {
+        "nombre": "Killian Phillips",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "30.03.2002"
+    },
+    {
+        "nombre": "Michael Phillips",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "22.09.1997"
+    },
+    {
+        "nombre": "Brandon Pierrick",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.12.2001"
+    },
+    {
+        "nombre": "Alan Pinkney",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.01.1947"
+    },
+    {
+        "nombre": "Nathanial Pinney",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.11.1990"
+    },
+    {
+        "nombre": "Darren Pitcher",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.10.1969"
+    },
+    {
+        "nombre": "Luke Plange",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.11.2002"
+    },
+    {
+        "nombre": "Jamie Pollock",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.02.1974"
+    },
+    {
+        "nombre": "Tony Popovic",
+        "pais": "Australia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.07.1973"
+    },
+    {
+        "nombre": "Derek Possee",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.02.1946"
+    },
+    {
+        "nombre": "Chris Powell",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.09.1969"
+    },
+    {
+        "nombre": "Darren Powell",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.03.1976"
+    },
+    {
+        "nombre": "Andrew Preece",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.03.1967"
+    },
+    {
+        "nombre": "Eddie Presland",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "27.03.1943"
+    },
+    {
+        "nombre": "David Price",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.06.1955"
+    },
+    {
+        "nombre": "Lewis Price",
+        "pais": "Gales",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.07.1984"
+    },
+    {
+        "nombre": "David Provan",
+        "pais": "Escocia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.03.1941"
+    },
+    {
+        "nombre": "Jason Puncheon",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.06.1986"
+    },
+    {
+        "nombre": "Gerry Queen",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.01.1945"
+    },
+    {
+        "nombre": "Rob Quinn",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "08.11.1976"
+    },
+    {
+        "nombre": "Jesurun Rak-Sakyi",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.10.2002"
+    },
+    {
+        "nombre": "Erdal Rakip",
+        "pais": "Macedonia del Norte",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "13.02.1996"
+    },
+    {
+        "nombre": "Peter Ramage",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "22.11.1983"
+    },
+    {
+        "nombre": "Neil Redfearn",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.06.1965"
+    },
+    {
+        "nombre": "Marco Reich",
+        "pais": "Alemania",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.12.1977"
+    },
+    {
+        "nombre": "Kyel Reid",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.11.1987"
+    },
+    {
+        "nombre": "Loïc Rémy",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "02.01.1987"
+    },
+    {
+        "nombre": "Chris Richards",
+        "pais": "Estados Unidos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "28.03.2000"
+    },
+    {
+        "nombre": "Jazz Richards",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.04.1991"
+    },
+    {
+        "nombre": "Jaïro Riedewald",
+        "pais": "Países Bajos",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.09.1996"
+    },
+    {
+        "nombre": "Aki Riihilahti",
+        "pais": "Finlandia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.09.1976"
+    },
+    {
+        "nombre": "Nick Rizzo",
+        "pais": "Australia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "09.06.1979"
+    },
+    {
+        "nombre": "Andy Roberts",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "20.03.1974"
+    },
+    {
+        "nombre": "Ashley Robinson",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.12.1989"
+    },
+    {
+        "nombre": "Simon Rodger",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.10.1971"
+    },
+    {
+        "nombre": "Kaden Rodney",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.10.2004"
+    },
+    {
+        "nombre": "William Roffey",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.02.1954"
+    },
+    {
+        "nombre": "Don Rogers",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.10.1945"
+    },
+    {
+        "nombre": "Wayne Routledge",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "07.01.1985"
+    },
+    {
+        "nombre": "Andrejs Rubins",
+        "pais": "Letonia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.11.1978"
+    },
+    {
+        "nombre": "Neil Ruddock",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.05.1968"
+    },
+    {
+        "nombre": "Rui Fonte",
+        "pais": "Portugal",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.04.1990"
+    },
+    {
+        "nombre": "Mamadou Sakho",
+        "pais": "Francia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.02.1990"
+    },
+    {
+        "nombre": "Bakary Sako",
+        "pais": "Malí",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.04.1988"
+    },
+    {
+        "nombre": "John Salako",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.02.1969"
+    },
+    {
+        "nombre": "Yaya Sanogo",
+        "pais": "Francia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.01.1993"
+    },
+    {
+        "nombre": "Kenny Sansom",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.09.1958"
+    },
+    {
+        "nombre": "Sean Scannell",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "17.09.1990"
+    },
+    {
+        "nombre": "Sven Scheuer",
+        "pais": "Alemania",
+        "posicion": "Portero",
+        "fecha_nacimiento": "19.01.1971"
+    },
+    {
+        "nombre": "Jeffrey Schlupp",
+        "pais": "Ghana",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.12.1992"
+    },
+    {
+        "nombre": "Jimmy Scott",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.08.1940"
+    },
+    {
+        "nombre": "James Scowcroft",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.11.1975"
+    },
+    {
+        "nombre": "Tony Scully",
+        "pais": "Irlanda",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "12.06.1976"
+    },
+    {
+        "nombre": "Tony Sealy",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.05.1959"
+    },
+    {
+        "nombre": "Freddie Sears",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "27.11.1989"
+    },
+    {
+        "nombre": "Ibra Sekajja",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.10.1992"
+    },
+    {
+        "nombre": "Chris Sharpling",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.04.1981"
+    },
+    {
+        "nombre": "Richard Shaw",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.09.1968"
+    },
+    {
+        "nombre": "Charlie Sheringham",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "17.04.1988"
+    },
+    {
+        "nombre": "Neil Shipperley",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.10.1974"
+    },
+    {
+        "nombre": "Barry Silkman",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.06.1952"
+    },
+    {
+        "nombre": "Scott Sinclair",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "25.03.1989"
+    },
+    {
+        "nombre": "Lee Sinnott",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.07.1965"
+    },
+    {
+        "nombre": "Andy Smillie",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.03.1941"
+    },
+    {
+        "nombre": "Neil Smillie",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "19.07.1958"
+    },
+    {
+        "nombre": "Jamie Smith",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.09.1974"
+    },
+    {
+        "nombre": "Keith Smith",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "15.09.1940"
+    },
+    {
+        "nombre": "Ryan Smith",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.11.1986"
+    },
+    {
+        "nombre": "Tom Soares",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.07.1986"
+    },
+    {
+        "nombre": "Franck Songo'o",
+        "pais": "Camerún",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.05.1987"
+    },
+    {
+        "nombre": "Gonzalo Sorondo",
+        "pais": "Uruguay",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.10.1979"
+    },
+    {
+        "nombre": "Pape Souaré",
+        "pais": "Senegal",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.06.1990"
+    },
+    {
+        "nombre": "Gareth Southgate",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.09.1970"
+    },
+    {
+        "nombre": "Alexander Sørloth",
+        "pais": "Noruega",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.12.1995"
+    },
+    {
+        "nombre": "Brian Sparrow",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "24.06.1962"
+    },
+    {
+        "nombre": "Lewwis Spence",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "29.10.1987"
+    },
+    {
+        "nombre": "Julian Speroni",
+        "pais": "Argentina",
+        "posicion": "Portero",
+        "fecha_nacimiento": "18.05.1979"
+    },
+    {
+        "nombre": "Steve Staunton",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "19.01.1969"
+    },
+    {
+        "nombre": "Gary Stebbing",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.08.1965"
+    },
+    {
+        "nombre": "Alan Stephenson",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "26.09.1944"
+    },
+    {
+        "nombre": "Anthony Stokes",
+        "pais": "Irlanda",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.07.1988"
+    },
+    {
+        "nombre": "Robert Street",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "26.09.2001"
+    },
+    {
+        "nombre": "Perry Suckling",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "12.10.1965"
+    },
+    {
+        "nombre": "Neil Sullivan",
+        "pais": "Escocia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "24.02.1970"
+    },
+    {
+        "nombre": "Jihai Sun",
+        "pais": "China",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "30.09.1977"
+    },
+    {
+        "nombre": "Mathias Svensson",
+        "pais": "Suecia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.09.1974"
+    },
+    {
+        "nombre": "Moses Swaibu",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "09.05.1989"
+    },
+    {
+        "nombre": "David Swindlehurst",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "06.01.1956"
+    },
+    {
+        "nombre": "Kit Symons",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "08.03.1971"
+    },
+    {
+        "nombre": "Bobby Tambling",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.09.1941"
+    },
+    {
+        "nombre": "Nikola Tavares",
+        "pais": "Croacia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "17.01.1999"
+    },
+    {
+        "nombre": "Gareth Taylor",
+        "pais": "Gales",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "25.02.1973"
+    },
+    {
+        "nombre": "Peter Taylor",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.01.1953"
+    },
+    {
+        "nombre": "Quade Taylor",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.12.1993"
+    },
+    {
+        "nombre": "Stuart Taylor",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.11.1980"
+    },
+    {
+        "nombre": "Tony Taylor",
+        "pais": "Escocia",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.09.1946"
+    },
+    {
+        "nombre": "Geoff Thomas",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "05.08.1964"
+    },
+    {
+        "nombre": "Jerome Thomas",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.03.1983"
+    },
+    {
+        "nombre": "Martin Thomas",
+        "pais": "Gales",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.11.1959"
+    },
+    {
+        "nombre": "Simon Thomas",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.07.1984"
+    },
+    {
+        "nombre": "Garry Thompson",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.10.1959"
+    },
+    {
+        "nombre": "Steven Thomson",
+        "pais": "Escocia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "23.01.1978"
+    },
+    {
+        "nombre": "Andy Thorn",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "12.11.1966"
+    },
+    {
+        "nombre": "Børge Thorup",
+        "pais": "Dinamarca",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.10.1943"
+    },
+    {
+        "nombre": "Sam Togwell",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "14.10.1984"
+    },
+    {
+        "nombre": "James Tomkins",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.03.1989"
+    },
+    {
+        "nombre": "Leonard Tomkins",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.01.1949"
+    },
+    {
+        "nombre": "Sandor Torghelle",
+        "pais": "Hungría",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.05.1982"
+    },
+    {
+        "nombre": "Cenk Tosun",
+        "pais": "Turquía",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "07.06.1991"
+    },
+    {
+        "nombre": "Andros Townsend",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.07.1991"
+    },
+    {
+        "nombre": "Paul Trollope",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.06.1972"
+    },
+    {
+        "nombre": "Aleksandar Tunchev",
+        "pais": "Bulgaria",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "10.07.1981"
+    },
+    {
+        "nombre": "Joe Tupper",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "15.11.1997"
+    },
+    {
+        "nombre": "Andy Turner",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.03.1975"
+    },
+    {
+        "nombre": "Iain Turner",
+        "pais": "Escocia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.01.1984"
+    },
+    {
+        "nombre": "David Tuttle",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.02.1972"
+    },
+    {
+        "nombre": "Matthew Upson",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.04.1979"
+    },
+    {
+        "nombre": "Nico Vaesen",
+        "pais": "Bélgica",
+        "posicion": "Portero",
+        "fecha_nacimiento": "28.09.1969"
+    },
+    {
+        "nombre": "Patrick van Aanholt",
+        "pais": "Países Bajos",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.08.1990"
+    },
+    {
+        "nombre": "Thomas Vansittart",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "23.01.1950"
+    },
+    {
+        "nombre": "James Vaughan",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "14.07.1988"
+    },
+    {
+        "nombre": "Carl Veart",
+        "pais": "Australia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.05.1970"
+    },
+    {
+        "nombre": "Terry Venables",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "06.01.1943"
+    },
+    {
+        "nombre": "Nicola Ventola",
+        "pais": "Italia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "24.05.1978"
+    },
+    {
+        "nombre": "Kenny Verhoene",
+        "pais": "Bélgica",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "15.04.1973"
+    },
+    {
+        "nombre": "Steve Vickers",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.10.1967"
+    },
+    {
+        "nombre": "Víctor Camarasa",
+        "pais": "España",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "28.05.1994"
+    },
+    {
+        "nombre": "Jamie Vincent",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "18.06.1975"
+    },
+    {
+        "nombre": "Peter Wall",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.09.1944"
+    },
+    {
+        "nombre": "William Wallace",
+        "pais": "Escocia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "23.06.1940"
+    },
+    {
+        "nombre": "Ian Walsh",
+        "pais": "Gales",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "04.09.1958"
+    },
+    {
+        "nombre": "Aaron Wan-Bissaka",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.11.1997"
+    },
+    {
+        "nombre": "Darren Ward",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "13.09.1978"
+    },
+    {
+        "nombre": "Joel Ward",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "29.10.1989"
+    },
+    {
+        "nombre": "Paul Warhurst",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "26.09.1969"
+    },
+    {
+        "nombre": "Ben Watson",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.07.1985"
+    },
+    {
+        "nombre": "Grant Watts",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "05.11.1973"
+    },
+    {
+        "nombre": "Jack Wells-Morrison",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "18.02.2004"
+    },
+    {
+        "nombre": "Terence Wharton",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "01.07.1942"
+    },
+    {
+        "nombre": "Noel Whelan",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "30.12.1974"
+    },
+    {
+        "nombre": "Alan Whittle",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "10.03.1950"
+    },
+    {
+        "nombre": "David Whittle",
+        "pais": "Irlanda",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.12.1978"
+    },
+    {
+        "nombre": "Joe Whitworth",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "29.02.2004"
+    },
+    {
+        "nombre": "Chris Whyte",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "02.09.1961"
+    },
+    {
+        "nombre": "David Whyte",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "20.04.1971"
+    },
+    {
+        "nombre": "Connor Wickham",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "31.03.1993"
+    },
+    {
+        "nombre": "Stephen Wicks",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "03.10.1956"
+    },
+    {
+        "nombre": "Rhoys Wiggins",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "04.11.1987"
+    },
+    {
+        "nombre": "Aaron Wilbraham",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "21.10.1979"
+    },
+    {
+        "nombre": "Ray Wilkins",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "14.09.1956"
+    },
+    {
+        "nombre": "David Wilkinson",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "17.04.1987"
+    },
+    {
+        "nombre": "Gareth Williams",
+        "pais": "Gales",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.09.1982"
+    },
+    {
+        "nombre": "Jonny Williams",
+        "pais": "Gales",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.10.1993"
+    },
+    {
+        "nombre": "Paul Williams",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.08.1965"
+    },
+    {
+        "nombre": "Rhys Wilmot",
+        "pais": "Gales",
+        "posicion": "Portero",
+        "fecha_nacimiento": "21.02.1962"
+    },
+    {
+        "nombre": "Glenn Wilson",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "16.03.1986"
+    },
+    {
+        "nombre": "Teerathep Winothai",
+        "pais": "Tailandia",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "16.02.1985"
+    },
+    {
+        "nombre": "George Wood",
+        "pais": "Escocia",
+        "posicion": "Portero",
+        "fecha_nacimiento": "26.09.1952"
+    },
+    {
+        "nombre": "Andy Woodman",
+        "pais": "Inglaterra",
+        "posicion": "Portero",
+        "fecha_nacimiento": "11.08.1971"
+    },
+    {
+        "nombre": "Bobby Woodruff",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "09.11.1940"
+    },
+    {
+        "nombre": "Charles Woods",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "18.03.1941"
+    },
+    {
+        "nombre": "Sam Woods",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "11.09.1998"
+    },
+    {
+        "nombre": "David Woozley",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "06.12.1979"
+    },
+    {
+        "nombre": "David Wright",
+        "pais": "Inglaterra",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "01.05.1980"
+    },
+    {
+        "nombre": "Ian Wright",
+        "pais": "Inglaterra",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "03.11.1963"
+    },
+    {
+        "nombre": "Alex Wynter",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "16.09.1993"
+    },
+    {
+        "nombre": "Ben Wynter",
+        "pais": "Inglaterra",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "11.12.1997"
+    },
+    {
+        "nombre": "Ernie Yard",
+        "pais": "Escocia",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "03.05.1941"
+    },
+    {
+        "nombre": "Eric Young",
+        "pais": "Gales",
+        "posicion": "Defensa",
+        "fecha_nacimiento": "25.03.1960"
+    },
+    {
+        "nombre": "Wilfried Zaha",
+        "pais": "Costa de Marfil",
+        "posicion": "Delantero",
+        "fecha_nacimiento": "10.11.1992"
+    },
+    {
+        "nombre": "Itzhaq Zohar",
+        "pais": "Israel",
+        "posicion": "Centrocampista",
+        "fecha_nacimiento": "31.10.1970"
+    }
+]
